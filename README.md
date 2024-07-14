@@ -39,5 +39,5 @@ All of this wouldn't be possible if it weren't for:
 
 - [Meliodas](https://github.com/Melioli)
 - [Manashiku](https://github.com/Manashiku)
-- Yuki
+- [Yuki](https://mega.nz/folder/7npCRQBZ#_cjuVigipluBjV-CC7rX6A)
 - [Razmoth](https://github.com/Razmoth)
