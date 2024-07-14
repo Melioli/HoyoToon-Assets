@@ -13,6 +13,8 @@
 
 > [!WARNING]
 These assets serve as a central repository for files supporting games that utilize [HoyoToon](https://github.com/Melioli/HoyoToon) shaders.
+> 
+> These are raw assets and still require you to process them through [Hoyo2VRC](https://github.com/Melioli/Hoyo2VRC).
 
 ## Supported Games
 
