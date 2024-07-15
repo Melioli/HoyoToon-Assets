@@ -12,8 +12,8 @@
 ## Assets
 
 > [!WARNING]
-These assets serve as a central repository for files supporting games that utilize [HoyoToon](https://github.com/Melioli/HoyoToon) shaders.
-> 
+> These assets serve as a central repository for files supporting games that utilize [HoyoToon](https://github.com/Melioli/HoyoToon) shaders.
+>
 > These are raw assets and still require you to process them through [Hoyo2VRC](https://github.com/Melioli/Hoyo2VRC).
 
 ## Supported Games
@@ -25,16 +25,14 @@ These assets serve as a central repository for files supporting games that utili
 
 ## Game Specfic Info
 
-> [!NOTE]
-> **Honkai Impact**
-> 
+> [!NOTE] > **Honkai Impact**
+>
 > HI3 handles file storage really weird, I simply cannot organize and or make it easier for you than I've already done. Images have been placed but will not always be accurate.
 >
->  Many thanks to Yuki :D
+> Many thanks to Yuki :D
 
-> [!NOTE]
-> **Wuthering Waves**
-> 
+> [!NOTE] > **Wuthering Waves**
+>
 > These are ripped using FModel QA build.
 >
 > The original uemodel files are uploaded as well as a converted FBX model when possible.
@@ -44,9 +42,8 @@ These assets serve as a central repository for files supporting games that utili
 > If you want to open the uemodel's on your own, you can load them using the [Blender plugin](https://github.com/halfuwu/UEFormat).
 >
 > I personally do not know all the character names, but if you do, feel free to update their names and make a pull request.
-> 
->  Many thanks to Mana :D
-
+>
+> Many thanks to Mana :D
 
 ## Contact
 
