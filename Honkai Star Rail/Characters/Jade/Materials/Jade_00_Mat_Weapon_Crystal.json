@@ -1,0 +1,698 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 5742752585497941953,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_DiffuseRampMultiTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": -868084227570951558,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_DissolveMap",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_DissolveMask",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_InnerNormalCubeMap",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_InnerNormalCubeMap_CatHead",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_LightMap",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": -6252879101089947318,
+            "Name": "",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_NormalMap",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ParallaxTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": -3415290010859919966,
+            "Name": "Avatar_Jade_00_Weapon_ParallaxMap",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_RefractionCubeMap",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_Angle",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Angle_CatHead",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BloomIntensity",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CharacterToonRampModeCompensation",
+        "Value": 0.8
+      },
+      {
+        "Key": "_CullMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DiamondScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DiamondScale_CatHead",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DissolveDistortionIntensity",
+        "Value": 0.01
+      },
+      {
+        "Key": "_DissolveMapAdd",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DissolveOutlineOffset",
+        "Value": 0.76
+      },
+      {
+        "Key": "_DissolveOutlineSize1",
+        "Value": 0.05
+      },
+      {
+        "Key": "_DissolveOutlineSize2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DissolveRate",
+        "Value": 0.152
+      },
+      {
+        "Key": "_DissolveUV",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DissoveDirecMask",
+        "Value": 2.0
+      },
+      {
+        "Key": "_DissoveON",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 0.5
+      },
+      {
+        "Key": "_DstBlend",
+        "Value": 0.0
+      },
+      {
+        "Key": "_EnableBackRimLight",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FresnelColorStrength",
+        "Value": 1.0
+      },
+      {
+        "Key": "_IOR",
+        "Value": 1.4
+      },
+      {
+        "Key": "_IOR_CatHead",
+        "Value": 1.4
+      },
+      {
+        "Key": "_NormalScale",
+        "Value": 1.03
+      },
+      {
+        "Key": "_Opaqueness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Outline",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlineNormalFrom",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OutlinePolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlinePolygonOffsetUnits",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlineWidth",
+        "Value": 0.02
+      },
+      {
+        "Key": "_ParallaxAlpha",
+        "Value": 2.61
+      },
+      {
+        "Key": "_ParallaxScale",
+        "Value": 0.5
+      },
+      {
+        "Key": "_PolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PolygonOffsetUnits",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RGBSpread",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RGBSpread_CatHead",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ReceiveShadows",
+        "Value": 1.0
+      },
+      {
+        "Key": "_RenderingMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RimDarken0",
+        "Value": 1.0
+      },
+      {
+        "Key": "_RimEdgeSoftness0",
+        "Value": 0.1
+      },
+      {
+        "Key": "_RimFeatherWidth",
+        "Value": 0.01
+      },
+      {
+        "Key": "_RimLight",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RimShadow",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RimShadowCt",
+        "Value": 1.0
+      },
+      {
+        "Key": "_RimShadowFeather0",
+        "Value": 0.31
+      },
+      {
+        "Key": "_RimShadowIntensity",
+        "Value": 1.0
+      },
+      {
+        "Key": "_RimShadowWidth0",
+        "Value": 1.0
+      },
+      {
+        "Key": "_RimType0",
+        "Value": 1.0
+      },
+      {
+        "Key": "_RimWidth",
+        "Value": 3.0
+      },
+      {
+        "Key": "_RimWidth0",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Rimintensity",
+        "Value": 3.0
+      },
+      {
+        "Key": "_ShadowIntensity",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShadowRamp",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SpecularColor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecularIntensity",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SpecularIntensity0",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SpecularShininess",
+        "Value": 6.0
+      },
+      {
+        "Key": "_SpecularShininess0",
+        "Value": 0.085
+      },
+      {
+        "Key": "_SrcBlend",
+        "Value": 1.0
+      },
+      {
+        "Key": "_StencilComp",
+        "Value": 8.0
+      },
+      {
+        "Key": "_StencilOP",
+        "Value": 2.0
+      },
+      {
+        "Key": "_StencilRef",
+        "Value": 16.0
+      },
+      {
+        "Key": "_UseNormalMap",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseParallaxMap",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ZWrite",
+        "Value": 1.0
+      },
+      {
+        "Key": "_mBloomIntensity0",
+        "Value": 0.02
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_DissolveComponent",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DissolveOutlineColor1",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_DissolveOutlineColor2",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DissolveOutlineSmoothStep",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DissolveST",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DissolveUVSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DistortionST",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_FinalOffset",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_FinalOffset_CatHead",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_FresnelBSI",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_FresnelColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MainMaps_ST",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_OutlineColor0",
+        "Value": {
+          "r": 0.4433962,
+          "g": 0.09853249,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ParallaxMap_ST",
+        "Value": {
+          "r": -0.7,
+          "g": -0.7,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractionTexTilingOffset",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractionTexTilingOffset_CatHead",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractionTintColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RefractionTintColor_CatHead",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimColor0",
+        "Value": {
+          "r": 0.34901962,
+          "g": 0.16470589,
+          "b": 0.16470589,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimOffset",
+        "Value": {
+          "r": 0.1,
+          "g": 0.1,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RimShadowColor0",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimShadowOffset",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_SpecularColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecularColor0",
+        "Value": {
+          "r": 0.85882354,
+          "g": 0.7716116,
+          "b": 0.60117644,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Jade_00_Mat_Weapon_Crystal",
+  "Name": "Jade_00_Mat_Weapon_Crystal"
+}

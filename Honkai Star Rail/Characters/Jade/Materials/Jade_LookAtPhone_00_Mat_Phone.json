@@ -1,0 +1,204 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 3883215492012054971,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 3299656902545361134,
+            "Name": "Jade_LookAtPhone_00_Tex_Phone_Color",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_EmissionIntensity",
+        "Value": 0.5
+      },
+      {
+        "Key": "_EmissionThreshold",
+        "Value": 0.2
+      },
+      {
+        "Key": "_OutlinePolygonOffsetFactor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlinePolygonOffsetUnits",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlineWidth",
+        "Value": 0.02
+      },
+      {
+        "Key": "_ScreenLineInst",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScreenNoiseInst",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScreenNoiseseed2",
+        "Value": 0.1
+      },
+      {
+        "Key": "_ShadowFeather",
+        "Value": 0.3
+      },
+      {
+        "Key": "_ShadowThreshold",
+        "Value": 0.3
+      },
+      {
+        "Key": "_SpecularIntensity0",
+        "Value": 0.5
+      },
+      {
+        "Key": "_SpecularRoughness0",
+        "Value": 0.35
+      },
+      {
+        "Key": "_SpecularShininess0",
+        "Value": 19.0
+      },
+      {
+        "Key": "_SpecularThreshold",
+        "Value": 0.079
+      },
+      {
+        "Key": "_UsingAtlasFace",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UsingDitherAlpha",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UsingScreenEffect",
+        "Value": 0.0
+      },
+      {
+        "Key": "_mBloomIntensity0",
+        "Value": 0.02
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_AtlasDivision",
+        "Value": {
+          "r": 3.0,
+          "g": 3.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_BrightDiffuseColor",
+        "Value": {
+          "r": 0.9622641,
+          "g": 0.9622641,
+          "b": 0.9622641,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CharacterLocalMainLightPack1",
+        "Value": {
+          "r": 10000.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MainMaps_ST",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_OutlineColor0",
+        "Value": {
+          "r": 0.10305307,
+          "g": 0.20754719,
+          "b": 0.0244749,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ScreenLineST",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_ScreenNoiseST",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_ShadowDiffuseColor",
+        "Value": {
+          "r": 0.7264151,
+          "g": 0.7264151,
+          "b": 0.7264151,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecularColor0",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "Jade_LookAtPhone_00_Mat_Phone",
+  "Name": "Jade_LookAtPhone_00_Mat_Phone"
+}

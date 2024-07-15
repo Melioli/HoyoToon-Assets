@@ -1,0 +1,52 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3947362193666101140,
+    "Name": "miHoYo/CRP_Character/GlassEdges",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": null,
+    "m_Floats": {
+      "_CullModeIn": 2.0,
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 10.0,
+      "_EdgeOpaqueness": 1.0,
+      "_EdgeWidthout": 0.169,
+      "_GlassFrsnIn": 4.0,
+      "_InsideWidth": 0.0,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlineWidth": 0.075,
+      "_RenderingMode": 0.0,
+      "_RimPower": 1.0,
+      "_SrcBlend": 5.0,
+      "_StencilPass": 2.0,
+      "_StencilRefIn": 11.0,
+      "_StencilRefOut": 11.0,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_GlassColorI": {
+        "r": 1.2596959,
+        "g": 1.2596959,
+        "b": 1.2596959,
+        "a": 1.0
+      },
+      "_GlassColorU": {
+        "r": 0.13207549,
+        "g": 0.039248846,
+        "b": 0.061281826,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Sparkle_00_Mat_Body_Glass",
+  "Name": "Sparkle_00_Mat_Body_Glass"
+}

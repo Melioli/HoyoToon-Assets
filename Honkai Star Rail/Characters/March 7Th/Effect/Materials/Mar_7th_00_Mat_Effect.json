@@ -1,0 +1,93 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 19838428335503444,
+    "Name": "miHoYo/CRP_Character/Spectrum",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 7845424999579585118,
+          "Name": "Avatar_Mar_7th_00_Effect",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SpectrumTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 0.7,
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 10.0,
+      "_EmissionScaler": 1.0,
+      "_EmissionScalerScalerWithoutHDR": 1.0,
+      "_MinAlpha": 0.428,
+      "_Opaqueness": 1.0,
+      "_OpaquenessScalerWithoutHDR": 1.0,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlineWidth": 0.2,
+      "_RenderingMode": 0.0,
+      "_Scale": 0.01,
+      "_SpectrumIntensity": 1.25,
+      "_SpectrumRangeOffset": 0.116,
+      "_SpectrumRangeScaler": 1.0,
+      "_SpectrumViewDistance": 5.0,
+      "_SrcBlend": 5.0,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.5613208,
+        "g": 0.75600505,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.49056602,
+        "g": 0.3679245,
+        "b": 0.3679245,
+        "a": 1.0
+      },
+      "_SpectrumFresnel": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Mar_7th_00_Mat_Effect",
+  "Name": "Mar_7th_00_Mat_Effect"
+}

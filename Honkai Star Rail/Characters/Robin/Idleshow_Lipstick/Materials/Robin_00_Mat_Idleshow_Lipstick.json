@@ -1,0 +1,433 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 687829150442288869,
+    "Name": "miHoYo/CRP_Character/CharacterNPCBase",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AlphaTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 3735876679396832428,
+          "Name": "Avatar_Robin_00_Idleshow_Lipstick_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ReplacedPartsTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_StockRangeTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaCutoff": 0.5,
+      "_BloomIntensity": 0.0,
+      "_CullMode": 2.0,
+      "_CustomColor": 0.0,
+      "_DisableWorldSpaceGradient": 0.0,
+      "_DissolveDistortionIntensity": 0.01,
+      "_DissolveMapAdd": 0.0,
+      "_DissolveOutlineOffset": 0.0,
+      "_DissolveOutlineSize1": 0.05,
+      "_DissolveOutlineSize2": 0.0,
+      "_DissolvePosMaskFilpOn": 0.0,
+      "_DissolvePosMaskGlobalOn": 0.0,
+      "_DissolvePosMaskOn": 0.0,
+      "_DissolvePosMaskWorldON": 0.0,
+      "_DissolveRate": 0.0,
+      "_DissolveUV": 0.0,
+      "_DissolveUseDirection": 0.0,
+      "_DissoveDirecMask": 2.0,
+      "_DissoveON": 0.0,
+      "_DitherAlpha": 0.088,
+      "_DstBlend": 1.0,
+      "_EmissionIntensity": 0.0,
+      "_EmissionThreshold": 1.0,
+      "_EnableAlphaCutoff": 0.0,
+      "_EnableDualFace": 0.0,
+      "_EnableStocking": 0.0,
+      "_FresnelColorStrength": 1.0,
+      "_HideCharaParts": 0.0,
+      "_HideNPCParts": 0.0,
+      "_IsMonster": 0.0,
+      "_OneMinusCharacterOutlineWidthScale": 0.0,
+      "_Opaqueness": 1.0,
+      "_Outline": 0.0,
+      "_OutlineColorIntensity": 0.0,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlinePolygonOffsetFactor": 0.5,
+      "_OutlinePolygonOffsetUnits": 0.0,
+      "_OutlineWidth": 0.03,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnits": 0.0,
+      "_ReceiveShadows": 0.0,
+      "_RenderingMode": 0.0,
+      "_RimFeatherWidth": 0.01,
+      "_RimIntensityDark": 0.5,
+      "_RimLight": 0.0,
+      "_RimWidth0": 0.0,
+      "_ShadowFeather": 0.05,
+      "_ShadowThreshold": 0.55,
+      "_ShowID0": 0.0,
+      "_ShowID1": 0.0,
+      "_ShowID2": 0.0,
+      "_ShowID3": 0.0,
+      "_ShowID4": 0.0,
+      "_ShowID5": 0.0,
+      "_ShowID6": 0.0,
+      "_ShowID7": 0.0,
+      "_ShowPartID": 0.0,
+      "_SpecularIntensity": 1.0,
+      "_SpecularShininess": 10.0,
+      "_SpecularThreshold": 1.0,
+      "_SrcBlend": 1.0,
+      "_StencilComp": 8.0,
+      "_StencilOP": 2.0,
+      "_StencilRef": 16.0,
+      "_StockDarkWidth": 0.5,
+      "_StockRoughness": 1.0,
+      "_StockSP": 0.25,
+      "_Stockpower": 1.0,
+      "_Stockpower1": 1.0,
+      "_Stockthickness": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_ZWrite": 1.0,
+      "_mBloomIntensity0": 0.1,
+      "_mBloomIntensity1": 0.02,
+      "_mBloomIntensity2": 0.1,
+      "_mBloomIntensity3": 0.2,
+      "_mBloomIntensity4": 0.2,
+      "_mBloomIntensity5": 0.4,
+      "_mBloomIntensity6": 0.02,
+      "_mBloomIntensity7": 0.4
+    },
+    "m_Colors": {
+      "_BackColor": {
+        "r": 0.7169812,
+        "g": 0.6391955,
+        "b": 0.6463759,
+        "a": 1.0
+      },
+      "_BrightDiffuseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CharaWorldSpaceOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor0": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor10": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor11": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor12": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor13": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor6": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor7": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor8": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomColor9": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomSkinColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomSkinColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomSkinDarkColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomSkinLightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DissolveCenter": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveComponent": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveDiretcionXYZ": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveMap_ST": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveOutlineColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DissolveOutlineColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveOutlineSmoothStep": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolvePosMaskPos": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_DissolvePosMaskRootOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveUVSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DistortionST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_FresnelBSI": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_FresnelColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_InstaceProbeUV": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainMaps_ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor0": {
+        "r": 0.3018868,
+        "g": 0.23768684,
+        "b": 0.16945532,
+        "a": 1.0
+      },
+      "_ReplacedPartsPos": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RimColor0": {
+        "r": 1.0,
+        "g": 0.85768193,
+        "b": 0.8443396,
+        "a": 1.0
+      },
+      "_RimOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ShadowDiffuseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_StockDarkcolor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Stockcolor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Robin_00_Mat_Idleshow_Lipstick",
+  "Name": "Robin_00_Mat_Idleshow_Lipstick"
+}

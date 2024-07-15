@@ -1,0 +1,393 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7682587881522096242,
+    "Name": "miHoYo/CRP_Character/CharacterFace",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DissolveMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceExpression": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 2790083752718748404,
+          "Name": "W_160_Maid_Face_ExpressionMap_00",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceMap": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -8847959300088780513,
+          "Name": "W_160_Maid_FaceMap_00",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -2959941426704617589,
+          "Name": "Avatar_Firefly_00_Face_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SpecialEyeShapeTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AddLightFeather": 0.03,
+      "_AddLightOffset": 0.5,
+      "_AddLightStrengthen": 0.3,
+      "_BackShadowRange": 0.0,
+      "_DissolveDistortionIntensity": 0.01,
+      "_DissolveOutlineOffset": 0.0,
+      "_DissolveOutlineSize1": 0.05,
+      "_DissolveOutlineSize2": 0.0,
+      "_DissolvePosMaskFilpOn": 0.0,
+      "_DissolvePosMaskOn": 0.0,
+      "_DissolvePosMaskWorldON": 0.0,
+      "_DissolveRate": 0.0,
+      "_DissolveUV": 0.0,
+      "_DissoveDirecMask": 2.0,
+      "_DissoveON": 0.0,
+      "_DitherAlpha": 0.0,
+      "_EmissionIntensity": 0.6,
+      "_EmissionThreshold": 0.77,
+      "_EnableAlphaCutoff": 0.0,
+      "_ExCheekIntensity": 0.0,
+      "_ExMapThreshold": 0.8,
+      "_ExShadowIntensity": 0.0,
+      "_ExShyIntensity": 0.0,
+      "_ExSpecularIntensity": 2.0,
+      "_EyeEffectProcs": 0.0,
+      "_EyeMaskStencilComp": 8.0,
+      "_EyeShadowAngleMin": 1.0,
+      "_EyeShadowMaxAngle": 1.0,
+      "_FixLipOutline": 0.0,
+      "_FresnelColorStrength": 1.0,
+      "_HairBlendSilhouette": 0.5,
+      "_LipLineFixMax": 2.0,
+      "_LipLineFixScale": 1.0,
+      "_LipLineFixStart": 0.6,
+      "_LipLineFixThrd": 0.8,
+      "_NoseLinePower": 3.0,
+      "_Opaqueness": 1.0,
+      "_OutlineFixFront": 0.05,
+      "_OutlineFixRange1": 0.6,
+      "_OutlineFixRange2": 0.65,
+      "_OutlineFixRange3": 0.7,
+      "_OutlineFixRange4": 0.7,
+      "_OutlineFixSide": 0.6,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlinePolygonOffsetFactor": 0.0,
+      "_OutlinePolygonOffsetUnits": 0.0,
+      "_OutlineWidth": 0.04,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnits": 0.0,
+      "_ReceiveShadows": 0.0,
+      "_RimShadowCt": 1.0,
+      "_RimShadowFeather": 0.01,
+      "_RimShadowIntensity": 1.0,
+      "_RimShadowWidth": 1.0,
+      "_ShadowFeather": 0.0001,
+      "_ShadowThreshold": 0.05,
+      "_SpecialEyeIntensity": 1.0,
+      "_SpecularColor": 1.0,
+      "_SpecularIntensity": 1.2,
+      "_SpecularPow": 1.0,
+      "_SpecularThreshold": 1.0,
+      "_StencilEye": 17.0,
+      "_StencilFace": 16.0,
+      "_UseSpecialEye": 0.0,
+      "_UseUVChannel2": 1.0,
+      "_UsingDitherAlpha": 0.0,
+      "_mBloomIntensity0": 0.02,
+      "_mBloomIntensity1": 0.0
+    },
+    "m_Colors": {
+      "_CharacterLocalMainLightPack1": {
+        "r": 10000.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomMainLightDir": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_DarkColor": {
+        "r": 0.95294124,
+        "g": 0.8862746,
+        "b": 0.8862746,
+        "a": 1.0
+      },
+      "_DissolveComponent": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_DissolveOutlineColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DissolveOutlineColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveOutlineSmoothStep": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolvePosMaskPos": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_DissolvePosMaskRootOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveUVSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DistortionST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ExCheekColor": {
+        "r": 0.9811321,
+        "g": 0.68956923,
+        "b": 0.68956923,
+        "a": 1.0
+      },
+      "_ExEyeColor": {
+        "r": 0.7602795,
+        "g": 0.7688457,
+        "b": 0.8018868,
+        "a": 1.0
+      },
+      "_ExShadowColor": {
+        "r": 0.031772878,
+        "g": 0.06594037,
+        "b": 0.39622638,
+        "a": 1.0
+      },
+      "_ExShyColor": {
+        "r": 1.0,
+        "g": 0.8066038,
+        "b": 0.8066038,
+        "a": 1.0
+      },
+      "_EyeBaseShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeCenter": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EyeEffectColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeSPColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeSPColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeShadowColor": {
+        "r": 0.8881128,
+        "g": 0.8666667,
+        "b": 0.9137255,
+        "a": 1.0
+      },
+      "_FresnelBSI": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_FresnelColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_LipLinefixColor": {
+        "r": 0.745283,
+        "g": 0.46052867,
+        "b": 0.46052867,
+        "a": 0.0
+      },
+      "_MainMaps_ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoseLineColor": {
+        "r": 0.6415094,
+        "g": 0.3479886,
+        "b": 0.3479886,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.4716981,
+        "g": 0.3270737,
+        "b": 0.34470218,
+        "a": 1.0
+      },
+      "_RimShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimShadowOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ShadowColor": {
+        "r": 0.990566,
+        "g": 0.90937984,
+        "b": 0.8924439,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 1.0,
+        "g": 0.97711563,
+        "b": 0.8349056,
+        "a": 1.0
+      },
+      "_VertexShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Firefly_Mat_Face",
+  "Name": "Firefly_Mat_Face"
+}

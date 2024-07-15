@@ -1,0 +1,100 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -7177827563780441733,
+    "Name": "miHoYo/CRP_Particles/Particle_OneChannel",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 15,
+          "m_PathID": 2449754012568905378,
+          "Name": "Eff_Symbol_43",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AddDepthAlphaThreshold": 0.5,
+      "_AddMode": 0.0,
+      "_AlwaysOnTop": 4.0,
+      "_CL": 0.0,
+      "_Cull": 0.0,
+      "_CustomData": 0.0,
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 10.0,
+      "_EmissionIntensity": 10.2,
+      "_EyeProtectForceDisable": 0.0,
+      "_IgnoreMainTexAlpha": 0.0,
+      "_InteractiveBlend": 1.0,
+      "_InteractiveColorScale": 1.0,
+      "_InteractiveRadius": 1.0,
+      "_MeshUV2": 1.0,
+      "_OffsetX": 0.0,
+      "_OffsetY": 0.0,
+      "_Opacity": 0.273,
+      "_RenderingMode": 0.0,
+      "_Saturate": 0.0,
+      "_SoftFar": 1.0,
+      "_SoftNear": 0.0,
+      "_SrcBlend": 5.0,
+      "_Stencil": 7.0,
+      "_StencilComp": 0.0,
+      "_UseInteractivePos": 0.0,
+      "_UseNojitterMatrix": 0.0,
+      "_UsePlayerPos": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_InteractiveColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_InteractivePos": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainChannel": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainChannelRGB": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainColor": {
+        "r": 0.670782,
+        "g": 0.514151,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ReflectionFresnel": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Eff_trashice_04_OneChannel_32",
+  "Name": "Eff_trashice_04_OneChannel_32"
+}

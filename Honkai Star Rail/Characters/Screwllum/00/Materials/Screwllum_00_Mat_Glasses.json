@@ -1,0 +1,133 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 2715023061545819910,
+    "Name": "miHoYo/CRP_UI/Acrylic",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ReflectionCube": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4759649345314331372,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SpecialSpecularTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 8453549660587053721,
+          "Name": "UI3DI_LightCone_Specular",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_StarTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_DstBlend": 10.0,
+      "_EdgeAlpha": 0.092,
+      "_FakeAntiAliasing": 0.01,
+      "_FakeLightStrenght": 0.3,
+      "_LerpValue": 0.0,
+      "_LinearToGamma": 0.0,
+      "_Opacity": 0.118,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnits": 0.0,
+      "_ScenesDistanceType": 0.0,
+      "_SpecialSpecularAlpha": 1.6,
+      "_SpecularAlpha": 0.3,
+      "_SrcBlend": 5.0,
+      "_StencilOP": 2.0,
+      "_StencilRef": 65.0,
+      "_StencilRefGBuffer": 65.0,
+      "_UVChannel": 0.0,
+      "_UseFakeLight": 0.0,
+      "_UseTAA": 1.0,
+      "_ViewScale": 0.1
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.8254717,
+        "g": 0.90461016,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FakeLightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FakeLightPosRadius": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_LerpColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_StarTintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Screwllum_00_Mat_Glasses",
+  "Name": "Screwllum_00_Mat_Glasses"
+}

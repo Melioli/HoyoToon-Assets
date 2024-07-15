@@ -1,0 +1,198 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 4196235234566269202,
+    "Name": "miHoYo/CRP_Particles/Particle_DissolveM_Model",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DisTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7028243338789776547,
+          "Name": "Eff_Noise_05",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 12.0,
+          "Y": 2.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -5953597898675699391,
+          "Name": "Eff_Trail_26",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.6,
+          "Y": 1.2
+        },
+        "m_Offset": {
+          "X": 0.35,
+          "Y": -0.53
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7028243338789776547,
+          "Name": "Eff_Noise_05",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 4.3,
+          "Y": 2.3
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AbsNoV": 0.0,
+      "_AlphaScale": 1.0,
+      "_AlwaysOnTop": 4.0,
+      "_CL3": 0.0,
+      "_CL4": 0.0,
+      "_Cull": 0.0,
+      "_CylinederCoordUpAxis": 1.0,
+      "_Disappear": 0.0,
+      "_DitherAlpha": 1.0,
+      "_Dither_On": 0.0,
+      "_DstBlend": 10.0,
+      "_FresnelON": 0.0,
+      "_HideCharaParts": 0.0,
+      "_Opacity": 1.0,
+      "_RenderingMode": 0.0,
+      "_ScrPos": 0.0,
+      "_ScrPosMain": 1.0,
+      "_ScrPosRatioLock": 0.0,
+      "_ScrPosRatioLockDisTex": 0.0,
+      "_ScrPosScale": 0.0,
+      "_ScrPosScaleDisTex": 0.0,
+      "_ScrPosTex": 0.0,
+      "_ScrPosXYOffset": 0.0,
+      "_ScrPosXYOffsetDisTex": 0.0,
+      "_ScreenSpaceTexScale": 1.0,
+      "_ShowID0": 0.0,
+      "_ShowID1": 0.0,
+      "_ShowID2": 0.0,
+      "_ShowID3": 0.0,
+      "_ShowID4": 0.0,
+      "_ShowID5": 0.0,
+      "_ShowID6": 0.0,
+      "_ShowID7": 0.0,
+      "_ShowPartID": 0.0,
+      "_SoftFar": 1.0,
+      "_SoftNear": 0.0,
+      "_SrcBlend": 5.0,
+      "_ToCylinderCoordinate": 0.0,
+      "_ToPolarCoordinate": 0.0,
+      "_UseNojitterMatrix": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_DisRSpeed": {
+        "r": -1.1,
+        "g": 0.0,
+        "b": -0.18,
+        "a": 0.0
+      },
+      "_DisStep": {
+        "r": -0.06,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Fresnel": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_FresnelColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_InsideColor": {
+        "r": 2.0437374,
+        "g": 1.3516034,
+        "b": 0.6458981,
+        "a": 1.0
+      },
+      "_MainChannel": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainChannelRGB": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 0.8
+      },
+      "_MidColor": {
+        "r": 1.0,
+        "g": 0.7752252,
+        "b": 0.3803922,
+        "a": 0.23529412
+      },
+      "_NoiseChannelRGB": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_NoiseMask": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoiseSpeed": {
+        "r": -1.2,
+        "g": 0.05,
+        "b": 1.0,
+        "a": 0.5
+      },
+      "_OffsetColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_OutSideColor": {
+        "r": 3.2958229,
+        "g": 0.5296858,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SmoothStep": {
+        "r": 0.03,
+        "g": 0.27,
+        "b": 0.16,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Sam_00_Mat_Eff_Body_01_Fire",
+  "Name": "Sam_00_Mat_Eff_Body_01_Fire"
+}
