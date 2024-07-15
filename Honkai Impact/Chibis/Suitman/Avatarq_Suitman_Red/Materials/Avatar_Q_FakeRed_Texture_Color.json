@@ -1,0 +1,36 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3501686098570907968,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {},
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 0.3,
+      "_ColorScaler": 1.81,
+      "_Opaqueness": 0.369,
+      "_RimIntensity": 10.0,
+      "_RimShininess": 0.5,
+      "_RimThreshold": 0.7
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.5588235,
+        "g": 0.07996958,
+        "b": 0.06985294,
+        "a": 0.334
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Q_FakeRed_Texture_Color",
+  "Name": "Avatar_Q_FakeRed_Texture_Color"
+}

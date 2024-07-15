@@ -1,0 +1,250 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7692403093994157125,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 5134989693116283339,
+          "Name": "Avatar_Q_Elysia_C2_04_01_Texture_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 0.6,
+      "_BloomFactor2": 1.0,
+      "_BloomFactor3": 0.6,
+      "_BloomFactor4": 0.5,
+      "_BloomFactor5": 2.0,
+      "_BloomGrp": 0.0,
+      "_DitherAlpha": 1.0,
+      "_EnableDepthBias": 0.0,
+      "_FadeDistance": 0.5,
+      "_FadeOffset": 1.0,
+      "_LightArea": 0.51,
+      "_LightSpecMask": 0.5,
+      "_LightSpecThreshold": 0.0,
+      "_MainSettingGrp": 0.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_More_Outline_Color": 1.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineGrp": 0.0,
+      "_OutlineWidth": 0.08,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.0,
+      "_RGShininess": 1.0,
+      "_RimGlowGrp": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowArea": 0.5,
+      "_ShadowGrp": 0.0,
+      "_ShadowRampTexUsed": 1.0,
+      "_Shininess": 0.1,
+      "_SpecMulti": 0.1,
+      "_SpecialState": 0.0,
+      "_Stencil": 128.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_ZDepthBias": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.9485294,
+        "g": 0.76021844,
+        "b": 0.76021844,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.71734875,
+        "g": 0.68901384,
+        "b": 0.86764705,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.95294124,
+        "g": 0.854902,
+        "b": 0.882353,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.71734875,
+        "g": 0.68901384,
+        "b": 0.86764705,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.7725491,
+        "g": 0.65882355,
+        "b": 0.5411765,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.59607846,
+        "g": 0.3254902,
+        "b": 0.29803923,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.08088237,
+        "g": 0.04018689,
+        "b": 0.008920848,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.3897059,
+        "g": 0.13754325,
+        "b": 0.27203,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.38149992,
+        "g": 0.30925608,
+        "b": 0.7647059,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.37254903,
+        "g": 0.19215688,
+        "b": 0.10196079,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Q_Elysia_C2_04_01_Material_Color",
+  "Name": "Avatar_Q_Elysia_C2_04_01_Material_Color"
+}

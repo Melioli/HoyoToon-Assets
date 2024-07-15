@@ -1,0 +1,250 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3924171249220258849,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4991255492824616322,
+          "Name": "Avatar_Q_Eden_C1_04_01_Texture_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 0.6,
+      "_BloomFactor2": 2.0,
+      "_BloomFactor3": 1.0,
+      "_BloomFactor4": 1.0,
+      "_BloomFactor5": 2.0,
+      "_DitherAlpha": 1.0,
+      "_FadeDistance": 0.5,
+      "_FadeOffset": 1.0,
+      "_LightArea": 0.51,
+      "_LightSpecMask": 0.5,
+      "_LightSpecThreshold": 0.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_More_Outline_Color": 1.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.08,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.0,
+      "_RGShininess": 1.0,
+      "_RimGlow": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowArea": 0.7,
+      "_ShadowRampTexUsed": 1.0,
+      "_Shininess": 0.1,
+      "_SpecMulti": 0.1,
+      "_SpecialState": 0.0,
+      "_Stencil": 128.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_BackFaceColor": {
+        "r": 0.47058827,
+        "g": 0.77647066,
+        "b": 0.86274517,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.9485294,
+        "g": 0.76021844,
+        "b": 0.76021844,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.65711504,
+        "g": 0.8169165,
+        "b": 0.86764705,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.8161765,
+        "g": 0.7321583,
+        "b": 0.7443264,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.8455882,
+        "g": 0.9041583,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.89705884,
+        "g": 0.7234698,
+        "b": 0.6596021,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.59607846,
+        "g": 0.3254902,
+        "b": 0.29803923,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.0147058815,
+        "g": 0.21105474,
+        "b": 0.25,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.22794116,
+        "g": 0.033571545,
+        "b": 0.011732263,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.11764705,
+        "g": 0.009515572,
+        "b": 0.08334324,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.25,
+        "g": 0.111764714,
+        "b": 0.03676471,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Q_Eden_C1_04_01_Material_Color",
+  "Name": "Avatar_Q_Eden_C1_04_01_Material_Color"
+}

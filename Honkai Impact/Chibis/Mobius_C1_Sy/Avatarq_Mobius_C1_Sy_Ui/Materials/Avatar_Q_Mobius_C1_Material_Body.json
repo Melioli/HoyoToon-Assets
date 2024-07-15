@@ -1,0 +1,250 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7692403093994157125,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 5510806143315516006,
+          "Name": "Avatar_Q_Mobius_C1_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 0.5,
+      "_BloomFactor2": 5.0,
+      "_BloomFactor3": 0.5,
+      "_BloomFactor4": 1.0,
+      "_BloomFactor5": 2.0,
+      "_BloomGrp": 0.0,
+      "_DitherAlpha": 1.0,
+      "_EnableDepthBias": 0.0,
+      "_FadeDistance": 0.5,
+      "_FadeOffset": 1.0,
+      "_LightArea": 0.51,
+      "_LightSpecMask": 0.5,
+      "_LightSpecThreshold": 0.5,
+      "_MainSettingGrp": 0.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_More_Outline_Color": 1.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineGrp": 0.0,
+      "_OutlineWidth": 0.1,
+      "_RGBias": 0.5,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.0,
+      "_RGScale": 5.0,
+      "_RGShininess": 30.0,
+      "_RimGlowGrp": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowArea": 0.5,
+      "_ShadowGrp": 0.0,
+      "_ShadowRampTexUsed": 1.0,
+      "_Shininess": 10.0,
+      "_SpecMulti": 0.0,
+      "_SpecialState": 0.0,
+      "_Stencil": 128.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_ZDepthBias": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.9490197,
+        "g": 0.73333335,
+        "b": 0.73333335,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.84243333,
+        "g": 0.8602941,
+        "b": 0.74643165,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.84243333,
+        "g": 0.8602941,
+        "b": 0.74643165,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.6870915,
+        "g": 0.6397059,
+        "b": 0.85294116,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.75,
+        "g": 0.7094574,
+        "b": 0.67830884,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.59607846,
+        "g": 0.3254902,
+        "b": 0.29803923,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.09008472,
+        "g": 0.11764705,
+        "b": 0.026816605,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.24556738,
+        "g": 0.32352942,
+        "b": 0.066609,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.5364515,
+        "g": 0.9411765,
+        "b": 0.20761243,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Q_Mobius_C1_Material_Body",
+  "Name": "Avatar_Q_Mobius_C1_Material_Body"
+}
