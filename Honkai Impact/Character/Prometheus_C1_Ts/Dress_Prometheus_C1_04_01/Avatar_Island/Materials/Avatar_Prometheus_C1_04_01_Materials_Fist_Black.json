@@ -1,0 +1,273 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -969583873339423191,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BlockFxBlockTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BlockFxLineTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 6238646588304078556,
+          "Name": "Avatar_Prometheus_C1_Texture_Fist_Color_FX04",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7873390183934511638,
+          "Name": "Avatar_Prometheus_C1_04_01_Texture_Fist_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Ramp": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -3525940979607394967,
+          "Name": "Shared_ToolRamp_05",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SpecRamp": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 6735026577476276246,
+          "Name": "Shared_SpecRamp_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AdditiveLightIntensity": 1.88,
+      "_BlockFxBlockClip": 0.0,
+      "_BlockFxBlockIntensity": 0.0,
+      "_BlockFxBlockTexTilline": 1.12,
+      "_BlockFxClip1": 0.0,
+      "_BlockFxClip1Edge": 0.0,
+      "_BlockFxClip2Edge": 0.0,
+      "_BlockFxLineIntensity": 0.0,
+      "_BloomFactor": 1.0,
+      "_Clip1Direction": 3.0,
+      "_DitherAlpha": 1.0,
+      "_Emission": 5.0,
+      "_EmissionBloomFactor": 1.5,
+      "_FadeDistance": 1.6,
+      "_FadeOffset": 8.17,
+      "_MainAlpha": 0.755,
+      "_Opaqueness": 1.0,
+      "_Outline": 0.005,
+      "_OutlineUseTangent": 1.0,
+      "_OutlineUseVertexColor": 1.0,
+      "_RGBias": -0.28,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 3.0,
+      "_RGShininess": 4.0,
+      "_RimGlow": 1.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_Shininess": 20.0,
+      "_SpecMulti": 0.55,
+      "_SpecialState": 0.0,
+      "_SpecularIntensity": 1.0,
+      "_Stencil": 8.0,
+      "_Transparent": 1.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_BlockFxBlockColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_BlockFxBlockTexSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_BlockFxLineColor": {
+        "r": 1.0,
+        "g": 0.21568626,
+        "b": 0.26811966,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0791628,
+        "g": 0.07552986,
+        "b": 0.08088237,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.08823532,
+        "g": 0.010380625,
+        "b": 0.08044986,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.32961455,
+        "g": 0.32352942,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Prometheus_C1_04_01_Materials_Fist_Black",
+  "Name": "Avatar_Prometheus_C1_04_01_Materials_Fist_Black"
+}

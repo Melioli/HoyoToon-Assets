@@ -1,0 +1,192 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 818256746707394193,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DisTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -6182259789374862874,
+          "Name": "Avatar_Kiana_C6_Texture_EffectWings_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.5,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainOffsetTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": -4382404154408488549,
+          "Name": "Avatar_Kiana_C6_Texture_EffectWings_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.55,
+          "Y": 0.32
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 95608276477807493,
+          "Name": "Avatar_Kiana_C6_Texture_EffectWings_03",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.55
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": -0.23
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 2791634980316637641,
+          "Name": "SFX_Noise_022",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TintTexture": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 3089496376858576446,
+          "Name": "SFX_Noise_1301",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_texcoord": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_Alpha": 0.233,
+      "_AlphaSmooth": 0.19,
+      "_Brightness": 10.0,
+      "_DepthBlendType": 0.0,
+      "_DepthCt": 0.5,
+      "_DisTexClip": 1.2,
+      "_EdgeBrightness": 1.0,
+      "_EdgeContrast": 1.0,
+      "_EdgeEffectCol": 0.0,
+      "_EnableScreenTexture": 1.0,
+      "_HeightFactor": 0.13,
+      "_Inverse": 0.0,
+      "_MainAddColClip": 0.5,
+      "_MainAddColorIntensity": 1.28,
+      "_MainOffsetIntensity": -0.12,
+      "_MainOffsetMaskDis": 1.0,
+      "_NoiseIntensity": 0.035,
+      "_NoiseOffset": 0.0,
+      "_NoiseUSpeed": 1.0,
+      "_NoiseVSpeed": 0.0,
+      "_OffsetDir": 0.0,
+      "_UseDepth": 0.0,
+      "_WithFog": 0.0
+    },
+    "m_Colors": {
+      "_DisTexSpeed": {
+        "r": -0.5,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EdgeLight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainAddColor": {
+        "r": 1.0,
+        "g": 0.8273834,
+        "b": 0.45588237,
+        "a": 1.0
+      },
+      "_MainDarkColor": {
+        "r": 0.3455882,
+        "g": 1.0,
+        "b": 0.53965515,
+        "a": 1.0
+      },
+      "_MainLightColor": {
+        "r": 0.03529412,
+        "g": 0.078431375,
+        "b": 0.18431373,
+        "a": 1.0
+      },
+      "_MainOffsetIntensity": {
+        "r": 0.2,
+        "g": 0.2,
+        "b": 0.2,
+        "a": 0.0
+      },
+      "_MainOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ScreenUVOffsetTilling": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 5.0,
+        "a": 5.0
+      },
+      "_TintColor": {
+        "r": 0.62486404,
+        "g": 0.29984853,
+        "b": 0.86764705,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Kiana_C7_Texture_EffectWings_104",
+  "Name": "Avatar_Kiana_C7_Texture_EffectWings_104"
+}

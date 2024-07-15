@@ -1,0 +1,304 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -1521672862165078621,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 4141931604779958856,
+          "Name": "Avatar_Theresa_C4_04_02_Body_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 3996274554849293659,
+          "Name": "Avatar_Theresa_C4_04_02_Body_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SkyTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -6032141688260689639,
+          "Name": "Avatar_Theresa_C4_04_02_Body_Sky",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 9.0,
+          "Y": 9.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TwinkleTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -3975807907471155970,
+          "Name": "Avatar_Theresa_C4_04_02_Body_Star",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 0.6,
+      "_BloomFactor2": 1.0,
+      "_BloomFactor3": 1.0,
+      "_BloomFactor4": 1.0,
+      "_BloomFactor5": 0.4,
+      "_DitherAlpha": 1.0,
+      "_FadeDistance": 0.5,
+      "_FadeOffset": 1.0,
+      "_LightArea": 0.51,
+      "_MaxOutlineZOffset": 1.0,
+      "_More_Outline_Color": 1.0,
+      "_OffestFactor": 0.0,
+      "_OffestUnit": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.05,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.0,
+      "_RGShininess": 1.0,
+      "_RimGlow": 0.0,
+      "_RimPow": 2.0,
+      "_RimSterngth": 2.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowRampTexUsed": 1.0,
+      "_Shininess": 2.6,
+      "_SpecMulti": 0.1,
+      "_SpecialState": 0.0,
+      "_SpeedShine": 100.0,
+      "_SpeedSky": 9.0,
+      "_SpeedTwinkle": -1.0,
+      "_Stencil": 4.0,
+      "_StrengthShine": 1.0,
+      "_Transparent": 1.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_BackFaceColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.9558824,
+        "g": 0.77314013,
+        "b": 0.82229155,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.74264705,
+        "g": 0.6484981,
+        "b": 0.6061311,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.42647058,
+        "g": 0.42647058,
+        "b": 0.42647058,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.59607846,
+        "g": 0.627451,
+        "b": 0.7725491,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.59607846,
+        "g": 0.61960787,
+        "b": 0.76470596,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.6691177,
+        "g": 0.31623614,
+        "b": 0.285359,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.30882353,
+        "g": 0.2540747,
+        "b": 0.13624567,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.11764705,
+        "g": 0.11764705,
+        "b": 0.11764705,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.11764705,
+        "g": 0.11764705,
+        "b": 0.11764705,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.30103806,
+        "g": 0.33304495,
+        "b": 0.42647058,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Theresa_C4_04_02_Material_Sky",
+  "Name": "Avatar_Theresa_C4_04_02_Material_Sky"
+}

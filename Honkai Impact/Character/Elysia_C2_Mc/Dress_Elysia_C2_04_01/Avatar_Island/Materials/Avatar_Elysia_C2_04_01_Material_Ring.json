@@ -1,0 +1,128 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7321475677413121965,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DistortionTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4857614154005074382,
+          "Name": "Avatar_Elysia_C2_Texture_Ring_Effect_Distort",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.1,
+          "Y": 0.1
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -4954452946400226008,
+          "Name": "Avatar_Elysia_C2_Texture_Ring_Effect_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ReflectTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -6188453367681977976,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_Cull": 0.0,
+      "_DistortionIntensity": 1.0,
+      "_DitherAlpha": 1.0,
+      "_FadeDistance": 1.0,
+      "_FadeDistanceScale": 1.0,
+      "_FadeOffset": 0.0,
+      "_MaskColorEmission": 2.28,
+      "_MaxOutlineZOffset": 1.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineColorEmission": 4.83,
+      "_OutlineWidth": 0.05,
+      "_ReflectionLerp": 0.785,
+      "_Scale": 0.01,
+      "_Shininess": 1.2,
+      "_SideColorEmission": 4.35,
+      "_SpecMulti": 7.06,
+      "_UsingDitherAlpha": 0.0,
+      "_WithFog": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.8014706,
+        "g": 0.42430794,
+        "b": 0.52575177,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 0.5974635,
+        "g": 0.31001297,
+        "b": 0.89705884,
+        "a": 1.0
+      },
+      "_MaskColor": {
+        "r": 0.6911765,
+        "g": 0.16094756,
+        "b": 0.071150504,
+        "a": 1.0
+      },
+      "_MaskOffsetTiling": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 1.0,
+        "g": 0.2205882,
+        "b": 0.5592291,
+        "a": 1.0
+      },
+      "_SideColor": {
+        "r": 0.8861293,
+        "g": 0.49956748,
+        "b": 0.9705882,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Elysia_C2_04_01_Material_Ring",
+  "Name": "Avatar_Elysia_C2_04_01_Material_Ring"
+}

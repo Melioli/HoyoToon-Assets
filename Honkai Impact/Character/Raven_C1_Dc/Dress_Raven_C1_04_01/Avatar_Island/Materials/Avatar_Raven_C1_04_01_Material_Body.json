@@ -1,0 +1,484 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -6245594438899174256,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BlockMaskTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -8116176573206827010,
+          "Name": "Avatar_Bronya_C9_04_01_Texture_Effect",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_GradingMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HSVMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -6408108799671508630,
+          "Name": "Avatar_Raven_C1_04_01_Texture_Body_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 4074279625047937475,
+          "Name": "Avatar_Raven_C1_04_01_Texture_Body_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskDisTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaPosition": 0.0,
+      "_Amplitude": 0.5,
+      "_BackFaceUseUV2": 1.0,
+      "_BlockDynamic": 0.0,
+      "_BlockEmission": 3.0,
+      "_BlockSize": 50.0,
+      "_BlockYLerp": 3.0,
+      "_BloomFactor": 0.5,
+      "_BloomFactor2": 1.0,
+      "_BloomFactor3": 2.0,
+      "_BloomFactor4": 0.5,
+      "_BloomFactor5": 10.0,
+      "_BrightnessAmount": 1.0,
+      "_BrightnessAmount1": 1.0,
+      "_ColorGrading": 0.0,
+      "_ContrastAmount": 1.0,
+      "_ContrastAmount1": 1.0,
+      "_DisAngle": 0.0,
+      "_DisColorScale": 1.0,
+      "_DisableShadow": 0.0,
+      "_DissolveUseUV2": 1.0,
+      "_DitherAlpha": 1.0,
+      "_Edge": 0.2,
+      "_EmissionStr": 0.0,
+      "_FadeDistance": 0.5,
+      "_FadeOffset": 1.0,
+      "_Frequency": 2.0,
+      "_HRRimIntensity": 1.0,
+      "_HRRimPower": 0.5,
+      "_HSVMask": 0.0,
+      "_Hardness": 1.0,
+      "_LengthWaysDis": 0.0,
+      "_LengthWaysDisBlend": 0.0,
+      "_LightArea": 0.51,
+      "_MaskDisTexScale": 1.0,
+      "_MaskOffsetSpeed": 0.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_MoreHardRimColor": 1.0,
+      "_More_Outline_Color": 1.0,
+      "_NoiseIntensity": 5.0,
+      "_OffestFactor": 0.0,
+      "_OffestUnit": 0.0,
+      "_OnlyUseMaskDis": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.04,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.0,
+      "_RGShininess": 1.0,
+      "_RimGlow": 1.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_SaturationAmount": 1.0,
+      "_SaturationAmount1": 1.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowRampTexUsed": 1.0,
+      "_Shininess": 20.0,
+      "_Smooth": 0.04,
+      "_Soft": 0.0,
+      "_SpecMulti": 1.8,
+      "_SpecialState": 0.0,
+      "_Specular": 1.0,
+      "_Stencil": 4.0,
+      "_TintColorEdge": 0.0,
+      "_TintColorPower": 1.0,
+      "_UseBChannel": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_WithFog": 0.0
+    },
+    "m_Colors": {
+      "_BackFaceColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ButtomBlockColor": {
+        "r": 0.25490198,
+        "g": 0.14117648,
+        "b": 0.3529412,
+        "a": 1.0
+      },
+      "_ButtomColor": {
+        "r": 0.16078432,
+        "g": 0.03137255,
+        "b": 0.227451,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DisColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.7647059,
+        "g": 0.6691177,
+        "b": 0.6778075,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.8648356,
+        "g": 0.8651593,
+        "b": 0.9117647,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.83823526,
+        "g": 0.7787256,
+        "b": 0.71496534,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.8648356,
+        "g": 0.8651593,
+        "b": 0.9117647,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.8897059,
+        "g": 0.5691501,
+        "b": 0.5691501,
+        "a": 1.0
+      },
+      "_HRRimColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_HRRimColor3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_HRRimColor4": {
+        "r": 0.30980393,
+        "g": 0.2784314,
+        "b": 0.3254902,
+        "a": 0.60784316
+      },
+      "_HRRimColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 0.82745105,
+        "g": 0.83921576,
+        "b": 0.86666673,
+        "a": 1.0
+      },
+      "_MaskTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoiseTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.36764705,
+        "g": 0.25404224,
+        "b": 0.24329585,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.08823532,
+        "g": 0.033200104,
+        "b": 0.008434256,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.03690489,
+        "g": 0.030276816,
+        "b": 0.11764705,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.07903147,
+        "g": 0.034926474,
+        "b": 0.125,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.3602941,
+        "g": 0.018544545,
+        "b": 0.018544545,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.65882355,
+        "g": 0.6595808,
+        "b": 0.7686275,
+        "a": 1.0
+      },
+      "_TintColor1": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TintColor2": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TopBlockColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TopColor": {
+        "r": 0.25882354,
+        "g": 0.48235297,
+        "b": 0.854902,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Raven_C1_04_01_Material_Body",
+  "Name": "Avatar_Raven_C1_04_01_Material_Body"
+}

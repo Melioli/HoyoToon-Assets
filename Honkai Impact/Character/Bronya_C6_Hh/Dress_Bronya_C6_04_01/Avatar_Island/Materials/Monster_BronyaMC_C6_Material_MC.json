@@ -1,0 +1,167 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 1563075559041897657,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -2585798698526105246,
+          "Name": "Monster_BronyaMC_C6",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -9062653936238832156,
+          "Name": "noise_rough",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.2,
+          "Y": 0.2
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 2516962644355046189,
+          "Name": "b1",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 1.0,
+      "_DitherAlpha": 1.0,
+      "_Emission": 1.0,
+      "_EmissionBloomFactor": 5.0,
+      "_EmissionFactorFromTexToggle": 1.0,
+      "_FadeDistance": 0.0,
+      "_FadeOffset": 0.0,
+      "_LightArea": 0.51,
+      "_MaxOutlineZOffset": 1.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.04,
+      "_Overheat": 0.0,
+      "_OverheatEmissionScaler": 1.0,
+      "_OverheatIntensity": 0.0,
+      "_PartialEmission": 0.0,
+      "_PartialEmissionScaler": 3.0,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 0.0,
+      "_RGRatio": 1.0,
+      "_RGScale": 40.0,
+      "_RGShininess": 3.0,
+      "_RimGlow": 0.0,
+      "_SPIntensity": 0.9,
+      "_SPNoiseScaler": 6.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 3.0,
+      "_SPTransitionEmissionScaler": 8.0,
+      "_Scale": 0.01,
+      "_Shininess": 10.0,
+      "_SpecMulti": 0.2,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_ClipPlane": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OverheatColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RGColor": {
+        "r": 0.33088237,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 0.922,
+        "g": 0.22865602,
+        "b": 0.22865602,
+        "a": 0.247
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 0.503,
+        "b": 0.503,
+        "a": 1.0
+      },
+      "_ShadowMultColor": {
+        "r": 0.75686276,
+        "g": 0.7647059,
+        "b": 0.84313726,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Monster_BronyaMC_C6_Material_MC",
+  "Name": "Monster_BronyaMC_C6_Material_MC"
+}

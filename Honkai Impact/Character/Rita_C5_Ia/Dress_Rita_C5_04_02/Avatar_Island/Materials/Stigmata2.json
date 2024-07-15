@@ -1,0 +1,52 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 2595816526119602807,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AngleEnd": 80.0,
+      "_AngleStart": 90.0,
+      "_BloomFactor": 5.0,
+      "_EmissionFactor": 1.5,
+      "_EnableAlphaByView": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.3647059,
+        "g": 0.047058824,
+        "b": 0.047058824,
+        "a": 0.4392157
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Stigmata2",
+  "Name": "Stigmata2"
+}

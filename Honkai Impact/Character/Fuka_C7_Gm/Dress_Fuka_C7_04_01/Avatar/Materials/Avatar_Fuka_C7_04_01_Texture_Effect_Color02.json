@@ -1,0 +1,191 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 818256746707394193,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DisTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -6182259789374862874,
+          "Name": "Avatar_Kiana_C6_Texture_EffectWings_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 4.58,
+          "Y": 1.91
+        },
+        "m_Offset": {
+          "X": 0.71,
+          "Y": 0.0
+        }
+      },
+      "_MainOffsetTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -708862913252447428,
+          "Name": "SFX_Noise_816",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": -4.27,
+          "Y": 6.16
+        },
+        "m_Offset": {
+          "X": 3.91,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -9119975915150419002,
+          "Name": "Avatar_Fuka_C7_Texture_Effect_1302",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 3.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.88,
+          "Y": -0.01
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TintTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_texcoord": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_Alpha": 1.0,
+      "_AlphaSmooth": 0.0,
+      "_Brightness": 0.71,
+      "_DepthBlendType": 0.0,
+      "_DepthCt": 0.5,
+      "_DisTexClip": 1.85,
+      "_EdgeBrightness": 1.0,
+      "_EdgeContrast": 1.0,
+      "_EdgeEffectCol": 0.0,
+      "_EnableScreenTexture": 0.0,
+      "_HeightFactor": 0.0,
+      "_Inverse": 0.0,
+      "_MainAddColClip": 0.02,
+      "_MainAddColorIntensity": 0.29,
+      "_MainOffsetMaskDis": 0.0,
+      "_NoiseIntensity": 0.0,
+      "_NoiseOffset": 0.0,
+      "_NoiseUSpeed": 0.0,
+      "_NoiseVSpeed": 0.0,
+      "_OffsetDir": 1.0,
+      "_UseDepth": 0.0,
+      "_WithFog": 0.0
+    },
+    "m_Colors": {
+      "_DisTexSpeed": {
+        "r": 0.0,
+        "g": 0.7,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EdgeLight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainAddColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_MainDarkColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_MainLightColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainOffsetIntensity": {
+        "r": 0.15,
+        "g": 0.15,
+        "b": 0.2,
+        "a": 0.0
+      },
+      "_MainOffsetSpeed": {
+        "r": -0.12,
+        "g": -0.35,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ScreenUVOffsetTilling": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Fuka_C7_04_01_Texture_Effect_Color02",
+  "Name": "Avatar_Fuka_C7_04_01_Texture_Effect_Color02"
+}

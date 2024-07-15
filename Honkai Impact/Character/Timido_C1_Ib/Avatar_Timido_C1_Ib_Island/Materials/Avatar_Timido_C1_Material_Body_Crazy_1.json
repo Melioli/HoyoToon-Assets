@@ -1,0 +1,93 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 911636884498089178,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AuraNoise": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4407066420822958699,
+          "Name": "SFX_Particle_001",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AuraExtendWidth": 0.02,
+      "_AuraOffset": 0.0,
+      "_AuraOffsetFix": 0.0,
+      "_AuraScrPosScale": 1.0,
+      "_AuraWidth": 0.086,
+      "_DepthBlendType": 0.0,
+      "_DepthCt": 0.5,
+      "_EdgeBrightness": 1.0,
+      "_EdgeContrast": 1.0,
+      "_EdgeEffectCol": 0.0,
+      "_MainSettingGrp": 0.0,
+      "_MiscGrp": 0.0,
+      "_Scale": 0.01,
+      "_Stencil": 0.0,
+      "_StencilComp": 0.0,
+      "_UseDepth": 0.0
+    },
+    "m_Colors": {
+      "_AuraColor0": {
+        "r": 1.0,
+        "g": 0.2352941,
+        "b": 0.2352941,
+        "a": 1.0
+      },
+      "_AuraColor1": {
+        "r": 0.9191176,
+        "g": 0.17571367,
+        "b": 0.17571367,
+        "a": 1.0
+      },
+      "_AuraDisStep": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 5.0,
+        "a": 0.0
+      },
+      "_AuraSmoothStep": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_AuraSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Aurafresnel": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EdgeLight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Timido_C1_Material_Body_Crazy_1",
+  "Name": "Avatar_Timido_C1_Material_Body_Crazy_1"
+}

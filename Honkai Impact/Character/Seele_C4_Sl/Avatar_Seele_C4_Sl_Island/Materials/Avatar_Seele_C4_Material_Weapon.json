@@ -1,0 +1,307 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 1320296716538403470,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BumpTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_GradBumpTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_GradientTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -7610542526223487165,
+          "Name": "Avatar_Seele_C4_Texture_Weapon_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Ramp": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 5492448812523381420,
+          "Name": "Shared_ToolRamp_06",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -9062653936238832156,
+          "Name": "noise_rough",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -3000417523890350232,
+          "Name": "b3",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SpecRamp": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 6735026577476276246,
+          "Name": "Shared_SpecRamp_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AdditiveLightIntensity": 1.0,
+      "_BloomFactor": 1.0,
+      "_Brightness": 1.0,
+      "_BumpIntensity": 1.0,
+      "_ClipPlaneCustomizeInput": 0.0,
+      "_Cull": 0.0,
+      "_DitherAlpha": 1.0,
+      "_Emission": 1.2,
+      "_EmissionBloomFactor": 2.0,
+      "_FadeDistance": 0.1,
+      "_FadeOffset": 0.0,
+      "_Fresnel": 3.0,
+      "_GradBumpIntensity": 1.0,
+      "_HRRimIntensity": 0.0,
+      "_HRRimPower": 0.1,
+      "_Hardness": 0.0,
+      "_Height": -1.0,
+      "_IgnoreBackFace": 1.0,
+      "_Level": 10.0,
+      "_LockSpecialState": 0.0,
+      "_MainAlpha": 1.0,
+      "_MoreHardRimColor": 0.0,
+      "_Opaqueness": 1.0,
+      "_Outline": 0.004,
+      "_OutlineUseTangent": 1.0,
+      "_OutlineUseVertexColor": 1.0,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_RGBias": 0.01,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.0,
+      "_RGScale": 6.0,
+      "_RGShininess": 0.35,
+      "_RefractionMask": 0.0,
+      "_RimGlow": 1.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPDissolveContrast": 1.0,
+      "_SPDissolveWidth": 0.01,
+      "_SPEnableDissolve": 0.0,
+      "_SPIntensity": 1.0,
+      "_SPNoiseScaler": 10.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 6.0,
+      "_SPTransitionEmissionScaler": 4.0,
+      "_Shininess": 10.0,
+      "_SpecMulti": 0.1,
+      "_SpecialState": 0.0,
+      "_Stencil": 8.0,
+      "_Transparent": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.71323526,
+        "g": 0.7626775,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.08441714,
+        "g": 0.016219728,
+        "b": 0.18382353,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.28611588,
+        "g": 0.37370235,
+        "b": 0.7941176,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 0.0,
+        "g": 0.3948616,
+        "b": 0.7843138,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Seele_C4_Material_Weapon",
+  "Name": "Avatar_Seele_C4_Material_Weapon"
+}

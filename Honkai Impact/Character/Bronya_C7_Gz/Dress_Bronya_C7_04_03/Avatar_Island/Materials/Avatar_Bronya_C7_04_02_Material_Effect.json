@@ -1,0 +1,125 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -251832777707720856,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AnimTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 4311301777901646691,
+          "Name": "Avatar_Fuka_C1_05_03_Effect_AnimTex1",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 2.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 7166542523736631697,
+          "Name": "Avatar_Bronya_C7_04_02_Effect_ShapeTex",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -5909932506723233954,
+          "Name": "DLCnoiseLightning",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaRange": 0.2,
+      "_Alphastart": 0.1,
+      "_AlwaysOnTop": 1.0,
+      "_BlendOp": 2.0,
+      "_Culling": 0.0,
+      "_DistRange": 0.4,
+      "_DistStart": 0.2,
+      "_DstBlend": 1.0,
+      "_End": 0.7,
+      "_InRange": 0.75,
+      "_Inside": 0.6,
+      "_InsideSmooth1": 0.13,
+      "_InsideSmooth2": 0.6,
+      "_NoiseSpeed1": 0.3,
+      "_NoiseSpeed2": 0.1,
+      "_NoiseSpeed3": 0.25,
+      "_NoiseSpeed4": -0.35,
+      "_NoiseSpeed6": 0.0,
+      "_NoiseSpeed7": 0.0,
+      "_Range": 0.25,
+      "_ShapeDistort": 0.2,
+      "_Stencil": 128.0,
+      "_StencilComp": 0.0,
+      "_Swirl": -0.09,
+      "_SwirlSpeed": 0.5,
+      "_UseRootColor": 0.0,
+      "_UseSwirl": 0.0,
+      "_UseVolume": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.13590264,
+        "g": 0.11029413,
+        "b": 0.14705884,
+        "a": 1.0
+      },
+      "_Color1": {
+        "r": 0.7490196,
+        "g": 0.03529412,
+        "b": 0.76470596,
+        "a": 1.0
+      },
+      "_NoiseST": {
+        "r": 3.0,
+        "g": 2.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoiseST1": {
+        "r": 3.0,
+        "g": 3.0,
+        "b": -0.6,
+        "a": 0.6
+      },
+      "_RootColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Bronya_C7_04_02_Material_Effect",
+  "Name": "Avatar_Bronya_C7_04_02_Material_Effect"
+}

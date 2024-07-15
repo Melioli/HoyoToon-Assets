@@ -1,0 +1,308 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 7075044393332445307,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -4180690224283034578,
+          "Name": "Avatar_Lisushang_C2_04_02_Texture_Weapon_02_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskDisTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -5927901845228827386,
+          "Name": "SFX_Noise_105",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.2,
+          "Y": -1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -4407066420822958699,
+          "Name": "SFX_Particle_001",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaPosition": 0.0,
+      "_BloomFactor": 0.5,
+      "_BloomGrp": 0.0,
+      "_CommonGrp": 0.0,
+      "_DisAngle": 0.0,
+      "_DisColorScale": 1.0,
+      "_DissolveUseUV2": 1.0,
+      "_DitherAlpha": 1.0,
+      "_DitherGrp": 0.0,
+      "_Edge": 0.2,
+      "_ExtAlphafix": 0.0,
+      "_ExtEmis": 7.7,
+      "_ExtOutlineWidth": 0.03,
+      "_ExternalOutline": 1.0,
+      "_FadeDistance": 0.5,
+      "_FadeDistanceScale": 1.0,
+      "_FadeOffset": 1.0,
+      "_LengthWaysDis": 0.0,
+      "_LengthWaysDisBlend": 0.0,
+      "_LightArea": 0.51,
+      "_MaskDisTexScale": 1.0,
+      "_MaskOffsetSpeed": 0.0,
+      "_MaxOutlineZOffset": 0.1,
+      "_NoiseIntensity": 5.0,
+      "_OnlyUseMaskDis": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineGrp": 0.0,
+      "_OutlineWidth": 0.02,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 1.0,
+      "_RGScale": 2.17,
+      "_RGShininess": 5.4,
+      "_RimGlow": 1.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.886,
+      "_SPNoiseScaler": 10.0,
+      "_SPOpaqueness": 0.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 65.1,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowGrp": 0.0,
+      "_Shininess": 3.7,
+      "_Soft": 0.0,
+      "_SpecMulti": 0.0,
+      "_SpecialState": 1.0,
+      "_Stencil": 4.0,
+      "_StencilOp": 2.0,
+      "_TintColorEdge": 0.0,
+      "_TintColorPower": 1.0,
+      "_UseCameraFade": 0.0,
+      "_UseVertexColorMask": 0.0,
+      "_UsingDitherAlpha": 1.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DisColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ExtColor": {
+        "r": 0.5419057,
+        "g": 0.2205882,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.89705884,
+        "g": 0.8333731,
+        "b": 0.80471456,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 0.99768275,
+        "g": 0.958,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MaskTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoiseTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.0051903124,
+        "g": 0.01443742,
+        "b": 0.058823526,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.22794116,
+        "g": 0.2971604,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 0.2205882,
+        "g": 0.32271793,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.8235294,
+        "g": 0.73165494,
+        "b": 0.69031143,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Lisushang_C2_04_02_Material_Weapon02",
+  "Name": "Avatar_Lisushang_C2_04_02_Material_Weapon02"
+}

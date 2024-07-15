@@ -1,0 +1,276 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -2790988447700942884,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BumpTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 6023546008437777681,
+          "Name": "Avatar_Yae_Sakura_C2_04_02_Body_AnisoDir2",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 1537878320189409068,
+          "Name": "Avatar_Yae_Sakura_C2_04_02_Body_Lightmap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 4840024252706597940,
+          "Name": "Avatar_Yae_Sakura_C2_04_02_Body_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaClip": 0.0,
+      "_Anisoalpha": 1.0,
+      "_BloomFactor": 0.6,
+      "_BumpScale": 1.0,
+      "_Cull": 2.0,
+      "_CullMode": 2.0,
+      "_DiffBlend": 0.0,
+      "_DiffBrightness": 1.0,
+      "_DitherAlpha": 1.0,
+      "_FadeDistance": 0.5,
+      "_FadeDistanceScale": 1.0,
+      "_FadeOffset": 1.0,
+      "_HRRimIntensity": 0.0,
+      "_HRRimPower": 0.1,
+      "_LightArea": 0.51,
+      "_MaxOutlineZOffset": 1.0,
+      "_MoreHardRimColor": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.08,
+      "_RGBias": 0.1,
+      "_RGBlendType": 1.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 1.0,
+      "_RGScale": 16.0,
+      "_RGShininess": 6.07,
+      "_RimGlow": 0.0,
+      "_SP": 1.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPID": 1.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPRimPow": 6.0,
+      "_SPRimint": 2.0,
+      "_SPRoughX": 0.5,
+      "_SPRoughY": 0.5,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_SPint": 0.75,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_Shininess": 0.1,
+      "_SpecMulti": 0.1,
+      "_SpecialState": 0.0,
+      "_Stencil": 4.0,
+      "_TrasOutline": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.83823526,
+        "g": 0.6716084,
+        "b": 0.62251294,
+        "a": 1.0
+      },
+      "_HRRimColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.1254902,
+        "g": 0.13725491,
+        "b": 0.28235295,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPColor": {
+        "r": 0.0,
+        "g": 0.5034485,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.75,
+        "g": 0.6,
+        "b": 0.65,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Sakura_C2_04_02_Material_Skirt_AnisoSpecular_UI",
+  "Name": "Avatar_Sakura_C2_04_02_Material_Skirt_AnisoSpecular_UI"
+}

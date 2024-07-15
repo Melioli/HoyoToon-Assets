@@ -1,0 +1,89 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -8098587020393388019,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DisTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -4458132671519437596,
+          "Name": "Fx_Nature_30",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainSmokeTexture": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -2194919411587421600,
+          "Name": "Avatar_Seele_C2_Detail_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_Cull": 0.0,
+      "_DarkDisCt": 0.0,
+      "_DisNoise": -2.535,
+      "_Rim": 0.0,
+      "_Rim_Switch": 0.0,
+      "_SmokeBrightness": 3.0,
+      "_Smoothstep": 0.5,
+      "_SmoothstepA": 0.0
+    },
+    "m_Colors": {
+      "_DarkColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DisUvG": {
+        "r": -0.4,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DisUvR": {
+        "r": -0.5,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_LightColor": {
+        "r": 0.14901961,
+        "g": 0.065743946,
+        "b": 0.07827009,
+        "a": 0.78431374
+      },
+      "_RimColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Seele_C2_B_Material_Trail",
+  "Name": "Avatar_Seele_C2_B_Material_Trail"
+}

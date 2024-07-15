@@ -1,0 +1,290 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 1771177011610199411,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskDisTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -2818387807015964727,
+          "Name": "SFX_Noise_110",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 4604945410834810507,
+          "Name": "Distortion_FractalNoise_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.5
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.2
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SkyTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 8882577709925051083,
+          "Name": "SFX_Mask_821",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 6.16,
+          "Y": 2.4
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TwinkleTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -1352605797052171590,
+          "Name": "SFX_Noise_302",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 6.9,
+          "Y": 6.59
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaPosition": 0.0,
+      "_Cull": 2.0,
+      "_DisAngle": 57.0,
+      "_DisColorScale": 6.0,
+      "_DissolveUseUV2": 1.0,
+      "_DitherAlpha": 1.0,
+      "_Edge": 0.144,
+      "_ExtAlphafix": 0.0,
+      "_ExtEmis": 10.0,
+      "_ExtOutlineWidth": 0.04,
+      "_ExternalOutline": 0.0,
+      "_LengthWaysDis": 1.0,
+      "_LengthWaysDisBlend": 0.0,
+      "_MaskDisTexScale": 1.0,
+      "_MaskOffsetSpeed": 0.0,
+      "_MaxOutlineZOffset": 0.0,
+      "_NoiseIntensity": 5.0,
+      "_OffsetFactor": -1.0,
+      "_OffsetUnite": 0.0,
+      "_OnlyUseMaskDis": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.0,
+      "_RGBias": -0.22,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.345,
+      "_RGScale": 4.35,
+      "_RGShininess": 1.41,
+      "_RimGlow": 1.0,
+      "_SPCubeMapBrightness": 4.0,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 1.0,
+      "_SPNoiseScaler": 2.68,
+      "_SPOpaqueness": 0.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 8.0,
+      "_SPTransitionEmissionScaler": 4.0,
+      "_Scale": 0.01,
+      "_Soft": 0.102,
+      "_SpecialState": 0.0,
+      "_SpeedShine": 0.0,
+      "_SpeedSky": 0.0,
+      "_SpeedTwinkle": 0.7,
+      "_Stencil": 4.0,
+      "_StrengthShine": 6.51,
+      "_TintColorEdge": 0.04,
+      "_TintColorPower": 1.2,
+      "_UseMeshUV": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_WithFog": 0.0,
+      "_ZTest": 4.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.3602941,
+        "g": 0.54999995,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DisColor": {
+        "r": 0.227451,
+        "g": 0.13333334,
+        "b": 0.9490197,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ExtColor": {
+        "r": 0.42693874,
+        "g": 0.19442043,
+        "b": 0.9117647,
+        "a": 1.0
+      },
+      "_MaskTillingOffset": {
+        "r": 0.2,
+        "g": 1.73,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoiseTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.28676468,
+        "g": 0.43924943,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.38372484,
+        "g": 0.3622404,
+        "b": 0.9852941,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 0.48073047,
+        "g": 0.41176468,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 0.5639877,
+        "g": 0.4463127,
+        "b": 0.9338235,
+        "a": 1.0
+      },
+      "_UVOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Kiana_C7_04_01_Materials_Wing_Star",
+  "Name": "Avatar_Kiana_C7_04_01_Materials_Wing_Star"
+}

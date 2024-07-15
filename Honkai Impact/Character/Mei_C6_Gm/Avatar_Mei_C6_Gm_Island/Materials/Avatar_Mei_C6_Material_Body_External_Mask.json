@@ -1,0 +1,308 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 7075044393332445307,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 7336100266935994619,
+          "Name": "Avatar_Mei_C6_Texture_Body_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskDisTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -4506515054014612276,
+          "Name": "noise_smooth",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.5,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -3000417523890350232,
+          "Name": "b3",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaPosition": 0.0,
+      "_BloomFactor": 0.0,
+      "_BloomGrp": 0.0,
+      "_CommonGrp": 0.0,
+      "_DisAngle": 180.0,
+      "_DisColorScale": 2.3,
+      "_DissolveUseUV2": 1.0,
+      "_DitherAlpha": 1.0,
+      "_DitherGrp": 0.0,
+      "_Edge": 0.2,
+      "_ExtAlphafix": 0.0,
+      "_ExtEmis": 5.2,
+      "_ExtOutlineWidth": 0.05,
+      "_ExternalOutline": 1.0,
+      "_FadeDistance": 0.1,
+      "_FadeDistanceScale": 1.0,
+      "_FadeOffset": 0.0,
+      "_LengthWaysDis": 1.0,
+      "_LengthWaysDisBlend": 0.0,
+      "_LightArea": 0.51,
+      "_MaskDisTexScale": 1.0,
+      "_MaskOffsetSpeed": 0.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_NoiseIntensity": 5.0,
+      "_OnlyUseMaskDis": 0.0,
+      "_Opaqueness": 0.928,
+      "_OutlineCamStart": 4805.0,
+      "_OutlineGrp": 0.0,
+      "_OutlineWidth": 0.0,
+      "_RGBias": 0.53,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 5.34,
+      "_RGShininess": 0.37,
+      "_RimGlow": 1.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.0,
+      "_SPNoiseScaler": 3.14,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 2.0,
+      "_SPTransitionEmissionScaler": 4.3,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowGrp": 0.0,
+      "_Shininess": 30.6,
+      "_Soft": 0.0,
+      "_SpecMulti": 0.5,
+      "_SpecialState": 0.0,
+      "_Stencil": 4.0,
+      "_StencilOp": 2.0,
+      "_TintColorEdge": 0.0,
+      "_TintColorPower": 1.0,
+      "_UseCameraFade": 0.0,
+      "_UseVertexColorMask": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.7850346,
+        "g": 0.8030814,
+        "b": 0.8897059,
+        "a": 1.0
+      },
+      "_DisColor": {
+        "r": 0.68691695,
+        "g": 0.53676474,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ExtColor": {
+        "r": 0.38013074,
+        "g": 0.22896844,
+        "b": 0.5661765,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.7156813,
+        "g": 0.6698746,
+        "b": 0.77205884,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 0.72018254,
+        "g": 0.6364619,
+        "b": 0.7941176,
+        "a": 1.0
+      },
+      "_MaskTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoiseTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.09284396,
+        "g": 0.018923007,
+        "b": 0.18382353,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.45476675,
+        "g": 0.38235295,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 0.41176468,
+        "g": 0.46450314,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.7156813,
+        "g": 0.6698746,
+        "b": 0.77205884,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Mei_C6_Material_Body_External_Mask",
+  "Name": "Avatar_Mei_C6_Material_Body_External_Mask"
+}

@@ -1,0 +1,48 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 2792961059390953776,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 2685437389526964446,
+          "Name": "Avatar_Kiana_C1_04_02_Texture_Effect_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 3.0,
+      "_DitherAlpha": 1.0,
+      "_Emission": 1.51,
+      "_Start": 0.0,
+      "_Stencil": 4.0,
+      "_UVYScale": 0.1,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_EmissionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Kiana_C1_04_02_Material_Effect_UI",
+  "Name": "Avatar_Kiana_C1_04_02_Material_Effect_UI"
+}

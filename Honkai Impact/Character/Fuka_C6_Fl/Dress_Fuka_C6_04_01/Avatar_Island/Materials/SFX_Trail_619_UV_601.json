@@ -1,0 +1,134 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -4067106898909583686,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -7610607101025615882,
+          "Name": "SFX_Trail_619_R",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.88,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex1": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -1693838524922600573,
+          "Name": "SFX_Mask_614",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": -1.12
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex01": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 3247502864016266230,
+          "Name": "SFX_Noise_104",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.47,
+          "Y": 0.44
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.12
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlwaysOnTop": 4.0,
+      "_Clip": 0.0,
+      "_ClipA": 0.0,
+      "_Cull": 0.0,
+      "_CustomData": 0.0,
+      "_CustomData1": 0.0,
+      "_DepthBlendType": 0.0,
+      "_DepthCt": 0.5,
+      "_DstBlend": 10.0,
+      "_EdgeBrightness": 1.0,
+      "_EdgeContrast": 1.0,
+      "_EdgeEffectCol": 0.0,
+      "_EmissionScaler": 12.8,
+      "_MaskChannelMapping": 0.0,
+      "_MaskInst": 1.0,
+      "_Noise01ChannelMapping": 0.0,
+      "_Noise01RandomU": 0.0,
+      "_Noise01RandomV": 0.0,
+      "_Noise01USpeed": 0.0,
+      "_Noise01VSpeed": 0.0,
+      "_NoiseBrightness": 0.125,
+      "_NoiseOffset": -2.8,
+      "_RandomU": 0.0,
+      "_RandomV": 0.0,
+      "_USpeed": 0.43,
+      "_USpeed1": 0.0,
+      "_UseDepth": 0.0,
+      "_UseMainTex1": 0.0,
+      "_UseMaskTex": 0.0,
+      "_UseNoiseTex01": 1.0,
+      "_VSpeed": 0.0,
+      "_VSpeed1": 0.0,
+      "_ZWrite": 0.0
+    },
+    "m_Colors": {
+      "_EdgeLight": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainColor": {
+        "r": 0.22058824,
+        "g": 0.55375266,
+        "b": 0.88235295,
+        "a": 1.0
+      },
+      "_SecondColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "SFX_Trail_619_UV_601",
+  "Name": "SFX_Trail_619_UV_601"
+}

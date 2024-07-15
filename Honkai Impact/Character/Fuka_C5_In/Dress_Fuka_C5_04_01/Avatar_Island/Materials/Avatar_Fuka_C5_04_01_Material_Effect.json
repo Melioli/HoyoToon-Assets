@@ -1,0 +1,122 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -6686348672914390055,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BloomMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 149939314832144630,
+          "Name": "BloomMask_skrC0204",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -4454233859999151221,
+          "Name": "Avatar_Fuka_C5_04_01_Light_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TwinkleTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -4454233859999151221,
+          "Name": "Avatar_Fuka_C5_04_01_Light_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 3.08,
+          "Y": 3.08
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 1.0,
+      "_BloomMaskSpeed": 0.0,
+      "_DitherAlpha": 1.0,
+      "_EmissionInts": 1.0,
+      "_FadeDistance": 0.0,
+      "_FadeDistanceScale": 1.0,
+      "_FadeOffset": 0.0,
+      "_Maskspeed": 0.0,
+      "_MaxOutlineZOffset": 3.2,
+      "_Opaqueness": 1.0,
+      "_OriginSpeedX": 5.0,
+      "_OriginSpeedY": 5.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlinePolygonOffsetFactor": 13.0,
+      "_OutlinePolygonOffsetUnits": 0.0,
+      "_OutlineWidth": 0.0,
+      "_ReferencePointDepth": 0.453125,
+      "_Scale": 0.01,
+      "_SingleFaceSwitch": 0.0,
+      "_SpeedShine": 2.0,
+      "_SpeedSkyShine": 5.0,
+      "_SpeedTwinkle": 0.3,
+      "_StrengthShine": 2.14,
+      "_StrengthSkyShine": 1.52,
+      "_TwinkleByMask": 0.0,
+      "_TwinkleUVSwitch": 0.0,
+      "_TwinkleUVSwitch1": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_tempX": 1.0,
+      "_tempY": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.13020997,
+        "g": 0.11602509,
+        "b": 0.27205884,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Fuka_C5_04_01_Material_Effect",
+  "Name": "Avatar_Fuka_C5_04_01_Material_Effect"
+}
