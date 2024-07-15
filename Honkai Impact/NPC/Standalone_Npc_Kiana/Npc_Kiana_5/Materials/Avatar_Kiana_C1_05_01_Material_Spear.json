@@ -1,0 +1,257 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -9152450209113394208,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BloomMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -2895237337084240041,
+          "Name": "Kiana_C1_FX_Artifact_Spear_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -2399992094936286346,
+          "Name": "Kiana_C1_FX_Artifact_Spear_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex_Alpha": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 4286988882110200570,
+          "Name": "Eff_Noise_05",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 2204581731872357574,
+          "Name": "b8",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 1.0,
+      "_DitherAlpha": 1.0,
+      "_Emission": 1.4,
+      "_EmissionBloomFactor": 1.0,
+      "_EmissionBloomFactorWithMask": 1.0,
+      "_EmissionWithMask": 1.0,
+      "_EnableEmiMaskTex": 0.0,
+      "_LightArea": 0.51,
+      "_MaxOutlineZOffset": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStrt": 1000.0,
+      "_OutlineWidth": 0.04,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.7,
+      "_RGShininess": 1.0,
+      "_RimGlow": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.0,
+      "_SPNoiseScaler": 10.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 4.91,
+      "_SPTransitionEmissionScaler": 15.1,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_Shininess": 4.0,
+      "_SpecMulti": 0.835,
+      "_SpecialState": 1.0,
+      "_Stencil": 8.0,
+      "_UsingBloomMask": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColorWithMask": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.73718643,
+        "g": 0.73894817,
+        "b": 0.99264705,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.023598026,
+        "g": 0.015570934,
+        "b": 0.066176474,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 0.39310348,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 0.39310342,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.73718643,
+        "g": 0.73894817,
+        "b": 0.99264705,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Kiana_C1_05_01_Material_Spear",
+  "Name": "Avatar_Kiana_C1_05_01_Material_Spear"
+}

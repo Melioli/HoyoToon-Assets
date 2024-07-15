@@ -1,0 +1,231 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -334985153789852392,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_EyeMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 7296005898822379699,
+          "Name": "NPC_Joyce_DLC_Face_Facemap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -8934052343833210399,
+          "Name": "NPC_Joyce_DLC_Face_lightmap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -403773079173303544,
+          "Name": "NPC_Joyce_DLC_Face_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AddEyeColor": 0.0,
+      "_BloomIntensity": 0.5,
+      "_CullMode": 2.0,
+      "_DitherAlpha": 1.0,
+      "_EnableFaceMap": 1.0,
+      "_EyeBrightness": 2.0,
+      "_Opaqueness": 1.0,
+      "_OutlineNormalFrom": 0.0,
+      "_OutlinePolygonOffsetFactor": 0.0,
+      "_OutlinePolygonOffsetUnits": 0.0,
+      "_OutlineWidth": 0.05,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnits": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_ShadowFeather": 0.0001,
+      "_ShadowThreshold": 0.5,
+      "_SpecialState": 0.0,
+      "_Stencil": 4.0,
+      "_UseEyeMaskTex": 0.0,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_MainMaps_ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.6691177,
+        "g": 0.31623614,
+        "b": 0.285359,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ShadowColor": {
+        "r": 0.9191176,
+        "g": 0.7501622,
+        "b": 0.7501622,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Joyce_DLC_Material_Face",
+  "Name": "Joyce_DLC_Material_Face"
+}

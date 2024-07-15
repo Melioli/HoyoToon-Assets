@@ -1,0 +1,484 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -6245594438899174256,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BlockMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_GradingMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HSVMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 291221604657292019,
+          "Name": "Monster_Boss_430_Texture_Weapon_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -820588992298128673,
+          "Name": "Monster_Boss_430_Texture_Weapon_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskDisTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -8724794819901514516,
+          "Name": "SFX_Noise_1605",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 1608311719761405622,
+          "Name": "SFX_Noise_010",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 2516962644355046189,
+          "Name": "b1",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaPosition": 0.08,
+      "_Amplitude": 1.0,
+      "_BackFaceUseUV2": 1.0,
+      "_BlockDynamic": 0.0,
+      "_BlockEmission": 1.0,
+      "_BlockSize": 1.0,
+      "_BlockYLerp": 1.0,
+      "_BloomFactor": 1.0,
+      "_BloomFactor2": 0.5,
+      "_BloomFactor3": 2.0,
+      "_BloomFactor4": 15.0,
+      "_BloomFactor5": 1.0,
+      "_BrightnessAmount": 1.0,
+      "_BrightnessAmount1": 1.0,
+      "_ColorGrading": 0.0,
+      "_ContrastAmount": 1.0,
+      "_ContrastAmount1": 1.0,
+      "_DisAngle": 60.0,
+      "_DisColorScale": 3.97,
+      "_DisableShadow": 0.0,
+      "_DissolveUseUV2": 1.0,
+      "_DitherAlpha": 1.0,
+      "_Edge": 0.2,
+      "_EmissionStr": 0.0,
+      "_FadeDistance": 0.1,
+      "_FadeOffset": 0.0,
+      "_Frequency": 2.0,
+      "_HRRimIntensity": 0.0,
+      "_HRRimPower": 0.1,
+      "_HSVMask": 0.0,
+      "_Hardness": 0.0,
+      "_LengthWaysDis": 1.0,
+      "_LengthWaysDisBlend": 0.0,
+      "_LightArea": 0.51,
+      "_MaskDisTexScale": 1.0,
+      "_MaskOffsetSpeed": 0.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_MoreHardRimColor": 0.0,
+      "_More_Outline_Color": 1.0,
+      "_NoiseIntensity": 5.0,
+      "_OffestFactor": 0.0,
+      "_OffestUnit": 0.0,
+      "_OnlyUseMaskDis": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 0.0,
+      "_OutlineWidth": 0.04,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.0,
+      "_RGShininess": 1.0,
+      "_RimGlow": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.0,
+      "_SPNoiseScaler": 4.81,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 1.0,
+      "_SPTransitionBloomFactor": 1.38,
+      "_SPTransitionEmissionScaler": 100.0,
+      "_SaturationAmount": 1.0,
+      "_SaturationAmount1": 1.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowRampTexUsed": 1.0,
+      "_Shininess": 20.0,
+      "_Smooth": 0.2,
+      "_Soft": 0.065,
+      "_SpecMulti": 1.9,
+      "_SpecialState": 0.0,
+      "_Specular": 1.0,
+      "_Stencil": 8.0,
+      "_TintColorEdge": 0.073,
+      "_TintColorPower": 1.0,
+      "_UseBChannel": 0.0,
+      "_UsingDitherAlpha": 1.0,
+      "_VertexAlphaFactor": 0.0,
+      "_WithFog": 0.0
+    },
+    "m_Colors": {
+      "_BackFaceColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ButtomBlockColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ButtomColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DisColor": {
+        "r": 0.74302,
+        "g": 0.4067906,
+        "b": 0.83823526,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.7686275,
+        "g": 0.7176471,
+        "b": 0.86666673,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.7686275,
+        "g": 0.7176471,
+        "b": 0.86666673,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.875,
+        "g": 0.73736054,
+        "b": 0.66268384,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.9215687,
+        "g": 0.7490196,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_HRRimColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 0.8014706,
+        "g": 0.6512558,
+        "b": 0.5539576,
+        "a": 1.0
+      },
+      "_MaskTillingOffset": {
+        "r": 2.0,
+        "g": 1.0,
+        "b": 0.09,
+        "a": 0.0
+      },
+      "_NoiseTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.15270849,
+        "g": 0.016868517,
+        "b": 0.19117647,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.068609424,
+        "g": 0.06950542,
+        "b": 0.19852942,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.2352941,
+        "g": 0.12089249,
+        "b": 0.058823526,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.10588236,
+        "g": 0.011764707,
+        "b": 0.003921569,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 0.6667341,
+        "g": 0.2205882,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.75519776,
+        "g": 0.65284383,
+        "b": 0.8455882,
+        "a": 1.0
+      },
+      "_TintColor1": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TintColor2": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TopBlockColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TopColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Monster_Boss_430_Materials_Weapon",
+  "Name": "Monster_Boss_430_Materials_Weapon"
+}

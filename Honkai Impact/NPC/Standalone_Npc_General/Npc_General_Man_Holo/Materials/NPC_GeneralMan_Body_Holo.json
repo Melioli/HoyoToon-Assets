@@ -1,0 +1,224 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 281530320664361329,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DiffuseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -2457805577139092453,
+          "Name": "NPC_General_Man_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AddNoise": 1.0,
+      "_BloomFactor": 0.5,
+      "_BloomFactor2": 1.0,
+      "_BloomFactor3": 1.0,
+      "_BloomGrp": 0.0,
+      "_ColorDarkOffset": 0.0,
+      "_ColorMediumOffset": 0.0,
+      "_CommonGrp": 0.0,
+      "_DissolveFactor": 0.0,
+      "_DitherAlpha": 1.0,
+      "_EnableGrid": 1.0,
+      "_EnableRim": 1.0,
+      "_EnableScanline": 1.0,
+      "_EnableScanlineB": 0.0,
+      "_FresnelIntensity": 0.0,
+      "_GlitchIntensity": 10.0,
+      "_GlitchOccurrenceInter": 10.0,
+      "_GlitchSpeed": 0.2,
+      "_GlitchTilling": 10.0,
+      "_GridAddInt": 0.1,
+      "_GridAddTillingX": 10.0,
+      "_GridAddTillingY": 10.0,
+      "_GridInt": 0.1,
+      "_GridTillingX": 30.0,
+      "_GridTillingY": 50.0,
+      "_Holographic": 1.0,
+      "_HolographicGrp": 0.0,
+      "_Inverse": 0.0,
+      "_InverseFadeOrientation": 0.0,
+      "_LightArea": 0.51,
+      "_Opaqueness": 1.0,
+      "_RimPow": 5.0,
+      "_RimRatio": 0.5,
+      "_Scale": 0.01,
+      "_ScanlineBAmount": 150.0,
+      "_ScanlineBFlowSpeed": 1.0,
+      "_ScanlineNum": 1.0,
+      "_ScanlineSpeed": 0.2,
+      "_SecondShadow": 0.51,
+      "_ShadowGrp": 0.0,
+      "_Shininess": 0.1,
+      "_SpecMulti": 0.1,
+      "_Stencil": 4.0,
+      "_StencilGrp": 0.0,
+      "_StencilOp": 2.0,
+      "_Transparent": 0.0,
+      "_USpeed": 0.0,
+      "_UseFakeTransparent": 0.0,
+      "_UseFresnel": 0.0,
+      "_UseFresnelAbs": 0.0,
+      "_UseTransparent": 0.0,
+      "_UsingDissolve": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_UsingGlitch": 0.0,
+      "_VSpeed": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_WorldPositionY": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ColorDark": {
+        "r": 0.1,
+        "g": 0.4,
+        "b": 0.83,
+        "a": 1.0
+      },
+      "_ColorMedium": {
+        "r": 0.3,
+        "g": 1.0,
+        "b": 0.91,
+        "a": 1.0
+      },
+      "_ColorShallow": {
+        "r": 0.75,
+        "g": 0.9,
+        "b": 0.92,
+        "a": 1.0
+      },
+      "_DissolveCoverColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FresnelColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FresnelParams": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_GlitchDir": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.2,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ScanlineBColor": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.75,
+        "g": 0.6,
+        "b": 0.65,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_GeneralMan_Body_Holo",
+  "Name": "NPC_GeneralMan_Body_Holo"
+}

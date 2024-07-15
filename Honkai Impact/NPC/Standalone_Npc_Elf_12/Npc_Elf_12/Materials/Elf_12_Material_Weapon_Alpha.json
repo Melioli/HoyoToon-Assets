@@ -1,0 +1,213 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": -8341094322410032952,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 1401797078405941143,
+          "Name": "Elf_12_Weapon_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -9062653936238832156,
+          "Name": "noise_rough",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -1691428938971190853,
+          "Name": "b10",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaClipThreshold": 0.1,
+      "_BloomFactor": 1.0,
+      "_Cull": 2.0,
+      "_DitherAlpha": 1.0,
+      "_FadeDistance": 0.1,
+      "_FadeDistanceScale": 1.0,
+      "_FadeOffset": 0.0,
+      "_LightArea": 0.51,
+      "_MaxOutlineZOffset": 1.0,
+      "_Opaqueness": 0.5,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.0,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.0,
+      "_RGShininess": 1.0,
+      "_RimGlow": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 1.0,
+      "_SPNoiseScaler": 10.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 6.0,
+      "_SPTransitionEmissionScaler": 4.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_Shininess": 3.0,
+      "_SpecMulti": 0.6,
+      "_SpecialState": 0.0,
+      "_Stencil": 4.0,
+      "_StencilOp": 2.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.60294116,
+        "g": 1.0,
+        "b": 0.72068965,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.8170956,
+        "g": 0.8227307,
+        "b": 0.9338235,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.30588236,
+        "g": 0.45882356,
+        "b": 0.7607844,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 0.59533465,
+        "b": 0.16176468,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.7,
+        "g": 0.7096551,
+        "b": 0.9,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Elf_12_Material_Weapon_Alpha",
+  "Name": "Elf_12_Material_Weapon_Alpha"
+}

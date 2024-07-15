@@ -1,0 +1,63 @@
+{
+  "m_Shader": {
+    "m_FileID": 4,
+    "m_PathID": 756732415778436847,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_JitterTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 2.0,
+      "_JitterScale": 0.0,
+      "_JitterSpeed": 0.0,
+      "_Oldjitter": 0.0,
+      "_Opaqueness": 0.6,
+      "_RGAlpha": 0.0,
+      "_RGBias": 0.3,
+      "_RGBloomFactor": 2.0,
+      "_RGRatio": 0.9,
+      "_RGScale": 3.5,
+      "_RGShininess": 1.5,
+      "_Scale": 0.01,
+      "_ScratchScale": 5.0,
+      "_ScratchSpeed": 0.0,
+      "_UseVertexColor": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 0.1703071,
+        "g": 0.3567221,
+        "b": 0.66176474,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_Tesla_Shadow_Face",
+  "Name": "NPC_Tesla_Shadow_Face"
+}

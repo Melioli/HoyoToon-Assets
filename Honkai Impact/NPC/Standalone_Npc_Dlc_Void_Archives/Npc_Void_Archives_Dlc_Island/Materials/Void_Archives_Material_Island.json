@@ -1,0 +1,56 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7259748537306474204,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_Opaqueness": 1.0,
+      "_RGBias": 0.0,
+      "_RGRatio": 1.0,
+      "_RGScale": 10.0,
+      "_RGShininess": 6.0,
+      "_RimGlow": 1.0,
+      "_Scale": 0.01,
+      "_Stencil": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Void_Archives_Material_Island",
+  "Name": "Void_Archives_Material_Island"
+}

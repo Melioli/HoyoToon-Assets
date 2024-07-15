@@ -1,0 +1,105 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 158703438425152152,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 7404269490847976645,
+          "Name": "Space Warps-2_seele",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -4563734346259498777,
+          "Name": "seel_head_mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex01": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex02": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlwaysOnTop": 4.0,
+      "_BloomFactor": 1.0,
+      "_EmissionScaler": 2.8,
+      "_MaskChannelMapping": 0.0,
+      "_Noise01ChannelMapping": 3.0,
+      "_Noise01RandomU": 0.0,
+      "_Noise01RandomV": 0.0,
+      "_Noise01USpeed": 0.0,
+      "_Noise01VSpeed": 0.0,
+      "_Noise02ChannelMapping": 0.0,
+      "_Noise02RandomU": 0.0,
+      "_Noise02RandomV": 0.0,
+      "_Noise02USpeed": 1.0,
+      "_Noise02VSpeed": 1.0,
+      "_NoiseBrightness": 1.0,
+      "_NoiseOffset": 0.0,
+      "_RandomU": 0.0,
+      "_RandomV": 0.0,
+      "_USpeed": 0.0,
+      "_UseMaskTex": 1.0,
+      "_UseNoiseTex01": 0.0,
+      "_UseNoiseTex02": 0.0,
+      "_VSpeed": 1.0
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "seele_head 2",
+  "Name": "seele_head 2"
+}

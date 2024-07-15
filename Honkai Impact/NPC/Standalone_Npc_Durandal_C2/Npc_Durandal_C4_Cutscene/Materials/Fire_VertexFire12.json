@@ -1,0 +1,154 @@
+{
+  "m_Shader": {
+    "m_FileID": 4,
+    "m_PathID": -5577482495378367327,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DisTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 8761173763051373140,
+          "Name": "Eff_Fire__YS_04",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DisTex2": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -1937779331159252558,
+          "Name": "SFX_Noise_001",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainOffsetTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 7224199479591676529,
+          "Name": "OffsetFireOffset01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 8116761280452200017,
+          "Name": "OffsetFireMask02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.1
+        }
+      },
+      "_texcoord": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_Cull": 0.0,
+      "_DisBlend": 0.0,
+      "_DisTexClip": 1.05,
+      "_MainAddColClip": 0.36,
+      "_MainAddColorIntensity": 0.27,
+      "_MainOffsetIntensity": 0.4,
+      "_OffsetNormalDir": 1.0,
+      "_RimBrightness": 3.63,
+      "_RimDisColor": 1.0,
+      "_RimRange": 0.285,
+      "_Smoothstep": 0.065,
+      "_Transparent": 0.725,
+      "_WithFog": 0.0
+    },
+    "m_Colors": {
+      "_DisTex2Speed": {
+        "r": -1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DisTexSpeed": {
+        "r": 0.1,
+        "g": 0.5,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainAddColor": {
+        "r": 0.44117647,
+        "g": 0.72251534,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_MainDarkColor": {
+        "r": 0.40062714,
+        "g": 0.5847243,
+        "b": 0.83823526,
+        "a": 0.0
+      },
+      "_MainLightColor": {
+        "r": 0.0077854637,
+        "g": 0.071769476,
+        "b": 0.17647058,
+        "a": 0.0
+      },
+      "_MainOffsetSpeed": {
+        "r": 0.2,
+        "g": 0.8,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RimColor": {
+        "r": 0.051470578,
+        "g": 0.3327586,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Fire_VertexFire12",
+  "Name": "Fire_VertexFire12"
+}

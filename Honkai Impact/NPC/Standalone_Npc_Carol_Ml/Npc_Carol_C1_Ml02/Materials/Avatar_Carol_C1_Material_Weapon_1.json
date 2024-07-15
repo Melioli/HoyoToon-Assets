@@ -1,0 +1,473 @@
+{
+  "m_Shader": {
+    "m_FileID": 7,
+    "m_PathID": -6013973979900585750,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BlockFxBlockTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BlockFxLineTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 1587512348725779132,
+          "Name": "Avatar_Carol_HP_Weapon2_Fx",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DiffuseRampMuitiTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 3238554671895884444,
+          "Name": "Default-DiffuseMultiRamp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DiffuseRampTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 7677049401562535834,
+          "Name": "Default-DiffuseRamp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 7183613382134948108,
+          "Name": "Avatar_Carol_HP_Weapon_Color_1",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 7005304356717120036,
+          "Name": "SFX_Noise_208",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.5,
+          "Y": 0.2
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 6000322046301953334,
+          "Name": "b11",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TintColMaskMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaCutoff": 0.5,
+      "_BlockFxBlockClip": 0.51,
+      "_BlockFxBlockIntensity": 6.36,
+      "_BlockFxBlockTexTilline": 1.0,
+      "_BlockFxClip1": 0.0,
+      "_BlockFxClip1Edge": 0.0,
+      "_BlockFxClip2Edge": 0.0,
+      "_BlockFxLineIntensity": 0.0,
+      "_BloomIntensity": 1.0,
+      "_BloomIntensity0": 1.0,
+      "_BloomIntensity1": 1.0,
+      "_BloomIntensity2": 1.0,
+      "_BloomIntensity3": 1.0,
+      "_BloomIntensity4": 1.0,
+      "_BloomIntensity5": 1.0,
+      "_BloomIntensity6": 1.0,
+      "_BloomIntensity7": 1.0,
+      "_Clip1Direction": 3.0,
+      "_CullMode": 2.0,
+      "_DitherAlpha": 1.0,
+      "_EnableAlphaCutoff": 0.0,
+      "_EnableMultipleBloom": 0.0,
+      "_EnableMultipleDiffuse": 0.0,
+      "_EnableMultipleOutline": 0.0,
+      "_EnableMultipleRim": 0.0,
+      "_EnableMultipleSpecular": 0.0,
+      "_EnableTintColor": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlinePolygonOffsetFactor": 0.0,
+      "_OutlinePolygonOffsetUnits": 0.0,
+      "_OutlineWidth": 0.05,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnits": 0.0,
+      "_RGBias": -0.6,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 5.82,
+      "_RGShininess": 1.5,
+      "_RimEdge": 0.0,
+      "_RimGlow": 0.0,
+      "_RimPower": 0.1,
+      "_SPIntensity": 0.0,
+      "_SPNoiseScaler": 6.32,
+      "_SPOpaqueness": 0.033,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 10.0,
+      "_ShadowThreshold": 0.5,
+      "_SpecialState": 1.0,
+      "_SpecularIntensity": 0.5,
+      "_SpecularShininess": 10.0,
+      "_Stencil": 4.0,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_BlockFxBlockColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_BlockFxBlockTexSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_BlockFxLineColor": {
+        "r": 1.0,
+        "g": 0.55862063,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DiffuseRanges": {
+        "r": 0.4,
+        "g": 0.6,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainMaps_ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.14901961,
+        "g": 0.11764706,
+        "b": 0.23921569,
+        "a": 1.0
+      },
+      "_OutlineColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_OutlineColor7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 0.14482757,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RimColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor0": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor6": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimColor7": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 0.1862068,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor0": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor6": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor7": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TintColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Avatar_Carol_C1_Material_Weapon_1",
+  "Name": "Avatar_Carol_C1_Material_Weapon_1"
+}

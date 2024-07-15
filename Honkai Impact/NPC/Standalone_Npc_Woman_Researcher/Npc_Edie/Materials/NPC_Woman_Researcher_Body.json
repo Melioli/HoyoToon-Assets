@@ -1,0 +1,250 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -3924171249220258849,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 7222206653961822101,
+          "Name": "NPC_General_Woman_Researcher_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 0.5,
+      "_BloomFactor2": 1.0,
+      "_BloomFactor3": 1.0,
+      "_BloomFactor4": 0.5,
+      "_BloomFactor5": 1.0,
+      "_DitherAlpha": 1.0,
+      "_FadeDistance": 0.5,
+      "_FadeOffset": 1.0,
+      "_LightArea": 0.51,
+      "_LightSpecMask": 0.5,
+      "_LightSpecThreshold": 0.48,
+      "_MaxOutlineZOffset": 1.0,
+      "_More_Outline_Color": 1.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.04,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.0,
+      "_RGShininess": 1.0,
+      "_RimGlow": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 0.5,
+      "_SPNoiseScaler": 1.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.0,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowArea": 0.6,
+      "_ShadowRampTexUsed": 1.0,
+      "_Shininess": 0.1,
+      "_SpecMulti": 0.1,
+      "_SpecialState": 0.0,
+      "_Stencil": 4.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0
+    },
+    "m_Colors": {
+      "_BackFaceColor": {
+        "r": 0.3696434,
+        "g": 0.3479131,
+        "b": 0.4044118,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.9,
+        "g": 0.7,
+        "b": 0.75,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.6350525,
+        "g": 0.62662196,
+        "b": 0.6985294,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.7058823,
+        "g": 0.6440281,
+        "b": 0.5657439,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.64287776,
+        "g": 0.6297578,
+        "b": 0.6691177,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.71323526,
+        "g": 0.6877729,
+        "b": 0.6555471,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.58823526,
+        "g": 0.25912243,
+        "b": 0.12110727,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.11759299,
+        "g": 0.11759299,
+        "b": 0.18382353,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.22794116,
+        "g": 0.12867346,
+        "b": 0.03854887,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.13725491,
+        "g": 0.14117648,
+        "b": 0.16862746,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.068532184,
+        "g": 0.040062718,
+        "b": 0.1397059,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_Woman_Researcher_Body",
+  "Name": "NPC_Woman_Researcher_Body"
+}

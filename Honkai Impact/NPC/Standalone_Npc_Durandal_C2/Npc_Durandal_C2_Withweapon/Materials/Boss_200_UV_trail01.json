@@ -1,0 +1,112 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 5106428898336829030,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -975843108779649169,
+          "Name": "Boss_200_color01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.2
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 3504283863833386011,
+          "Name": "Fuka_mask04",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex01": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -2076124906748320283,
+          "Name": "Eff_mask_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex02": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlwaysOnTop": 4.0,
+      "_BloomFactor": 1.0,
+      "_EmissionScaler": 5.0,
+      "_MaskChannelMapping": 0.0,
+      "_Noise01ChannelMapping": 0.0,
+      "_Noise01RandomU": 0.0,
+      "_Noise01RandomV": 1.0,
+      "_Noise01USpeed": -0.5,
+      "_Noise01VSpeed": 0.0,
+      "_Noise02ChannelMapping": 0.0,
+      "_Noise02RandomU": 0.0,
+      "_Noise02RandomV": 0.0,
+      "_Noise02USpeed": 1.0,
+      "_Noise02VSpeed": 1.0,
+      "_NoiseBrightness": 1.75,
+      "_NoiseOffset": 0.0,
+      "_RandomU": 0.0,
+      "_RandomV": 0.0,
+      "_USpeed": 0.0,
+      "_UseMaskTex": 1.0,
+      "_UseNoiseTex01": 1.0,
+      "_UseNoiseTex02": 0.0,
+      "_VSpeed": 0.0
+    },
+    "m_Colors": {
+      "_TintColor": {
+        "r": 0.25735295,
+        "g": 0.29320475,
+        "b": 1.0,
+        "a": 0.209
+      }
+    }
+  },
+  "m_Name": "Boss_200_UV_trail01",
+  "Name": "Boss_200_UV_trail01"
+}

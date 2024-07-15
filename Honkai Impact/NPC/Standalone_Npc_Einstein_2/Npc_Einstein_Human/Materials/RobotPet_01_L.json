@@ -1,0 +1,72 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 7611511129886886146,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 5288008443522303083,
+          "Name": "Supporter_MiniRobot_EyeL_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 20.0,
+      "_BrightnessAmount": 1.0,
+      "_ColorGrading": 0.0,
+      "_ColorTolerance": 0.0,
+      "_ContrastAmount": 1.0,
+      "_DitherAlpha": 1.0,
+      "_EmissionFactor": 1.0,
+      "_EnableDepthBias": 0.0,
+      "_HueOffset": 0.0,
+      "_MainSettingGrp": 0.0,
+      "_OffsetFactor": -2.0,
+      "_OffsetUnits": -2.0,
+      "_ReverseHue": 0.0,
+      "_SaturateOffset": 0.0,
+      "_SaturationAmount": 1.0,
+      "_Stencil": 4.0,
+      "_UsingDitherAlpha": 0.0,
+      "_ValueOffset": 0.0,
+      "_ZDepthBias": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 0.1544118,
+        "g": 0.7200814,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ColorToOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "RobotPet_01_L",
+  "Name": "RobotPet_01_L"
+}

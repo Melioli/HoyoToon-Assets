@@ -1,0 +1,128 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": -710237663177599315,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DetailTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -211057494914777013,
+          "Name": "Stage_ElysionGarden_Fan_PropsC_04_MA",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.2,
+          "Y": 2.36
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_EnvTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 6302687874178583066,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 2285382393561077776,
+          "Name": "Stage_ElysionGarden_Fan_PropsC_04_DA",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex_Alpha": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -211057494914777013,
+          "Name": "Stage_ElysionGarden_Fan_PropsC_04_MA",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShadowTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 453263903719784211,
+          "Name": "Stage_AirIsland_F03_Tex_Gray",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 1.0,
+      "_CamDistRatio": 0.061,
+      "_CamHeightOffset": 5.0,
+      "_CamRotate": 0.05,
+      "_Culling": 2.0,
+      "_DetailIntensity": 0.45,
+      "_DetailSpeed": 0.0,
+      "_EnableFresnel": 1.0,
+      "_EnableSperateAlpha": 1.0,
+      "_FogTune": 1.0,
+      "_LightMapIntensity": 18.0,
+      "_Reflectivity": 0.64,
+      "_Stencil": 12.0,
+      "_Transparent": 1.0,
+      "_fresnelBase": 0.87,
+      "_fresnelIndensity": 2.71,
+      "_fresnelScale": 3.48
+    },
+    "m_Colors": {
+      "_MainColor": {
+        "r": 0.03633218,
+        "g": 0.07727003,
+        "b": 0.11764705,
+        "a": 1.0
+      },
+      "_fresnelCol": {
+        "r": 0.0058931718,
+        "g": 0.241823,
+        "b": 0.8014706,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Stage_ElysionGarden_Fan_PropsC_05",
+  "Name": "Stage_ElysionGarden_Fan_PropsC_05"
+}

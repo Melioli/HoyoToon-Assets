@@ -1,0 +1,190 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -8686924436215288662,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_CloudTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4071185668996712516,
+          "Name": "Enviro_MilkyWay_Noise",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.7,
+          "Y": 0.7
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ColorPaletteTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -6875118094305838682,
+          "Name": "Enviro_Stars_Color_Palette_HighSaturation",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.8,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ConstellationTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 2781868476467385654,
+          "Name": "NPC_Paimon_Cloak_Lightmap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 9033062325927867427,
+          "Name": "NPC_Paimon_Cloak_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex01": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -559227832274615481,
+          "Name": "Eff_FireNoise_03",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 12.0,
+          "Y": 12.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex02": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 3375726377503032961,
+          "Name": "Eff_SmokeNoise_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 6.0,
+          "Y": 6.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Star02Tex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 5342291017035908301,
+          "Name": "Enviro_Stars_Big_2Channel",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_StarTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 5342291017035908301,
+          "Name": "Enviro_Stars_Big_2Channel",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 1.0,
+      "_CloudBrightness": 0.17,
+      "_CloudHeight": 5.0,
+      "_ColorPalletteSpeed": -0.09,
+      "_ConstellationBrightness": 2.0,
+      "_ConstellationHeight": 1.5,
+      "_Cull": 2.0,
+      "_DitherAlpha": 1.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_Noise01Speed": 0.075,
+      "_Noise02Speed": -0.045,
+      "_Noise03Brightness": 0.05,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.04,
+      "_Scale": 0.01,
+      "_Star01Speed": 0.007,
+      "_Star02Height": 6.0,
+      "_StarBrightness": 4.0,
+      "_StarHeight": 3.0,
+      "_Stencil": 4.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexAlphaFactor": 0.0,
+      "_WithFog": 0.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.16078432,
+        "g": 0.16078432,
+        "b": 0.20392159,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_Paimon_Cloak",
+  "Name": "NPC_Paimon_Cloak"
+}

@@ -1,0 +1,435 @@
+{
+  "m_Shader": {
+    "m_FileID": 13,
+    "m_PathID": 9110668395596943096,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BumpMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissNoiseTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveNoiseTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_JitterMap": {
+        "m_Texture": {
+          "m_FileID": 10,
+          "m_PathID": -728842628668767943,
+          "Name": "Jitter_Smooth_Noise",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 11,
+          "m_PathID": -6029249547781701183,
+          "Name": "NPC_MarsGeneral_LittleGirl_C1_04_LittleSongque_Texture_Hair_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 8,
+          "m_PathID": -6484106996036187540,
+          "Name": "NPC_MarsGeneral_LittleGirl_C1_04_LittleSongque_Texture_Hair_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampMap": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 7746544407998484981,
+          "Name": "DiffSpecRampHair2D",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_RampTex": {
+        "m_Texture": {
+          "m_FileID": 9,
+          "m_PathID": -6007037449530866031,
+          "Name": "Custom_Color_Ramp_Hair01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPSecondTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPSecondTextureMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SpecularMaskMap": {
+        "m_Texture": {
+          "m_FileID": 12,
+          "m_PathID": 7809980686915539550,
+          "Name": "NPC_MarsGeneral_LittleGirl_C1_04_LittleSongque_Texture_Hair_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "DiffuseGrp": 0.0,
+      "_AmbientLerpValue": 0.2,
+      "_AmbientLerpValueForward": 0.2,
+      "_BeforeSkin": 0.0,
+      "_BumpScale": 0.3,
+      "_CullMode": 2.0,
+      "_DiffuseOffset": 0.5,
+      "_DirectionalFadeGrp": 0.0,
+      "_DirectionalFadeOffset": 0.0,
+      "_DirectionalFadeRange": 0.1,
+      "_DirectionalFadeValue": 1.0,
+      "_DissNoiseEffectDissMask": 1.0,
+      "_DissNoiseEffectDissolve": 1.0,
+      "_DissNoiseIntensity": 0.0,
+      "_DissNoiseOffset": 0.0,
+      "_DissNoiseUSpeed": 0.0,
+      "_DissNoiseVSpeed": 0.0,
+      "_DissolveMode": 0.0,
+      "_DissolveNoiseIntensity": 0.5,
+      "_DissolveProcess": 0.0,
+      "_DissolveTransitionArea": 0.0,
+      "_DissolveTransitionColorIntensity": 1.0,
+      "_DissolveUVFrom": 2.0,
+      "_DissolveUVSpeed": 0.0,
+      "_DitherAlpha": 1.0,
+      "_DitherAlphaEnd": 1.0,
+      "_DitherLerpEnd": 0.0,
+      "_DitherLerpStart": 1.0,
+      "_DstBlendMode": 0.0,
+      "_EmissionStrength": 1.0,
+      "_Emission_Type": 0.0,
+      "_EnableDepthBias": 0.0,
+      "_EnableDissolve": 0.0,
+      "_EnableFogAffect": 1.0,
+      "_EnableLocalLight": 1.0,
+      "_EnableNoise": 0.0,
+      "_EnableRimGlow": 0.0,
+      "_EyeBlend": 1.0,
+      "_HairBlendOffset": -0.5,
+      "_HairBlendWeight": 0.5,
+      "_HighGrp": 0.0,
+      "_LOD": 0.0,
+      "_LightArea": 0.6,
+      "_LowGrp": 0.0,
+      "_LumiCharContrast": 0.0,
+      "_Luminance": 0.0,
+      "_MainSettingGrp": 0.0,
+      "_MapsGrp": 0.0,
+      "_MicsGrp": 0.0,
+      "_MulAlbedo": 0.0,
+      "_NoiseEffectDissMaskInt": 1.0,
+      "_NoiseEffectDissolveInt": 1.0,
+      "_NoiseEffectSecond": 1.0,
+      "_NoiseEffectSecondInt": 1.0,
+      "_NoiseEffectSecondMask": 0.0,
+      "_NoiseEffectSecondMaskInt": 1.0,
+      "_NoiseUVFrom": 0.0,
+      "_OtherMapsGrp": 0.0,
+      "_OutlineCoord": 2.0,
+      "_OutlineEmission": 1.0,
+      "_OutlineGrp": 0.0,
+      "_OutlineWidth": 0.035,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_RGPower": 0.1,
+      "_RGSoftRange": 0.5,
+      "_RampTexV": 1.0,
+      "_ReciveCharacterShadowEachOther": 0.0,
+      "_ReciveSceneShadow": 1.0,
+      "_RimGlowStrength": 1.0,
+      "_SPCubeMapBrightness": 1.0,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPEnableCubeMap": 0.0,
+      "_SPEnableSecondTexture": 0.0,
+      "_SPEnableSecondTextureMask": 0.0,
+      "_SPSecondTexMaskIntensity": 1.0,
+      "_SPSecondTexMaskSmooth": 0.0,
+      "_SPSecondTexMaskTransitionArea": 0.1,
+      "_SPSecondTextureEmission": 0.0,
+      "_SPSecondTextureTransition": 0.0,
+      "_SPSecondTextureUVFrom": 0.0,
+      "_Scale": 0.01,
+      "_SceneShadowSoft": 0.101,
+      "_SecondShadow": 0.51,
+      "_SpecialState": 0.0,
+      "_SpecularFresnelIntensity": 0.964,
+      "_SpecularGrp": 0.0,
+      "_SpecularHighIntensity": 0.25,
+      "_SpecularHighJitterRangeMax": -0.19,
+      "_SpecularHighJitterRangeMin": -0.42,
+      "_SpecularHighShift": -2.02,
+      "_SpecularHighShininessRangeMax": 18.0,
+      "_SpecularHighShininessRangeMin": 244.0,
+      "_SpecularLowIntensity": 0.2,
+      "_SpecularLowJitterRangeMax": 0.0,
+      "_SpecularLowJitterRangeMin": 0.0,
+      "_SpecularLowShift": -2.02,
+      "_SpecularLowShininessRangeMax": 0.0,
+      "_SpecularLowShininessRangeMin": 150.0,
+      "_SpecularMaskLerp": 1.0,
+      "_SpecularShiftRange": 0.2,
+      "_SrcBlendMode": 1.0,
+      "_Stencil": 16.0,
+      "_StencilComp": 6.0,
+      "_StencilPassOp": 1.0,
+      "_ToneSoft": 0.037,
+      "_UseMainTexAsEmission": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_UsingDitherLerp": 0.0,
+      "_ZDepthBias": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DirectionalFadeDirection": {
+        "r": 0.0,
+        "g": -1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissNoiseAffectChannel": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.39705884,
+        "g": 0.39705884,
+        "b": 0.39705884,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.8088235,
+        "g": 0.7502902,
+        "b": 0.743404,
+        "a": 1.0
+      },
+      "_GIForwardCol": {
+        "r": 0.176,
+        "g": 0.317,
+        "b": 0.463,
+        "a": 1.0
+      },
+      "_MainMaps_ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.41176474,
+        "g": 0.3019608,
+        "b": 0.24705884,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPSecTexFlowSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPSecondColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPSecondTexMaskTransitionColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.75735295,
+        "g": 0.6925793,
+        "b": 0.68495893,
+        "a": 1.0
+      },
+      "_SpecularHighColor": {
+        "r": 0.88235295,
+        "g": 0.79869527,
+        "b": 0.642301,
+        "a": 1.0
+      },
+      "_SpecularLowColor": {
+        "r": 0.50735295,
+        "g": 0.37073818,
+        "b": 0.33947882,
+        "a": 1.0
+      },
+      "_SpecularOffset": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.5,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_MarsGeneral_LittleGirl_C1_04_LittleSongque_Materials_Hair",
+  "Name": "NPC_MarsGeneral_LittleGirl_C1_04_LittleSongque_Materials_Hair"
+}

@@ -1,0 +1,484 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -6245594438899174256,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BlockMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_GradingMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HSVMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -1121351080743468158,
+          "Name": "NPC_WeltJoyce_Body_Texture_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -1887910538772109475,
+          "Name": "NPC_WeltJoyce_Body_Texture_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskDisTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPCubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 4286988882110200570,
+          "Name": "Eff_Noise_05",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SPTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 2516962644355046189,
+          "Name": "b1",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaPosition": 0.0,
+      "_Amplitude": 1.0,
+      "_BackFaceUseUV2": 0.0,
+      "_BlockDynamic": 0.0,
+      "_BlockEmission": 1.0,
+      "_BlockSize": 1.0,
+      "_BlockYLerp": 1.0,
+      "_BloomFactor": 0.5,
+      "_BloomFactor2": 1.0,
+      "_BloomFactor3": 1.0,
+      "_BloomFactor4": 1.0,
+      "_BloomFactor5": 0.5,
+      "_BrightnessAmount": 1.0,
+      "_BrightnessAmount1": 1.0,
+      "_ColorGrading": 0.0,
+      "_ContrastAmount": 1.0,
+      "_ContrastAmount1": 1.0,
+      "_DisAngle": 0.0,
+      "_DisColorScale": 1.0,
+      "_DisableShadow": 0.0,
+      "_DissolveUseUV2": 1.0,
+      "_DitherAlpha": 1.0,
+      "_Edge": 0.2,
+      "_EmissionStr": 0.0,
+      "_FadeDistance": 0.5,
+      "_FadeOffset": 1.0,
+      "_Frequency": 2.0,
+      "_HRRimIntensity": 0.0,
+      "_HRRimPower": 0.1,
+      "_HSVMask": 0.0,
+      "_Hardness": 0.0,
+      "_LengthWaysDis": 0.0,
+      "_LengthWaysDisBlend": 0.0,
+      "_LightArea": 0.51,
+      "_MaskDisTexScale": 1.0,
+      "_MaskOffsetSpeed": 0.0,
+      "_MaxOutlineZOffset": 1.0,
+      "_MoreHardRimColor": 0.0,
+      "_More_Outline_Color": 1.0,
+      "_NoiseIntensity": 5.0,
+      "_OffestFactor": 0.0,
+      "_OffestUnit": 0.0,
+      "_OnlyUseMaskDis": 0.0,
+      "_Opaqueness": 1.0,
+      "_OutlineCamStart": 1000.0,
+      "_OutlineWidth": 0.04,
+      "_RGBias": 0.0,
+      "_RGBloomFactor": 1.0,
+      "_RGRatio": 0.5,
+      "_RGScale": 1.0,
+      "_RGShininess": 1.0,
+      "_RimGlow": 0.0,
+      "_SPCubeMapBrightness": 1.26,
+      "_SPCubeMapIntensity": 0.0,
+      "_SPCubeMapNoiseIntensity": 0.0,
+      "_SPIntensity": 1.0,
+      "_SPNoiseScaler": 10.0,
+      "_SPOpaqueness": 1.0,
+      "_SPTransition": 0.0,
+      "_SPTransitionBloomFactor": 1.38,
+      "_SPTransitionEmissionScaler": 1.0,
+      "_SaturationAmount": 1.0,
+      "_SaturationAmount1": 1.0,
+      "_Scale": 0.01,
+      "_SecondShadow": 0.51,
+      "_ShadowRampTexUsed": 1.0,
+      "_Shininess": 20.0,
+      "_Smooth": 0.04,
+      "_Soft": 0.0,
+      "_SpecMulti": 0.5,
+      "_SpecialState": 0.0,
+      "_Specular": 0.0,
+      "_Stencil": 8.0,
+      "_TintColorEdge": 0.0,
+      "_TintColorPower": 1.0,
+      "_UseBChannel": 0.0,
+      "_UsingDitherAlpha": 1.0,
+      "_VertexAlphaFactor": 0.0,
+      "_WithFog": 0.0
+    },
+    "m_Colors": {
+      "_BackFaceColor": {
+        "r": 0.21568629,
+        "g": 0.27058825,
+        "b": 0.33333334,
+        "a": 1.0
+      },
+      "_ButtomBlockColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ButtomColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DisColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 1.0,
+        "g": 0.76470584,
+        "b": 0.76470584,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.7651384,
+        "g": 0.7802768,
+        "b": 0.85294116,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor3": {
+        "r": 0.7651384,
+        "g": 0.7802768,
+        "b": 0.85294116,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor4": {
+        "r": 0.7651384,
+        "g": 0.7802768,
+        "b": 0.85294116,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor5": {
+        "r": 0.7651384,
+        "g": 0.7802768,
+        "b": 0.85294116,
+        "a": 1.0
+      },
+      "_HRRimColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_HRRimColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_LightSpecColor": {
+        "r": 0.8235294,
+        "g": 0.875,
+        "b": 0.875,
+        "a": 1.0
+      },
+      "_MaskTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoiseTillingOffset": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.5661765,
+        "g": 0.25554475,
+        "b": 0.22064231,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.15233022,
+        "g": 0.14673442,
+        "b": 0.16911763,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.11656576,
+        "g": 0.11656576,
+        "b": 0.20588237,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.11656576,
+        "g": 0.11656576,
+        "b": 0.20588237,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.14705884,
+        "g": 0.048502572,
+        "b": 0.019463671,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPCubeMapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPCubeMapOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPNoiseOffsetSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SPOldColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_SPOutlineColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SPTransitionColor": {
+        "r": 1.0,
+        "g": 0.62375647,
+        "b": 0.62375647,
+        "a": 1.0
+      },
+      "_SecondShadowMultColor": {
+        "r": 0.9117647,
+        "g": 0.9117647,
+        "b": 0.9117647,
+        "a": 1.0
+      },
+      "_TintColor1": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TintColor2": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TopBlockColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_TopColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_WeltJoyce_Materials_Body",
+  "Name": "NPC_WeltJoyce_Materials_Body"
+}

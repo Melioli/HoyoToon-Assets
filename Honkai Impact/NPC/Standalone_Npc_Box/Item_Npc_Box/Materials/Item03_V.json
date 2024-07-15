@@ -1,0 +1,38 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 6751470157586393435,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7887441521621216282,
+          "Name": "PerpStage_Sakura_Item03",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomFactor": 0.5,
+      "_Culling": 0.0,
+      "_FogTune": 1.0,
+      "_Stencil": 12.0
+    },
+    "m_Colors": {}
+  },
+  "m_Name": "Item03_V",
+  "Name": "Item03_V"
+}

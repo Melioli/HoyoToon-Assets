@@ -1,0 +1,225 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": -6639696176069758564,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BumpMap": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -6780864795621471184,
+          "Name": "111111DefaultNormal",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DecalMapAtlas": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 4776694191143118472,
+          "Name": "111111DefaultColor",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SecondaryBumpMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SecondaryTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BlendValueFrom": 0.0,
+      "_CameraDitherAlpha": 0.28,
+      "_CameraDitherAlphabyHeight": 0.28,
+      "_CameraFade": 0.0,
+      "_CameraFadebyHeight": 0.0,
+      "_CullMode": 2.0,
+      "_CutOff": 0.5,
+      "_DiffuseBlendIntensity": 1.0,
+      "_DiffuseBlendMethod": 1.0,
+      "_DissEdge": 0.5,
+      "_DissEdgeIntensity": 10.0,
+      "_DissolveRange": 0.5,
+      "_Dissolve_ON": 0.0,
+      "_DistanceClip": 0.0,
+      "_DitherAlpha": 1.0,
+      "_EmissionRange": 0.1,
+      "_EmissionStrength": 1.0,
+      "_Emission_Type": 0.0,
+      "_EnableAlphaTest": 0.0,
+      "_EnablePBRDebuging": 0.0,
+      "_EnableReflection": 1.0,
+      "_EnableRimGlow": 0.0,
+      "_EnableSSR": 0.0,
+      "_EnableSecondTex": 0.0,
+      "_EnableSpecCubeBoxProjection": 0.0,
+      "_FadeDistance": 0.05,
+      "_FadeHeight": -9999.0,
+      "_FadeOffset": 1.0,
+      "_FadebyHeightDistance": 0.5,
+      "_FadebyHeightHeight": -9999.0,
+      "_FadebyHeightOffset": 1.0,
+      "_InvertBlend": 0.0,
+      "_LOD": 0.0,
+      "_MaskBlendMethod": 0.0,
+      "_MetallicSmoothnessBlendIntensity": 1.0,
+      "_MulAlbedo": 0.0,
+      "_NormalBlendIntensity": 1.0,
+      "_NormalBlendMethod": 0.0,
+      "_PBRDebugingMetallic": 0.0,
+      "_PBRDebugingSmoothness": 0.0,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_RGPower": 0.1,
+      "_RGStrength": 1.0,
+      "_Smooth": 0.0,
+      "_StartClip": 0.5,
+      "_Stencil": 12.0,
+      "_UVSec": 0.0,
+      "_UseDecal": 0.0,
+      "_UseMaskAsEmission": 0.0,
+      "_UseUV2": 0.0,
+      "_UsingDitherAlpha": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DecalPart": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissEdgeColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_FadeOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_PBRDebugingAlbedo": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "SRP Default-Material",
+  "Name": "SRP Default-Material"
+}
