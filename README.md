@@ -25,13 +25,15 @@
 
 ## Game Specfic Info
 
-> [!NOTE] > **Honkai Impact**
+> [!NOTE]
+ **Honkai Impact**
 >
 > HI3 handles file storage really weird, I simply cannot organize and or make it easier for you than I've already done. Images have been placed but will not always be accurate.
 >
 > Many thanks to Yuki :D
 
-> [!NOTE] > **Wuthering Waves**
+> [!NOTE]
+**Wuthering Waves**
 >
 > These are ripped using FModel QA build.
 >
