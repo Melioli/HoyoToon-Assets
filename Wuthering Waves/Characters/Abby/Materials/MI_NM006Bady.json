@@ -1,0 +1,65 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/NPC/Pet/NM006_2/Model/T_NM006Bady_D.T_NM006Bady_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
+    "T_NM006Bady_D": "Client/Content/Aki/Character/NPC/Pet/NM006_2/Model/T_NM006Bady_D.T_NM006Bady_D",
+    "PM_Normals": "Client/Content/Aki/Character/NPC/Pet/NM006_2/Model/T_NM006Bady_N.T_NM006Bady_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/NPC/Pet/NM006_2/Model/T_NM006Bady_N.T_NM006Bady_N",
+    "MatCapTex": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
+    "T_MC_premake_D": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
+    "Ramp": "Client/Content/Aki/Character/NPC/Pet/NM006_2/Model/T_NM006Bady_Skin.T_NM006Bady_Skin",
+    "T_NM006Bady_Skin": "Client/Content/Aki/Character/NPC/Pet/NM006_2/Model/T_NM006Bady_Skin.T_NM006Bady_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.65,
+        "G": 0.65,
+        "B": 0.65,
+        "A": 0.0,
+        "Hex": "D3D3D3"
+      }
+    },
+    "Scalars": {
+      "ShadowProcess": 0.55,
+      "ShadowWidth": 0.02,
+      "MetalSpecularPower": 20.0,
+      "RampInt": 0.5,
+      "RampPosition": 0.1,
+      "LightOffset_Pitch": -35.0,
+      "LightOffset_Yaw": 0.0,
+      "UseLightOffset_Pitch_DYN": 1.0,
+      "UseLightOffset_Yaw_DYN": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "UseDoubleSpecular": false,
+      "UseMatCap": true,
+      "使用PBRMask": true,
+      "UseRampColor": true,
+      "UseSkinAllRampColor": true,
+      "LightPitch(False=30,True=45)": true,
+      "UseLightOffset_Pitch": true,
+      "UseLightOffset_Yaw": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

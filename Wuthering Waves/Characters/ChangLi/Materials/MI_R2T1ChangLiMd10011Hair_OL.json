@@ -1,0 +1,52 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_LD.T_R2T1ChangLiMd10011Hair_LD",
+    "T_R2T1ChangLiMd10011Hair_LD": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_LD.T_R2T1ChangLiMd10011Hair_LD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.266356,
+        "G": 0.144128,
+        "B": 0.14996,
+        "A": 1.0,
+        "Hex": "8D6A6C"
+      },
+      "OutlineColorTint": {
+        "R": 1.0,
+        "G": 0.823529,
+        "B": 0.835294,
+        "A": 0.0,
+        "Hex": "FFEBEC"
+      }
+    },
+    "Scalars": {
+      "MinWidth": 0.03,
+      "OutlineWidth": 0.12,
+      "OutlineClipWidth": 1.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

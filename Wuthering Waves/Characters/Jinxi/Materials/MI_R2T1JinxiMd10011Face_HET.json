@@ -1,0 +1,449 @@
+{
+  "Textures": {
+    "T_DefaultColorWhite_D": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "T_DefaultMaskGreen_M": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "BlendFunc_DefBlend": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.BlendFunc_DefBlend",
+    "BlendFunc_DefBase": "Engine/Content/EngineMaterials/BlendFunc_DefBase.BlendFunc_DefBase",
+    "T_Caustic_001": "Client/Content/Aki/Render/Common/T_Caustic_001.T_Caustic_001",
+    "T_HDMF_EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "T_EV_BlankWhite_01": "Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.T_EV_BlankWhite_01",
+    "PM_Emissive": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "R_Noise_A_Mask": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
+    "PM_Diffuse": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "E_Tex_NoiseTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "Mask": "Client/Content/Aki/Character/Role/FemaleM/Jinxi/R2T1JinxiMd10011/Model/T_R2T1JinxiMd10011Face_HET.T_R2T1JinxiMd10011Face_HET",
+    "E_Hologram_NoiseTex": "Client/Content/Aki/Render/Common/T_Caustic_001.T_Caustic_001",
+    "E_Hologram_MainTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "E_Hologram_MaskTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "Second_RGB": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "T_R2T1JinxiMd10011Face_HET": "Client/Content/Aki/Character/Role/FemaleM/Jinxi/R2T1JinxiMd10011/Model/T_R2T1JinxiMd10011Face_HET.T_R2T1JinxiMd10011Face_HET"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "E_Hologram_BaseRefine": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.5,
+        "Hex": "7FFFFFFF"
+      },
+      "E_Dissolve_Emission": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "EffectMaskChannel_Vector": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "E_Hologram_BaseUV": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "E_Tex_Speed": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "NoiseUV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "E_Hologram_WPOVector": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF0000"
+      },
+      "E_Rim_RimColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "Second_ScreenObjectUV": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "0000FF"
+      },
+      "E_Tex_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "E_Hologram_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "FresnelRim_RimColor": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF0000"
+      },
+      "E_Tex_ScaleAndOffset": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Second_ColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ActorPosition": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 100.0,
+        "A": 1.0,
+        "Hex": "0000FF"
+      },
+      "Second_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "E_Rim_Channel": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "Second_Refine": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "E_Hologram_HightColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "E_Hologram_RampColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SecondTex_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "E_Dissolve_Channel": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "E_Hologram_MaskUV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "E_Base_Color": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ParallaxOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "Noise_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "ZVector": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "E_Motion_Emissive": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "E_Hologram_NoiseUV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "YBasis": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "XBasis": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "E_Motion_Offset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "E_Tex_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ZBasis": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "E_Emission_Color": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "SkinBaseColor": {
+        "R": 0.7,
+        "G": 0.685294,
+        "B": 0.65,
+        "A": 1.0,
+        "Hex": "DAD8D3"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.905882,
+        "G": 0.886275,
+        "B": 0.811765,
+        "A": 0.0,
+        "Hex": "F5F2E9"
+      },
+      "SkinShadowColor": {
+        "R": 0.45,
+        "G": 0.376172,
+        "B": 0.323437,
+        "A": 0.0,
+        "Hex": "B3A59A"
+      },
+      "SkinShadowColorNight": {
+        "R": 0.721569,
+        "G": 0.698039,
+        "B": 0.592157,
+        "A": 0.0,
+        "Hex": "DDDACB"
+      }
+    },
+    "Scalars": {
+      "E_Hologram_JitterStrength": 1500.0,
+      "E_Hologram_Inverse": 1.0,
+      "E_Hologram_MaskIntensity": 0.0,
+      "E_Rim_RimRange": 0.5,
+      "UseLightOffset_Pitch_DYN": 0.0,
+      "E_Dither_DitherValue": 1.2,
+      "E_Tex_MaskRange": 1.0,
+      "E_Hologram_MaskUVRotation": 0.0,
+      "E_Hologram_NoiseStrength": 0.15,
+      "LightOffset_Yaw": 0.0,
+      "ParallaxScale": 1.0,
+      "FresnelRim_Smooth": 0.0,
+      "ParallaxHeight": 0.25,
+      "E_Rim_UseRim": 0.0,
+      "NorWS/ZVector": 0.0,
+      "E_Rim_Intensity": 1.0,
+      "E_Hologram_UVRotation": 0.0,
+      "Second_HeightRadio": 0.0,
+      "E_Motion_DitherPow": 0.5,
+      "E_Hologram_RampPow": 1.0,
+      "E_Tex_UseTex": 0.0,
+      "E_Dissolve_Smooth": 5.0,
+      "E_Dissolve_UseDissolve": 0.0,
+      "LightOffset_Pitch": 0.0,
+      "E_Emission_Intensity": 1.0,
+      "E_Hologram_EmissionIntensity": 1.0,
+      "E_Motion_NoiseSpeed": 0.0,
+      "E_Base_UseTex": 0.0,
+      "FresnelRim_Reverse": 0.0,
+      "E_Emission_UseTex": 0.0,
+      "EyeScale": 0.8,
+      "E_Dither_DitherValue2": 1.2,
+      "E_Dissolve_Progress": 0.0,
+      "E_MotionRange": 0.5,
+      "E_Rim_UseTex": 1.0,
+      "UseCameraTangent": 1.0,
+      "USE Hologram": 0.0,
+      "NoiseStrength": 1.0,
+      "Effect_Progress": 0.0,
+      "CustomLightDir": 0.0,
+      "E_Hologram_Opactiy": 0.09,
+      "E_Hologram_Hight": 0.0,
+      "Second_Height": 0.0,
+      "E_Motion_DitherMin": -0.1,
+      "FresnelRim_RimRange": 5.0,
+      "Second_UseObjectScreenUV": 0.0,
+      "E_Base_Intensity": 0.0,
+      "FlowEffectEdge_Strength": 0.2,
+      "E_Hologram_HightOffset": 0.0,
+      "E_Tex_UseScreenUV": 0.0,
+      "E_Dither_UseDither": 0.0,
+      "E_Dissolve_Multi": 100.0,
+      "E_Tex_UseMask": 0.0,
+      "E_Tex_UseVCMask_Set": 0.0,
+      "UseLightOffset_Yaw_DYN": 0.0,
+      "E_Hologram_HightPow": 1.0,
+      "LightPitch(False=30,True=45)_DYN": 1.0,
+      "Second_NoiseStrength": 0.15,
+      "E_Tex_Rotation": 0.0,
+      "Custom0(Yaw)": 0.0,
+      "Noise_UseScreenUV": 0.0,
+      "E_Motion_DitherMax": 0.5,
+      "Second_UseScreenUV": 0.0,
+      "E_Dither_UseDither2": 0.0,
+      "UseZVector": 0.0,
+      "RefractionDepthBias": 0.0,
+      "UVSaturationIntensity": 0.5
+    },
+    "Switches": {},
+    "Properties": {
+      "Normal": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionMaterialFunctionCall_0",
+        "UseConstant": false,
+        "Constant": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      "EmissiveColor": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionMultiply_3",
+        "UseConstant": false,
+        "Constant": {
+          "B": 0,
+          "G": 0,
+          "R": 0,
+          "A": 0,
+          "Hex": "000000"
+        }
+      },
+      "ShadingModels": {
+        "ShadingModelField": 4096
+      },
+      "WorldPositionOffset": {
+        "Expression": null,
+        "OutputIndex": 1,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionMaterialFunctionCall_5",
+        "UseConstant": false,
+        "Constant": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      "bEnableSeparateTranslucency": false,
+      "RenderQueue": 190,
+      "bUsedWithSkeletalMesh": true,
+      "bUsedWithStencilOnlyWrite": true,
+      "bSupportsUBInstancing": false,
+      "bUsedWithMorphTargets": true,
+      "StateId": "EBA27AD7-4682985F-D54C1AA9-346755A3",
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 190
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

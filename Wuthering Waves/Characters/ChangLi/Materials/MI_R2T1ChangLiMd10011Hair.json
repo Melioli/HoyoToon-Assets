@@ -1,0 +1,124 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_D.T_R2T1ChangLiMd10011Hair_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_D.T_R2T1ChangLiMd10011Hair_D",
+    "T_R2T1ChangLiMd10011Hair_D": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_D.T_R2T1ChangLiMd10011Hair_D",
+    "MaskTex": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_HM.T_R2T1ChangLiMd10011Hair_HM",
+    "T_R2T1ChangLiMd10011Hair_HM": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_HM.T_R2T1ChangLiMd10011Hair_HM",
+    "PM_Normals": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_N.T_R2T1ChangLiMd10011Hair_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Hair_N.T_R2T1ChangLiMd10011Hair_N",
+    "Ramp": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011_Skin.T_R2T1ChangLiMd10011_Skin",
+    "T_R2T1ChangLiMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011_Skin.T_R2T1ChangLiMd10011_Skin",
+    "R_Noise_A_Mask": "Client/Content/Aki/Effect/Texture/CharacterMask/T_Wenli_Weapon_R5Knife501_Mask.T_Wenli_Weapon_R5Knife501_Mask",
+    "T_Wenli_Weapon_R5Knife501_Mask": "Client/Content/Aki/Effect/Texture/CharacterMask/T_Wenli_Weapon_R5Knife501_Mask.T_Wenli_Weapon_R5Knife501_Mask"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.223529,
+        "G": 0.32549,
+        "B": 0.615686,
+        "A": 0.0,
+        "Hex": "829BCE"
+      },
+      "ExtraShadowColor": {
+        "R": 0.4,
+        "G": 0.4,
+        "B": 0.4,
+        "A": 0.0,
+        "Hex": "AAAAAA"
+      },
+      "Second_ColorTint": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "Second_Refine": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Second_UV": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.2,
+        "Hex": "33FFFF00"
+      },
+      "SkinBaseColor": {
+        "R": 0.96,
+        "G": 0.875294,
+        "B": 0.771429,
+        "A": 1.0,
+        "Hex": "FBF1E4"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.960784,
+        "G": 0.941177,
+        "B": 0.85,
+        "A": 1.0,
+        "Hex": "FBF9EE"
+      }
+    },
+    "Scalars": {
+      "SolidShadowProcess": 0.1,
+      "ShadowProcess": 0.7,
+      "ShadowWidth": 0.03,
+      "MaskShadowOffsetStrength": 0.25,
+      "ShadowOffsetAdjustFactor": 1.0,
+      "ShadowOffsetPower": 1.0,
+      "SolidShadowStrength": 1.0,
+      "SpecStrength": 0.1,
+      "NormalStrength": 0.5,
+      "UseHairColor": -0.95,
+      "UseHairColorGradient": 0.54,
+      "R:OffsetPosition": 0.846,
+      "UseUVGradient_DYN": 1.0,
+      "UvGradientProcess": 0.56667,
+      "BaseSphereLightInt": 1.0,
+      "ShdaowSphereLightInt": 1.0,
+      "ShowSphereLightMask": 0.0,
+      "Param": 1.0,
+      "RampInt": 0.4,
+      "RampPosition": 0.3,
+      "SolidShadow_RampPosition": 0.6,
+      "Second_NoiseStrength": 0.15,
+      "UVGradientSkinInt": 6.334,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseNormalMap": true,
+      "UseHairVCGradient": true,
+      "UseUVGradient": true,
+      "UseRampColor": true,
+      "UseEffectMaterial": true,
+      "UseNoise": false,
+      "UseFlowEffectEdge": false,
+      "UseSecond": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonHair",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 195
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

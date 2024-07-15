@@ -1,0 +1,164 @@
+{
+  "Textures": {
+    "T_3XingStar_D": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_D.T_3XingStar_D",
+    "T_XingHenSoundNoise": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise.T_XingHenSoundNoise",
+    "T_XingHenSoundNoise02": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise02.T_XingHenSoundNoise02",
+    "T_XingHenShakeNoise_D": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenShakeNoise_D.T_XingHenShakeNoise_D",
+    "T_DefaultColorWhite_D": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
+    "PM_Diffuse": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30002.T_Tile_30002",
+    "Noise": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise02.T_XingHenSoundNoise02",
+    "D": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_016/Model/T_NH_FemaleM_016Star_D.T_NH_FemaleM_016Star_D",
+    "E_Tex_NoiseTex": "Client/Content/Aki/Effect/Texture/Tile/T_Tile_30002.T_Tile_30002",
+    "Noise02": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise.T_XingHenSoundNoise",
+    "ShakeNoise": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenShakeNoise_D.T_XingHenShakeNoise_D",
+    "T_NH_FemaleM_016Star_D": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_016/Model/T_NH_FemaleM_016Star_D.T_NH_FemaleM_016Star_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "E_Dissolve_Emission": {
+        "R": 5.0,
+        "G": 1.682763,
+        "B": 0.370439,
+        "A": 0.0,
+        "Hex": "FFFFA4"
+      },
+      "E_Tex_Speed": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "E_Tex_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "E_Tex_ScaleAndOffset": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "SDFColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "E_Dissolve_Channel": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "SDFColor02": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "E_Tex_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "XingHenControl": 0.0,
+      "SoundWaveInt02": 0.0,
+      "ShowMask": 0.0,
+      "E_Dither_DitherValue": 1.2,
+      "E_Tex_MaskRange": 1.0,
+      "ShakeNoiseTilingX": 1.0,
+      "XHTimeSpeed": 3.0,
+      "Intensity": 10.0,
+      "E_Tex_UseTex": 1.0,
+      "E_Dissolve_Smooth": 20.0,
+      "E_Dissolve_UseDissolve": 1.0,
+      "E_Dissolve_Progress": 0.0,
+      "ShakeNoiseInt": 0.0,
+      "ShakeNoiseX_Speed": 0.0,
+      "XHIntensity": 3.0,
+      "SoundWaveSpeed02": -0.57,
+      "UVScale": 1.0,
+      "SoundWaveInt01": 0.0,
+      "E_Tex_UseScreenUV": 0.0,
+      "E_Dither_UseDither": 0.0,
+      "E_Dissolve_Multi": 100.0,
+      "ShakeNoiseTilingY": 1.0,
+      "E_Tex_UseMask": 0.0,
+      "SoundWaveTiling01": 3.8,
+      "E_Tex_UseVCMask_Set": 0.0,
+      "E_Tex_Rotation": 0.0,
+      "SDFStart": -0.2,
+      "XHPower": 2.2,
+      "XHMax": 0.45,
+      "SoundWaveSpeed01": -0.2,
+      "SoundWaveTiling02": 7.8,
+      "Rotation Angle (0-1) (S)": 0.0,
+      "ShakeNoise_YSpeed": 1.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseRotate180UV": true
+    },
+    "Properties": {
+      "EmissiveColor": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionReroute_12",
+        "UseConstant": false,
+        "Constant": {
+          "B": 0,
+          "G": 0,
+          "R": 0,
+          "A": 0,
+          "Hex": "000000"
+        }
+      },
+      "ShadingModels": {
+        "ShadingModelField": 4096
+      },
+      "bEnableSeparateTranslucency": false,
+      "bUsedWithSkeletalMesh": true,
+      "bUsedWithMorphTargets": true,
+      "StateId": "45118D56-45B41E6E-DA43F0A7-1B379E98",
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 200,
+        "bOverride_CustomAlphaTest": true,
+        "bCustomAlphaTest": true,
+        "bOverride_EnableBattle": true,
+        "bEnableBattle": true,
+        "bOverride_EnableBattleMask": true,
+        "bEnableBattleMask": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

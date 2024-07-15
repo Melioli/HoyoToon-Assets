@@ -1,0 +1,73 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/Model/T_R2T1JianxinMd10011Face_D.T_R2T1JianxinMd10011Face_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/Model/T_R2T1JianxinMd10011Face_D.T_R2T1JianxinMd10011Face_D",
+    "T_R2T1JianxinMd10011Face_D": "Client/Content/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/Model/T_R2T1JianxinMd10011Face_D.T_R2T1JianxinMd10011Face_D",
+    "TypeMask": "Client/Content/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/Model/T_R2T1JianxinMd10011Face_ID.T_R2T1JianxinMd10011Face_ID",
+    "T_R2T1JianxinMd10011Face_ID": "Client/Content/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/Model/T_R2T1JianxinMd10011Face_ID.T_R2T1JianxinMd10011Face_ID",
+    "MaskTex": "Client/Content/Aki/Character/Role/CommonTexture/T_FemaleMFace_SDF.T_FemaleMFace_SDF",
+    "T_FemaleMFace_SDF": "Client/Content/Aki/Character/Role/CommonTexture/T_FemaleMFace_SDF.T_FemaleMFace_SDF",
+    "Ramp": "Client/Content/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/Model/T_R2T1JianxinMd10011_Skin.T_R2T1JianxinMd10011_Skin",
+    "T_R2T1JianxinMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleM/Jianxin/R2T1JianxinMd10011/Model/T_R2T1JianxinMd10011_Skin.T_R2T1JianxinMd10011_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SkinSubsurfaceColor": {
+        "R": 0.938686,
+        "G": 0.603828,
+        "B": 0.40724,
+        "A": 1.0,
+        "Hex": "F8CCAB"
+      },
+      "SkinColor": {
+        "R": 0.984314,
+        "G": 0.94902,
+        "B": 0.917647,
+        "A": 0.0,
+        "Hex": "FEFAF6"
+      }
+    },
+    "Scalars": {
+      "SolidShadowSaturation": 1.0,
+      "SolidShadowView": 1.0,
+      "ShadowWidth": 0.01,
+      "SDFSmoothness": 0.001,
+      "UseUVGradient_DYN": 1.0,
+      "UvGradientProcess": 0.26,
+      "UvGradientScale": 65.0,
+      "UseMainLightColor": 0.2,
+      "BaseSphereLightInt": 0.25,
+      "ShdaowSphereLightInt": 0.5,
+      "RampInt": 0.4,
+      "RampPosition": 0.1,
+      "UVGradientSkinInt": 0.95,
+      "UVSaturationIntensity": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTypeMask": true,
+      "UseUVGradient": true,
+      "UseFaceRamp": true,
+      "UseRampMask": true,
+      "UseRampColor": true,
+      "UseSkinAllRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonFace",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Cloth_LD.T_NH_FemaleM_011Cloth_LD",
+    "T_NH_FemaleM_011Cloth_LD": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Cloth_LD.T_NH_FemaleM_011Cloth_LD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColorTint": {
+        "R": 0.71525,
+        "G": 0.738608,
+        "B": 0.973958,
+        "A": 0.0,
+        "Hex": "DCDFFD"
+      }
+    },
+    "Scalars": {
+      "InnerOutlineMulti": 60.0,
+      "InnerOutlineOffset": 0.5,
+      "OutlineClipWidth": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

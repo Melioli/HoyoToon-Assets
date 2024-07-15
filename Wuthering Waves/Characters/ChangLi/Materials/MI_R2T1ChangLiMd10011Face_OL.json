@@ -1,0 +1,43 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.2,
+        "G": 0.129412,
+        "B": 0.117647,
+        "A": 1.0,
+        "Hex": "7C6560"
+      }
+    },
+    "Scalars": {
+      "OutlineWidth": 0.12,
+      "InnerOutlineMulti": 592.8074,
+      "InnerOutlineOffset": 0.5,
+      "OutlineClipWidth": 1.5,
+      "OutlineHoldDistance": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
+  }
+}

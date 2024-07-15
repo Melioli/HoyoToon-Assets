@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Cloth_LD.T_R2T1ChangLiMd10011Cloth_LD",
+    "T_R2T1ChangLiMd10011Cloth_LD": "Client/Content/Aki/Character/Role/FemaleXL/ChangLi/R2T1ChangLiMd10011/Model/T_R2T1ChangLiMd10011Cloth_LD.T_R2T1ChangLiMd10011Cloth_LD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.02,
+        "G": 0.02,
+        "B": 0.02,
+        "A": 1.0,
+        "Hex": "262626"
+      }
+    },
+    "Scalars": {
+      "MinWidth": 0.03,
+      "OutlineWidth": 0.12,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": false,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

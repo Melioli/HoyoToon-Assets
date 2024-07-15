@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/NPC/FemaleS/Special/NHT1ChangliKid/Model/T_NHT1ChangliKidSuit_D.T_NHT1ChangliKidSuit_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/NPC/FemaleS/Special/NHT1ChangliKid/Model/T_NHT1ChangliKidSuit_D.T_NHT1ChangliKidSuit_D",
+    "T_NHT1ChangliKidSuit_D": "Client/Content/Aki/Character/NPC/FemaleS/Special/NHT1ChangliKid/Model/T_NHT1ChangliKidSuit_D.T_NHT1ChangliKidSuit_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColorTint": {
+        "R": 0.34375,
+        "G": 0.252441,
+        "B": 0.252441,
+        "A": 0.0,
+        "Hex": "9F8A8A"
+      }
+    },
+    "Scalars": {
+      "OutlineClipWidth": 1.5,
+      "OutlineHoldDistance": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "Textures": {
+    "T_DefaultColorWhite_Linear_D": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.T_DefaultColorWhite_Linear_D",
+    "HairVCTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.T_DefaultColorWhite_Linear_D",
+    "PM_Diffuse": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.T_DefaultColorWhite_Linear_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OffsetIntensity": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "OffsetSpeed": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "PositionOffset": {
+        "R": 0.266667,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "8D0000"
+      },
+      "SkinBaseColor": {
+        "R": 0.7,
+        "G": 0.685294,
+        "B": 0.65,
+        "A": 1.0,
+        "Hex": "DAD8D3"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.905882,
+        "G": 0.886275,
+        "B": 0.811765,
+        "A": 0.0,
+        "Hex": "F5F2E9"
+      },
+      "SkinShadowColor": {
+        "R": 0.45,
+        "G": 0.376172,
+        "B": 0.323437,
+        "A": 0.0,
+        "Hex": "B3A59A"
+      },
+      "SkinShadowColorNight": {
+        "R": 0.721569,
+        "G": 0.698039,
+        "B": 0.592157,
+        "A": 0.0,
+        "Hex": "DDDACB"
+      }
+    },
+    "Scalars": {
+      "G:HairAOIntensity": 0.0,
+      "SolidShadowStrength": 0.0,
+      "UseHairColorGradient": 0.5,
+      "R:OffsetPosition": 1.0,
+      "B:RandomIntensity": 0.0,
+      "R:RandomPosition": 1.0,
+      "RefractionDepthBias": 0.0,
+      "UVSaturationIntensity": 0.5
+    },
+    "Switches": {},
+    "Properties": {
+      "Normal": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionMaterialFunctionCall_0",
+        "UseConstant": false,
+        "Constant": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      "EmissiveColor": {
+        "Expression": null,
+        "OutputIndex": 4,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionCustom_0",
+        "UseConstant": false,
+        "Constant": {
+          "B": 0,
+          "G": 0,
+          "R": 0,
+          "A": 0,
+          "Hex": "000000"
+        }
+      },
+      "ShadingModels": {
+        "ShadingModelField": 16384
+      },
+      "WorldPositionOffset": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionAdd_0",
+        "UseConstant": false,
+        "Constant": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      "PixelDepthOffset": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionFeatureLevelSwitch_2",
+        "UseConstant": false,
+        "Constant": 0.0
+      },
+      "RenderQueue": 190,
+      "bUsedWithSkeletalMesh": true,
+      "bUsedWithFaceShadowMesh": true,
+      "bUsedWithMorphTargets": true,
+      "bUseFullPrecision": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "9236F3EB-458A77C2-02E87682-1E979692",
+      "BasePropertyOverrides": {
+        "bEnableSeparateTranslucency": true,
+        "ShadingModel": "MSM_ToonFace",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 190
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

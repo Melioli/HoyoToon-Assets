@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/NPC/FemaleS/Special/NHT1ChangliKid/Model/T_NHT1ChangliKidHair_D.T_NHT1ChangliKidHair_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/NPC/FemaleS/Special/NHT1ChangliKid/Model/T_NHT1ChangliKidHair_D.T_NHT1ChangliKidHair_D",
+    "T_NHT1ChangliKidHair_D": "Client/Content/Aki/Character/NPC/FemaleS/Special/NHT1ChangliKid/Model/T_NHT1ChangliKidHair_D.T_NHT1ChangliKidHair_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.104167,
+        "G": 0.065647,
+        "B": 0.067581,
+        "A": 1.0,
+        "Hex": "5B4849"
+      },
+      "OutlineColorTint": {
+        "R": 0.546875,
+        "G": 0.435791,
+        "B": 0.435791,
+        "A": 0.0,
+        "Hex": "C3B0B0"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

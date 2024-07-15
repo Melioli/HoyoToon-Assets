@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "PM_Emissive": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "T_HDMF_EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
+    "Mask": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Eye_HET.T_NH_FemaleM_011Eye_HET",
+    "T_NH_FemaleM_011Eye_HET": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Eye_HET.T_NH_FemaleM_011Eye_HET"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "ParallaxOffset": {
+        "R": 0.2,
+        "G": 0.0,
+        "B": 0.3,
+        "A": 0.0,
+        "Hex": "7C0095"
+      }
+    },
+    "Scalars": {
+      "ParallaxHeight": 0.2,
+      "ParallaxScale": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseParallax": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 190
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

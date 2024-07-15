@@ -1,0 +1,63 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "PositionOffset": {
+        "R": 0.0,
+        "G": -0.3,
+        "B": -0.371428,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "SkinBaseColor": {
+        "R": 0.7,
+        "G": 0.685294,
+        "B": 0.65,
+        "A": 1.0,
+        "Hex": "DAD8D3"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.905882,
+        "G": 0.886275,
+        "B": 0.811765,
+        "A": 0.0,
+        "Hex": "F5F2E9"
+      },
+      "SkinShadowColor": {
+        "R": 0.45,
+        "G": 0.376172,
+        "B": 0.323437,
+        "A": 0.0,
+        "Hex": "B3A59A"
+      },
+      "SkinShadowColorNight": {
+        "R": 0.721569,
+        "G": 0.698039,
+        "B": 0.592157,
+        "A": 0.0,
+        "Hex": "DDDACB"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0,
+      "UVSaturationIntensity": 0.5
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bEnableSeparateTranslucency": true,
+        "ShadingModel": "MSM_ToonFace",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 190
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
+  }
+}
