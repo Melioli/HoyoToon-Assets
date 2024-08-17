@@ -1,0 +1,76 @@
+{
+  "Textures": {
+    "MatCapTex": "Client/Content/Aki/Character/Role/CommonTexture/MatCap/T_Reflection2_MC.T_Reflection2_MC",
+    "T_Reflection2_MC": "Client/Content/Aki/Character/Role/CommonTexture/MatCap/T_Reflection2_MC.T_Reflection2_MC",
+    "HeightLightTex": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_GlassHeightLight_D.T_GlassHeightLight_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_GlassHeightLight_D.T_GlassHeightLight_D",
+    "T_GlassHeightLight_D": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_GlassHeightLight_D.T_GlassHeightLight_D"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.701102,
+        "G": 0.62396,
+        "B": 0.462077,
+        "A": 1.0,
+        "Hex": "DACFB5"
+      },
+      "HLColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "EnvironmentColorInt": 0.7,
+      "OpacityScale": 15.0,
+      "EdgeColorScale": 0.0,
+      "EdgeColorWidth": 6.0,
+      "EdgeOpacityInt": 18.0,
+      "MaCapColortInt": 0.2,
+      "MatCapOpacityInt": 0.0,
+      "HLOpacityInt": 0.1,
+      "HLpositionX": 0.9,
+      "HLpositionY": 0.4,
+      "HLScale": 1.35,
+      "HLmoveSpeed": 0.5,
+      "ThickColorScale": 0.8,
+      "ThickColorWidth": -0.675,
+      "ThickColorInt": 400.0,
+      "ThickBaseReflectFractionIn": 0.6,
+      "ThickExponentIn": 0.3,
+      "ReflectColorInt": 0.0,
+      "ReflecOpacityInt": 0.05,
+      "ReflectScale": -0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseGradientOpacity": true,
+      "UseMatCap": true,
+      "UseVertexNormal": true,
+      "UseHeightLightTex": true,
+      "UseThickColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "BLEND_Translucent",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 200
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

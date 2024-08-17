@@ -1,0 +1,68 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Eye_D.T_R2T1XiangLiYaoMd10011Eye_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Eye_D.T_R2T1XiangLiYaoMd10011Eye_D",
+    "T_R2T1XiangLiYaoMd10011Eye_D": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Eye_D.T_R2T1XiangLiYaoMd10011Eye_D",
+    "MaskTex": "Client/Content/Aki/Character/Role/CommonTexture/T_MaleXLFace01_SDF.T_MaleXLFace01_SDF",
+    "T_MaleXLFace01_SDF": "Client/Content/Aki/Character/Role/CommonTexture/T_MaleXLFace01_SDF.T_MaleXLFace01_SDF"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "HeightLight_Color": {
+        "R": 0.145748,
+        "G": 0.128559,
+        "B": 0.177083,
+        "A": 1.0,
+        "Hex": "6A6475"
+      },
+      "ParallaxOffset": {
+        "R": 0.171428,
+        "G": 0.0,
+        "B": 1.501981,
+        "A": 0.0,
+        "Hex": "7300FF"
+      }
+    },
+    "Scalars": {
+      "HeightLight_PositionX": 0.504761,
+      "HeightLight_PositionY": 0.690021,
+      "HeightLight_WidthX": 0.942312,
+      "HeightLight_WidthY": 1.074223,
+      "ParallaxHeight": 0.25,
+      "EyeScale": 0.970351,
+      "SecondLight_PositionX": 0.383,
+      "SecondLight_PositionY": 0.466,
+      "SecondLight_WidthX": 0.826,
+      "SecondLight_WidthY": 0.645,
+      "RotateAngle": 2.187,
+      "ShapeScaleX": 6.0,
+      "ShapeScaleY": 10.0,
+      "ShapePosition01X": 2.34123,
+      "ShapePosition01Y": 0.63,
+      "ShadowWidth": 0.03,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseHeightLightShape": true,
+      "UseEyeSDF": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonFace",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 180,
+        "bDisableCastDynamicShadows": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
