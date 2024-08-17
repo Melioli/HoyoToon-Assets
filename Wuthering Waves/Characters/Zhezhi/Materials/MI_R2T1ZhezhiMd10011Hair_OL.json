@@ -1,0 +1,149 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_R2T1ZhezhiMd10011Hair_OL",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'MI_HairOL_Default'",
+        "ObjectPath": "Client/Content/Aki/Character/MaterialInstance/Outline/MI_HairOL_Default.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "OutlineWidth",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.1,
+          "ExpressionGUID": "EE7DBCB3-4D67074B-0EB48B94-48D6044F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OutlineClipWidth",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.2,
+          "ExpressionGUID": "365492A2-4D0425F1-D53A48AD-AFFD8306"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "OutlineColorTint",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.5,
+            "A": 0.0,
+            "Hex": "BCBCBC"
+          },
+          "ExpressionGUID": "4FD879AC-4B395F7B-8240E296-B9B59B20"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MainTex",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1ZhezhiMd10011Hair_LD'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Hair_LD.0"
+          },
+          "ExpressionGUID": "1C989A56-4631B9AD-84409CB8-D44C2A72"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bDisableCastDynamicShadows": true,
+        "bIsBackFace": true
+      },
+      "StaticParameters": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseMainTex",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "831C80FD-407B5944-C0C74681-9FE8352D"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseCurvature",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "9EC19EBD-40E52EE5-F5C08CB8-B1ACBBE9"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseVertexGreen_OutlineWidth",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "C4001BCA-4126A1C5-C7ACEEB7-5BD1E4FA"
+          }
+        ]
+      },
+      "CachedReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorBlack_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorBlack_Linear_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_Linear_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_Linear_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.0"
+        },
+        null
+      ],
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_R2T1ZhezhiMd10011Hair_LD"
+        }
+      ]
+    }
+  }
+]

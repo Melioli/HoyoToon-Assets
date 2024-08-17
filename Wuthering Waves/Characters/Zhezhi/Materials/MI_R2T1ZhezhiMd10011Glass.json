@@ -1,62 +1,288 @@
-{
-  "Textures": {
-    "MatCapTex": "Client/Content/Aki/Character/Role/CommonTexture/MatCap/T_Reflection2_MC.T_Reflection2_MC",
-    "T_Reflection2_MC": "Client/Content/Aki/Character/Role/CommonTexture/MatCap/T_Reflection2_MC.T_Reflection2_MC",
-    "HeightLightTex": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_GlassHeightLight_D.T_GlassHeightLight_D",
-    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_GlassHeightLight_D.T_GlassHeightLight_D",
-    "T_GlassHeightLight_D": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_GlassHeightLight_D.T_GlassHeightLight_D"
-  },
-  "Parameters": {
-    "BlendMode": 2,
-    "ShadingModel": 0,
-    "Colors": {
-      "BaseColor": {
-        "R": 0.701102,
-        "G": 0.62396,
-        "B": 0.462077,
-        "A": 1.0,
-        "Hex": "DACFB5"
-      },
-      "HLColor": {
-        "R": 1.0,
-        "G": 1.0,
-        "B": 1.0,
-        "A": 0.0,
-        "Hex": "FFFFFF"
-      }
-    },
-    "Scalars": {
-      "EnvironmentColorInt": 0.7,
-      "OpacityScale": 15.0,
-      "EdgeColorScale": 0.0,
-      "EdgeColorWidth": 6.0,
-      "EdgeOpacityInt": 18.0,
-      "MaCapColortInt": 0.2,
-      "MatCapOpacityInt": 0.0,
-      "HLOpacityInt": 0.1,
-      "HLpositionX": 0.9,
-      "HLpositionY": 0.4,
-      "HLScale": 1.35,
-      "HLmoveSpeed": 0.5,
-      "ThickColorScale": 0.8,
-      "ThickColorWidth": -0.675,
-      "ThickColorInt": 400.0,
-      "ThickBaseReflectFractionIn": 0.6,
-      "ThickExponentIn": 0.3,
-      "ReflectColorInt": 0.0,
-      "ReflecOpacityInt": 0.05,
-      "ReflectScale": -0.5,
-      "RefractionDepthBias": 0.0
-    },
-    "Switches": {
-      "UseGradientOpacity": true,
-      "UseMatCap": true,
-      "UseVertexNormal": true,
-      "UseHeightLightTex": true,
-      "UseThickColor": true
-    },
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_R2T1ZhezhiMd10011Glass",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
     "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_Char_Glass'",
+        "ObjectPath": "Client/Content/Aki/Render/Shaders/Character/M_Char_Glass.0"
+      },
       "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "EnvironmentColorInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.7,
+          "ExpressionGUID": "E4CEF98D-4974615D-E3CCEAAC-41E939EB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "OpacityScale",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 15.0,
+          "ExpressionGUID": "08A488EE-45D7E929-027E938F-D840C9B3"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "EdgeColorScale",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "0E8F27DA-4BBADA49-D84BFDAF-395E86BD"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "EdgeColorWidth",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 6.0,
+          "ExpressionGUID": "8B600F30-4BE5A81F-DC80F7B1-18ED62D4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "EdgeOpacityInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 18.0,
+          "ExpressionGUID": "30895FF7-4F104F59-9178AEA5-EA4EDC47"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaCapColortInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.2,
+          "ExpressionGUID": "5C094989-4EC90ADA-DE3A56A0-9841E4C9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MatCapOpacityInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "A2E06805-4B736FDE-E4A05998-9CE5F50B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HLOpacityInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.1,
+          "ExpressionGUID": "CA015601-4546213B-F1C5738F-A4B46BFF"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HLpositionX",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.9,
+          "ExpressionGUID": "5CCDB5AB-4390A73F-BD4B3DBD-4DD38DD1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HLpositionY",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.4,
+          "ExpressionGUID": "3D3C059B-4B5FAF8D-69C165AF-5DE851B5"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HLScale",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.35,
+          "ExpressionGUID": "FEE593F6-4FE47BB6-38AC8DA3-4D5EAD9C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HLmoveSpeed",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "933CA1F6-4E1528A8-4DD30B87-FF6133BB"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ThickColorScale",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.8,
+          "ExpressionGUID": "61E14355-4DC9BF3A-13C3C69C-239D00D0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ThickColorWidth",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": -0.675,
+          "ExpressionGUID": "1C24D7E9-40801EA4-2D924F98-E2B0B8C1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ThickColorInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 400.0,
+          "ExpressionGUID": "DE69443E-4546D791-83FA2398-1708BAA8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ThickBaseReflectFractionIn",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.6,
+          "ExpressionGUID": "14042785-42D56126-CAB42084-F8E0A50A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ThickExponentIn",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.3,
+          "ExpressionGUID": "C94297FA-4980E68A-8781C6BD-52D39BA4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ReflectColorInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "A67F7369-40C0E055-3FF62BA6-3778A0D0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ReflecOpacityInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.05,
+          "ExpressionGUID": "93C09DC1-49D95B71-E1B79EAC-5D2A1DA9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ReflectScale",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": -0.5,
+          "ExpressionGUID": "3A538890-4A94638D-3ACCA09D-D8168BC1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "BaseColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.701102,
+            "G": 0.62396,
+            "B": 0.462077,
+            "A": 1.0,
+            "Hex": "DACFB5"
+          },
+          "ExpressionGUID": "FBA1AB99-4E6A6654-3EB3BCB2-2C27FE2E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HLColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 0.0,
+            "Hex": "FFFFFF"
+          },
+          "ExpressionGUID": "D576E50A-400515A1-0BF8E295-549E7FAA"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MatCapTex",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_Reflection2_MC'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/MatCap/T_Reflection2_MC.0"
+          },
+          "ExpressionGUID": "08FAE183-4D8C2B3C-15DF8AA4-9A5DC0DE"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "HeightLightTex",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_GlassHeightLight_D'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_GlassHeightLight_D.0"
+          },
+          "ExpressionGUID": "2A47686F-4C5EFDA5-42BB15BD-AC3C989C"
+        }
+      ],
       "BasePropertyOverrides": {
         "bOverride_TwoSided": true,
         "TwoSided": true,
@@ -64,13 +290,73 @@
         "ShadingModel": "MSM_Unlit",
         "OpacityMaskClipValue": 0.3333,
         "RenderQueue": 200
-      }
-    },
-    "HasTopDiffuse": false,
-    "HasTopNormals": false,
-    "HasTopSpecularMasks": false,
-    "HasTopEmissive": false,
-    "IsTranslucent": true,
-    "IsNull": false
+      },
+      "StaticParameters": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseGradientOpacity",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "68BF4D93-413A34AA-9AD1EAB1-5A5DFC24"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseMatCap",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "C9DE96C0-4EAB5B74-3DDC3796-08247311"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseVertexNormal",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F05215B7-4C407ED8-5F4810BB-C523B784"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseHeightLightTex",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "8A456814-43106A18-859C5387-F57E920D"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseThickColor",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "56AFBBFD-4CC7A36E-47A36AB5-009FA1F6"
+          }
+        ]
+      },
+      "CachedReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
+        },
+        null
+      ]
+    }
   }
-}
+]

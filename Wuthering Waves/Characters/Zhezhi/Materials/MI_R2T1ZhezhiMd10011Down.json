@@ -1,129 +1,741 @@
-{
-  "Textures": {
-    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_D.T_R2T1ZhezhiMd10011Down_D",
-    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_D.T_R2T1ZhezhiMd10011Down_D",
-    "T_R2T1ZhezhiMd10011Down_D": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_D.T_R2T1ZhezhiMd10011Down_D",
-    "TypeMask": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_ID.T_R2T1ZhezhiMd10011Down_ID",
-    "T_R2T1ZhezhiMd10011Down_ID": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_ID.T_R2T1ZhezhiMd10011Down_ID",
-    "PM_Normals": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_N.T_R2T1ZhezhiMd10011Down_N",
-    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_N.T_R2T1ZhezhiMd10011Down_N",
-    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
-    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
-    "Ramp": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011_Skin.T_R2T1ZhezhiMd10011_Skin",
-    "T_R2T1ZhezhiMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011_Skin.T_R2T1ZhezhiMd10011_Skin"
-  },
-  "Parameters": {
-    "BlendMode": 0,
-    "ShadingModel": 0,
-    "Colors": {
-      "SubsurfaceColor": {
-        "R": 0.401983,
-        "G": 0.378418,
-        "B": 0.46875,
-        "A": 0.0,
-        "Hex": "AAA6B6"
-      },
-      "StockingColor": {
-        "R": 0.527115,
-        "G": 0.55834,
-        "B": 0.62396,
-        "A": 0.0,
-        "Hex": "C0C5CF"
-      },
-      "StockingEdgeColor": {
-        "R": 0.645847,
-        "G": 0.570151,
-        "B": 0.693872,
-        "A": 0.0,
-        "Hex": "D3C7D9"
-      },
-      "StockingLightColor": {
-        "R": 0.098958,
-        "G": 0.082337,
-        "B": 0.057081,
-        "A": 1.0,
-        "Hex": "585143"
-      },
-      "SkinBaseColor": {
-        "R": 0.7,
-        "G": 0.685294,
-        "B": 0.65,
-        "A": 1.0,
-        "Hex": "DAD8D3"
-      },
-      "SkinBaseColorNight": {
-        "R": 0.905882,
-        "G": 0.886275,
-        "B": 0.811765,
-        "A": 0.0,
-        "Hex": "F5F2E9"
-      },
-      "SkinColor": {
-        "R": 0.984314,
-        "G": 0.922794,
-        "B": 0.922794,
-        "A": 1.0,
-        "Hex": "FEF7F7"
-      }
-    },
-    "Scalars": {
-      "UseSkinMask_DYN": 1.0,
-      "SolidShadowView": 0.8,
-      "ShadowProcess": 0.5,
-      "ShadowWidth": 0.03,
-      "BreatheStrength": 2.0,
-      "BreatheFrequency": 0.0,
-      "BreathePropotion": 0.5,
-      "EdgeEnvBRDFIntensity": 0.0,
-      "MetalSpecularPower": 8.0,
-      "SpecularPower": 5.0,
-      "Roughness": 0.533333,
-      "Metalllic": 1.0,
-      "StockingIntensity": 0.7,
-      "StockingRangeMin": 1.0,
-      "StockingRangeMax": 0.3,
-      "StockingLightRangeMax": 1.09,
-      "StockingLightRangeMin": 0.65,
-      "UseUVGradient_DYN": 1.0,
-      "UvGradientProcess": 0.56,
-      "BaseSphereLightInt": 0.3,
-      "ShowSphereLightMask": 0.0,
-      "Param": 2.0,
-      "RampInt": 0.8,
-      "RampPosition": 0.5,
-      "SolidShadow_RampPosition": 0.4,
-      "UVGradientSkinInt": 0.95,
-      "UVSaturationIntensity": 0.5,
-      "RefractionDepthBias": 0.0
-    },
-    "Switches": {
-      "UseTypeMask": true,
-      "UseSkinMask": true,
-      "UseToonMask": true,
-      "UseMainTexA": true,
-      "UseAlphaBlendMode": false,
-      "UseNormalMap": true,
-      "UsePBR": true,
-      "使用PBRMask": true,
-      "UseStocking": true,
-      "UseUVGradient": true,
-      "UseRampMask": true,
-      "UseRampColor": true
-    },
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_R2T1ZhezhiMd10011Down",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
     "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'MI_Char_Body'",
+        "ObjectPath": "Client/Content/Aki/Character/MaterialInstance/Material/MI_Char_Body.0"
+      },
       "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "UseSkinMask_DYN",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "6EAA1217-459919A6-AE0DFFA8-FDF6914F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SolidShadowView",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.8,
+          "ExpressionGUID": "0E0FFB89-49E7C507-2940FCAC-08158381"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShadowProcess",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "B04B5758-4C7B569C-3EE2668D-386BC1AA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShadowWidth",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.03,
+          "ExpressionGUID": "84649C4D-4ADBAD82-41288BBF-3F75B8FC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BreatheStrength",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "16EF528D-44E6B2A4-AD61E4B1-2EDD6E0B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BreatheFrequency",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "6330B326-46095F3F-D26BE683-816442DA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BreathePropotion",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "62B21671-45BE62D1-E55E56B9-E58F2027"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "EdgeEnvBRDFIntensity",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "B7537793-45B954B3-465871AA-ED87DCA2"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MetalSpecularPower",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 8.0,
+          "ExpressionGUID": "85876EF4-4F1D515B-4845CF86-2E3DF74E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SpecularPower",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 5.0,
+          "ExpressionGUID": "13B9D922-435E1BA0-C0F5B196-A6D3D320"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Roughness",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.533333,
+          "ExpressionGUID": "4B8FA998-43CE6A36-A00D52B6-4988ECBC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Metalllic",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "22DBD58D-47CC6B62-7BD244A9-3F72EE89"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StockingIntensity",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.7,
+          "ExpressionGUID": "2884713B-40B2758E-B693ED90-C72B8722"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StockingRangeMin",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "E73F3A31-437EF381-BCA1A88A-B9E46FC9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StockingRangeMax",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.3,
+          "ExpressionGUID": "EC1D857D-4DD38BF0-61C00CB3-D95FF1C0"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StockingLightRangeMax",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.09,
+          "ExpressionGUID": "E3088BC6-4F9FC9AA-B479F6B5-A8159374"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StockingLightRangeMin",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.65,
+          "ExpressionGUID": "86AF8794-410B4D26-9D11A5BA-22A1BB2C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UseUVGradient_DYN",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "9D59BDFA-4257D038-9C72F396-2EA2D000"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UvGradientProcess",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.56,
+          "ExpressionGUID": "20615DB8-490A1B8C-68C7E081-E59F37B7"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BaseSphereLightInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.3,
+          "ExpressionGUID": "E1CB1DE3-48B2307B-C3BAD99B-B516B68E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShowSphereLightMask",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "89966268-4C56D879-085AFDBE-4B2F8135"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Param",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 2.0,
+          "ExpressionGUID": "7A95F21C-43CCE97D-BD68D4B6-97AC7271"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RampInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.8,
+          "ExpressionGUID": "EF275E9D-465DBA82-1D0D7B90-5585E94F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RampPosition",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "85F81537-47D5791D-423A86BA-0CB5FB98"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SolidShadow_RampPosition",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.4,
+          "ExpressionGUID": "8938E652-4748246E-4AFF498A-85202EB1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVGradientSkinInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.95,
+          "ExpressionGUID": "9F4D1523-4B14432D-29542BAF-977CB01C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVSaturationIntensity",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "82B4B685-47A0DF0B-1F39549A-7F1F9DB8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "SubsurfaceColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.401983,
+            "G": 0.378418,
+            "B": 0.46875,
+            "A": 0.0,
+            "Hex": "AAA6B6"
+          },
+          "ExpressionGUID": "ED81D7AF-4084A3D9-224DCEA8-8F11E330"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StockingColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.527115,
+            "G": 0.55834,
+            "B": 0.62396,
+            "A": 0.0,
+            "Hex": "C0C5CF"
+          },
+          "ExpressionGUID": "DF090FD2-48B6DC46-DFA4BCAD-D31FD01A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StockingEdgeColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.645847,
+            "G": 0.570151,
+            "B": 0.693872,
+            "A": 0.0,
+            "Hex": "D3C7D9"
+          },
+          "ExpressionGUID": "4A08841D-442C6A10-53E5F286-CDAD5AD9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "StockingLightColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.098958,
+            "G": 0.082337,
+            "B": 0.057081,
+            "A": 1.0,
+            "Hex": "585143"
+          },
+          "ExpressionGUID": "E8A07D42-49E8CB34-1526F2A3-984507E2"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SkinBaseColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.7,
+            "G": 0.685294,
+            "B": 0.65,
+            "A": 1.0,
+            "Hex": "DAD8D3"
+          },
+          "ExpressionGUID": "925AD0C4-4E10C0C3-A519ADA4-127912F4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SkinBaseColorNight",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.905882,
+            "G": 0.886275,
+            "B": 0.811765,
+            "A": 0.0,
+            "Hex": "F5F2E9"
+          },
+          "ExpressionGUID": "5D6B0991-4E379BC2-CC1ACEB0-2D02E56A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SkinColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.984314,
+            "G": 0.922794,
+            "B": 0.922794,
+            "A": 1.0,
+            "Hex": "FEF7F7"
+          },
+          "ExpressionGUID": "C11E6294-45CBD640-A51ADC9C-F0A0D8CA"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MainTex",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1ZhezhiMd10011Down_D'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_D.0"
+          },
+          "ExpressionGUID": "CD0BDE80-4032A462-2365D68C-347DF96B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "TypeMask",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1ZhezhiMd10011Down_ID'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_ID.0"
+          },
+          "ExpressionGUID": "49465843-4D6FA500-BEF3F399-C9F66107"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskTex",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": null,
+          "ExpressionGUID": "0EFB30A4-47F035BE-5681AAB6-FE05D7E9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Normal_Roughness_Metallic",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1ZhezhiMd10011Down_N'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Down_N.0"
+          },
+          "ExpressionGUID": "87E93F1A-4416DD77-1EEC65B3-24FD6FD2"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "PBRCubeMap",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "TextureCube'T_Env_02_CUBE'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.0"
+          },
+          "ExpressionGUID": "E5FC5644-4F028AF6-55AE7DB1-ED2D2EAA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Ramp",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1ZhezhiMd10011_Skin'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011_Skin.0"
+          },
+          "ExpressionGUID": "7C800642-44CA7640-ED3929B4-395865F8"
+        }
+      ],
       "BasePropertyOverrides": {
         "TwoSided": true,
         "ShadingModel": "MSM_ToonCommon",
         "OpacityMaskClipValue": 0.3333,
         "RenderQueue": 180
-      }
-    },
-    "HasTopDiffuse": false,
-    "HasTopNormals": false,
-    "HasTopSpecularMasks": false,
-    "HasTopEmissive": false,
-    "IsTranslucent": false,
-    "IsNull": false
+      },
+      "StaticParameters": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseTypeMask",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F8B30E59-495C96D7-6A9246B2-A64CCF79"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseSkinMask",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "641E1437-404404A2-1D1E6BA0-52A9D017"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseToonMask",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "701845F8-41F56E23-270250BB-24D441FD"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseMainTexA",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "3951D889-449D7B5C-B1C8BFB2-56101E05"
+          },
+          {
+            "Value": false,
+            "ParameterInfo": {
+              "Name": "UseAlphaBlendMode",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "2ECE406C-4221A351-607E0691-9967BCA0"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseNormalMap",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "BCE181EA-4813A5AC-8AF36B8E-A7D63282"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UsePBR",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "F00F9576-410F00C9-C82CFD84-085ABA13"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "使用PBRMask",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "2804B954-48D2C025-18DF0891-0C0D7C52"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseStocking",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "0365B48E-48CC3086-EB07098C-F3EC236E"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseUVGradient",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "C7F252F2-46CD9ACC-52CD4BBD-7063A6E2"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseRampMask",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "C80BCBFE-48B3B7FD-A76DE1BD-B7898D5D"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseRampColor",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "247A3FBD-4B801ECE-EDA36388-1984483D"
+          }
+        ]
+      },
+      "CachedReferencedTextures": [
+        null,
+        {
+          "ObjectName": "Texture2D'T_MC_premake_D'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.0"
+        },
+        {
+          "ObjectName": "TextureCube'T_Env_01_CUBE'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_01_CUBE.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorBlack_Linear_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_Linear_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_Linear_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorEyeAniMap_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorEyeAniMap_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorFaceAniMap_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorFaceAniMap_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorMainSwitchTex_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorMainSwitchTex_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorMainTex_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorMainTex_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorDetailTex_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorDetailTex_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorTransTex_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorTransTex_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultMaskGreen_M'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.0"
+        },
+        {
+          "ObjectName": "Texture2D'LUT_Common_Default_Shadow'",
+          "ObjectPath": "Client/Content/Aki/Character/Textures/LUT/LUT_Common_Default_Shadow.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultNormalMask_M'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultNormalMask_M.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_3XingStar_D'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_XingHenSoundNoise'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_3XingStar_SDF'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_SDF.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_XingHenSoundNoise02'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise02.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_XingHenShakeNoise_D'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenShakeNoise_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'BlendFunc_DefBlend'",
+          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.0"
+        },
+        {
+          "ObjectName": "Texture2D'BlendFunc_DefBase'",
+          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBase.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Caustic_001'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_Caustic_001.0"
+        },
+        {
+          "ObjectName": "CurveLinearColorAtlas'CV_RampLinearColorAtlas'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/RTRamp/CV_RampLinearColorAtlas.0"
+        }
+      ],
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_R2T1ZhezhiMd10011Down_D"
+        },
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_R2T1ZhezhiMd10011Down_ID"
+        },
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_R2T1ZhezhiMd10011Down_N"
+        }
+      ]
+    }
   }
-}
+]

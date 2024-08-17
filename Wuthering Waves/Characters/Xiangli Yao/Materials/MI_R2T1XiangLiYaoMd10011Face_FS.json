@@ -1,0 +1,56 @@
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_R2T1XiangLiYaoMd10011Face_FS",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
+    "Properties": {
+      "Parent": {
+        "ObjectName": "Material'M_FaceShadowMesh'",
+        "ObjectPath": "Client/Content/Aki/Render/Shaders/Character/M_FaceShadowMesh.0"
+      },
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "PositionOffset",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.369792,
+            "G": 0.26631,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "A48D00"
+          },
+          "ExpressionGUID": "78F9D0D5-467E69B0-6185FDB7-E1C869D4"
+        }
+      ],
+      "BasePropertyOverrides": {
+        "bEnableSeparateTranslucency": true,
+        "ShadingModel": "MSM_ToonFace",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 190
+      },
+      "CachedReferencedTextures": [
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_Linear_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.0"
+        },
+        null
+      ]
+    }
+  }
+]

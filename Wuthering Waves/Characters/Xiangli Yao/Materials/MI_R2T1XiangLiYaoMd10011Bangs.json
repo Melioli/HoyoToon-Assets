@@ -1,97 +1,516 @@
-{
-  "Textures": {
-    "MainTex": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Bangs_D.T_R2T1XiangLiYaoMd10011Bangs_D",
-    "PM_Diffuse": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Bangs_D.T_R2T1XiangLiYaoMd10011Bangs_D",
-    "T_R2T1XiangLiYaoMd10011Bangs_D": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Bangs_D.T_R2T1XiangLiYaoMd10011Bangs_D",
-    "MaskTex": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Bangs_HM.T_R2T1XiangLiYaoMd10011Bangs_HM",
-    "T_R2T1XiangLiYaoMd10011Bangs_HM": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Bangs_HM.T_R2T1XiangLiYaoMd10011Bangs_HM",
-    "Ramp": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011_Skin.T_R2T1XiangLiYaoMd10011_Skin",
-    "T_R2T1XiangLiYaoMd10011_Skin": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011_Skin.T_R2T1XiangLiYaoMd10011_Skin"
-  },
-  "Parameters": {
-    "BlendMode": 0,
-    "ShadingModel": 0,
-    "Colors": {
-      "SubsurfaceColor": {
-        "R": 0.53125,
-        "G": 0.517968,
-        "B": 0.481446,
-        "A": 1.0,
-        "Hex": "C1BFB9"
-      },
-      "ExtraShadowColor": {
-        "R": 0.4,
-        "G": 0.4,
-        "B": 0.4,
-        "A": 0.0,
-        "Hex": "AAAAAA"
-      },
-      "SkinBaseColor": {
-        "R": 0.96,
-        "G": 0.875294,
-        "B": 0.771429,
-        "A": 1.0,
-        "Hex": "FBF1E4"
-      },
-      "SkinBaseColorNight": {
-        "R": 0.960784,
-        "G": 0.941177,
-        "B": 0.85,
-        "A": 1.0,
-        "Hex": "FBF9EE"
-      },
-      "SkinColor": {
-        "R": 0.905882,
-        "G": 0.807843,
-        "B": 0.729412,
-        "A": 0.0,
-        "Hex": "F5E9DE"
-      }
-    },
-    "Scalars": {
-      "SolidShadowSaturation": 1.476191,
-      "SolidShadowView": 1.32381,
-      "ShadowProcess": 0.15,
-      "ShadowWidth": 0.03,
-      "MaskShadowOffsetStrength": 0.5,
-      "ShadowOffsetAdjustFactor": 0.3,
-      "ShadowOffsetPower": 0.88,
-      "UseHairColor": -0.775,
-      "UseHairColorGradient": 0.525,
-      "R:OffsetPosition": 1.226,
-      "UseUVGradient_DYN": 1.0,
-      "UvGradientProcess": 0.766667,
-      "BaseSphereLightInt": 1.0,
-      "ShdaowSphereLightInt": 1.0,
-      "ShowSphereLightMask": 0.0,
-      "Param": 1.0,
-      "RampInt": 0.5,
-      "RampPosition": 0.3,
-      "SolidShadow_RampPosition": 0.4,
-      "UVGradientSkinInt": 6.334214,
-      "RefractionDepthBias": 0.0
-    },
-    "Switches": {
-      "UseToonMask": true,
-      "UseHairVCGradient": true,
-      "UseUVGradient": true,
-      "UseRampColor": true
-    },
+[
+  {
+    "Type": "MaterialInstanceConstant",
+    "Name": "MI_R2T1XiangLiYaoMd10011Bangs",
+    "Class": "UScriptClass'MaterialInstanceConstant'",
     "Properties": {
+      "Parent": {
+        "ObjectName": "MaterialInstanceConstant'MI_Char_HairBangs'",
+        "ObjectPath": "Client/Content/Aki/Character/MaterialInstance/Material/MI_Char_HairBangs.0"
+      },
       "bHasStaticPermutationResource": true,
+      "ScalarParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "SolidShadowSaturation",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.476191,
+          "ExpressionGUID": "138CD2B3-4CED39DD-8FF77AB1-DD2F0FF1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SolidShadowView",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.32381,
+          "ExpressionGUID": "0E0FFB89-49E7C507-2940FCAC-08158381"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShadowProcess",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.15,
+          "ExpressionGUID": "B04B5758-4C7B569C-3EE2668D-386BC1AA"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShadowWidth",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.03,
+          "ExpressionGUID": "84649C4D-4ADBAD82-41288BBF-3F75B8FC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskShadowOffsetStrength",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "494B6DDC-4ED579D3-61156B84-7297728E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShadowOffsetAdjustFactor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.3,
+          "ExpressionGUID": "419FA201-448C77BE-4376F3BF-A52BC5B8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShadowOffsetPower",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.88,
+          "ExpressionGUID": "EEA1A1FA-43ACE74A-C8605B8D-29B9AAFC"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UseHairColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": -0.775,
+          "ExpressionGUID": "BBA5D313-4DE47860-7A6F4BAE-9426D9D8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UseHairColorGradient",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.525,
+          "ExpressionGUID": "F1D31F78-4531C2ED-AAF28196-301D71C8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "R:OffsetPosition",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.226,
+          "ExpressionGUID": "DD4125E9-46881C22-59D5D090-11F17ED8"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UseUVGradient_DYN",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 1
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "9D59BDFA-4257D038-9C72F396-2EA2D000"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UvGradientProcess",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.766667,
+          "ExpressionGUID": "20615DB8-490A1B8C-68C7E081-E59F37B7"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "BaseSphereLightInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "E1CB1DE3-48B2307B-C3BAD99B-B516B68E"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShdaowSphereLightInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "D26BFDB3-4E91A9DA-22C13DA6-F97E723B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ShowSphereLightMask",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "89966268-4C56D879-085AFDBE-4B2F8135"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Param",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 1.0,
+          "ExpressionGUID": "7A95F21C-43CCE97D-BD68D4B6-97AC7271"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RampInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.5,
+          "ExpressionGUID": "EF275E9D-465DBA82-1D0D7B90-5585E94F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RampPosition",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.3,
+          "ExpressionGUID": "85F81537-47D5791D-423A86BA-0CB5FB98"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SolidShadow_RampPosition",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.4,
+          "ExpressionGUID": "8938E652-4748246E-4AFF498A-85202EB1"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "UVGradientSkinInt",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 6.334214,
+          "ExpressionGUID": "9F4D1523-4B14432D-29542BAF-977CB01C"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "RefractionDepthBias",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": 0.0,
+          "ExpressionGUID": "00000000-00000000-00000000-00000000"
+        }
+      ],
+      "VectorParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "SubsurfaceColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.53125,
+            "G": 0.517968,
+            "B": 0.481446,
+            "A": 1.0,
+            "Hex": "C1BFB9"
+          },
+          "ExpressionGUID": "ED81D7AF-4084A3D9-224DCEA8-8F11E330"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "ExtraShadowColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.4,
+            "G": 0.4,
+            "B": 0.4,
+            "A": 0.0,
+            "Hex": "AAAAAA"
+          },
+          "ExpressionGUID": "E58558DB-421FB96B-83C3EFBC-CC56603F"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SkinBaseColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.96,
+            "G": 0.875294,
+            "B": 0.771429,
+            "A": 1.0,
+            "Hex": "FBF1E4"
+          },
+          "ExpressionGUID": "925AD0C4-4E10C0C3-A519ADA4-127912F4"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SkinBaseColorNight",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.960784,
+            "G": 0.941177,
+            "B": 0.85,
+            "A": 1.0,
+            "Hex": "FBF9EE"
+          },
+          "ExpressionGUID": "5D6B0991-4E379BC2-CC1ACEB0-2D02E56A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "SkinColor",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "R": 0.905882,
+            "G": 0.807843,
+            "B": 0.729412,
+            "A": 0.0,
+            "Hex": "F5E9DE"
+          },
+          "ExpressionGUID": "C11E6294-45CBD640-A51ADC9C-F0A0D8CA"
+        }
+      ],
+      "TextureParameterValues": [
+        {
+          "ParameterInfo": {
+            "Name": "MainTex",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1XiangLiYaoMd10011Bangs_D'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Bangs_D.0"
+          },
+          "ExpressionGUID": "CD0BDE80-4032A462-2365D68C-347DF96B"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "DetailTex",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": null,
+          "ExpressionGUID": "5510F995-4E7FC8AF-8B3A44A6-E6EF140A"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "MaskTex",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1XiangLiYaoMd10011Bangs_HM'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Bangs_HM.0"
+          },
+          "ExpressionGUID": "0EFB30A4-47F035BE-5681AAB6-FE05D7E9"
+        },
+        {
+          "ParameterInfo": {
+            "Name": "Ramp",
+            "Association": "GlobalParameter",
+            "Index": -1,
+            "Flags": 0
+          },
+          "ParameterValue": {
+            "ObjectName": "Texture2D'T_R2T1XiangLiYaoMd10011_Skin'",
+            "ObjectPath": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011_Skin.0"
+          },
+          "ExpressionGUID": "7C800642-44CA7640-ED3929B4-395865F8"
+        }
+      ],
       "BasePropertyOverrides": {
         "TwoSided": true,
         "ShadingModel": "MSM_ToonHair",
         "OpacityMaskClipValue": 0.3333,
         "RenderQueue": 195,
         "bIsCharacterHairMat": true
-      }
-    },
-    "HasTopDiffuse": false,
-    "HasTopNormals": false,
-    "HasTopSpecularMasks": false,
-    "HasTopEmissive": false,
-    "IsTranslucent": false,
-    "IsNull": false
+      },
+      "StaticParameters": {
+        "StaticSwitchParameters": [
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseToonMask",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "701845F8-41F56E23-270250BB-24D441FD"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseHairVCGradient",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "1274F7C0-4A1ECF07-1602FCBA-89D4C037"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseUVGradient",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "C7F252F2-46CD9ACC-52CD4BBD-7063A6E2"
+          },
+          {
+            "Value": true,
+            "ParameterInfo": {
+              "Name": "UseRampColor",
+              "Association": "GlobalParameter",
+              "Index": -1,
+              "Flags": 0
+            },
+            "bOverride": true,
+            "ExpressionGUID": "247A3FBD-4B801ECE-EDA36388-1984483D"
+          }
+        ]
+      },
+      "CachedReferencedTextures": [
+        null,
+        {
+          "ObjectName": "Texture2D'T_MC_premake_D'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.0"
+        },
+        {
+          "ObjectName": "TextureCube'T_Env_01_CUBE'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_01_CUBE.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorBlack_Linear_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_Linear_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_Linear_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorEyeAniMap_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorEyeAniMap_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorFaceAniMap_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorFaceAniMap_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorMainSwitchTex_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorMainSwitchTex_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorMainTex_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorMainTex_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorDetailTex_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorDetailTex_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultColorTransTex_D'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorTransTex_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultMaskGreen_M'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.0"
+        },
+        {
+          "ObjectName": "Texture2D'LUT_Common_Default_Shadow'",
+          "ObjectPath": "Client/Content/Aki/Character/Textures/LUT/LUT_Common_Default_Shadow.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_DefaultNormalMask_M'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultNormalMask_M.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_3XingStar_D'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_XingHenSoundNoise'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_3XingStar_SDF'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_SDF.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_XingHenSoundNoise02'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise02.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_XingHenShakeNoise_D'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenShakeNoise_D.0"
+        },
+        {
+          "ObjectName": "Texture2D'BlendFunc_DefBlend'",
+          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.0"
+        },
+        {
+          "ObjectName": "Texture2D'BlendFunc_DefBase'",
+          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBase.0"
+        },
+        {
+          "ObjectName": "Texture2D'T_Caustic_001'",
+          "ObjectPath": "Client/Content/Aki/Render/Common/T_Caustic_001.0"
+        },
+        {
+          "ObjectName": "CurveLinearColorAtlas'CV_RampLinearColorAtlas'",
+          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/RTRamp/CV_RampLinearColorAtlas.0"
+        }
+      ],
+      "TextureStreamingData": [
+        {
+          "SamplingScale": 1.0,
+          "UVChannelIndex": 0,
+          "TextureName": "T_R2T1XiangLiYaoMd10011Bangs_D"
+        }
+      ]
+    }
   }
-}
+]
