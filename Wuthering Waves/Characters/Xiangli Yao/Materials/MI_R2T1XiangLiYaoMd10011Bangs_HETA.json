@@ -1,101 +1,43 @@
-[
-  {
-    "Type": "MaterialInstanceConstant",
-    "Name": "MI_R2T1XiangLiYaoMd10011Bangs_HETA",
-    "Class": "UScriptClass'MaterialInstanceConstant'",
-    "Properties": {
-      "Parent": {
-        "ObjectName": "MaterialInstanceConstant'MI_R2T1XiangLiYaoMd10011Bangs'",
-        "ObjectPath": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/MI_R2T1XiangLiYaoMd10011Bangs.0"
+{
+  "Textures": {
+    "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
+    "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SkinBaseColor": {
+        "R": 0.7,
+        "G": 0.685294,
+        "B": 0.65,
+        "A": 1.0,
+        "Hex": "DAD8D3"
       },
+      "SkinBaseColorNight": {
+        "R": 0.905882,
+        "G": 0.886275,
+        "B": 0.811765,
+        "A": 0.0,
+        "Hex": "F5F2E9"
+      },
+      "SkinColor": {
+        "R": 0.904661,
+        "G": 0.806952,
+        "B": 0.730461,
+        "A": 0.0,
+        "Hex": "F4E8DE"
+      }
+    },
+    "Scalars": {
+      "UVSaturationIntensity": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "IsHairHET": true
+    },
+    "Properties": {
       "bHasStaticPermutationResource": true,
-      "ScalarParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "UVSaturationIntensity",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.5,
-          "ExpressionGUID": "82B4B685-47A0DF0B-1F39549A-7F1F9DB8"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "RefractionDepthBias",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.0,
-          "ExpressionGUID": "00000000-00000000-00000000-00000000"
-        }
-      ],
-      "VectorParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "SkinBaseColor",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.7,
-            "G": 0.685294,
-            "B": 0.65,
-            "A": 1.0,
-            "Hex": "DAD8D3"
-          },
-          "ExpressionGUID": "925AD0C4-4E10C0C3-A519ADA4-127912F4"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "SkinBaseColorNight",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.905882,
-            "G": 0.886275,
-            "B": 0.811765,
-            "A": 0.0,
-            "Hex": "F5F2E9"
-          },
-          "ExpressionGUID": "5D6B0991-4E379BC2-CC1ACEB0-2D02E56A"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "SkinColor",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.904661,
-            "G": 0.806952,
-            "B": 0.730461,
-            "A": 0.0,
-            "Hex": "F4E8DE"
-          },
-          "ExpressionGUID": "C11E6294-45CBD640-A51ADC9C-F0A0D8CA"
-        }
-      ],
-      "TextureParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "PBRCubeMap",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "ObjectName": "TextureCube'T_Env_02_CUBE'",
-            "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.0"
-          },
-          "ExpressionGUID": "E5FC5644-4F028AF6-55AE7DB1-ED2D2EAA"
-        }
-      ],
       "BasePropertyOverrides": {
         "bOverride_BlendMode": true,
         "bOverride_ShadingModel": true,
@@ -107,117 +49,13 @@
         "bOverride_IsCharacterHairMat": true,
         "bOverride_IsCharacterHETMat": true,
         "bIsCharacterHETMat": true
-      },
-      "StaticParameters": {
-        "StaticSwitchParameters": [
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "IsHairHET",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "7C26C213-4ADE3722-E26B069A-A8A9DD23"
-          }
-        ]
-      },
-      "CachedReferencedTextures": [
-        null,
-        {
-          "ObjectName": "Texture2D'T_MC_premake_D'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.0"
-        },
-        {
-          "ObjectName": "TextureCube'T_Env_01_CUBE'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_01_CUBE.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorBlack_Linear_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_Linear_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_Linear_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorEyeAniMap_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorEyeAniMap_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorFaceAniMap_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorFaceAniMap_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorMainSwitchTex_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorMainSwitchTex_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorMainTex_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorMainTex_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorDetailTex_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorDetailTex_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorTransTex_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/Character/T_DefaultColorTransTex_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultMaskGreen_M'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.0"
-        },
-        {
-          "ObjectName": "Texture2D'LUT_Common_Default_Shadow'",
-          "ObjectPath": "Client/Content/Aki/Character/Textures/LUT/LUT_Common_Default_Shadow.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultNormalMask_M'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultNormalMask_M.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_3XingStar_D'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_XingHenSoundNoise'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_3XingStar_SDF'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_SDF.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_XingHenSoundNoise02'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise02.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_XingHenShakeNoise_D'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenShakeNoise_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'BlendFunc_DefBlend'",
-          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.0"
-        },
-        {
-          "ObjectName": "Texture2D'BlendFunc_DefBase'",
-          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBase.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_Caustic_001'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_Caustic_001.0"
-        },
-        {
-          "ObjectName": "CurveLinearColorAtlas'CV_RampLinearColorAtlas'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/RTRamp/CV_RampLinearColorAtlas.0"
-        }
-      ]
-    }
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
   }
-]
+}

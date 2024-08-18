@@ -1,352 +1,68 @@
-[
-  {
-    "Type": "MaterialInstanceConstant",
-    "Name": "MI_R2T1XiangLiYaoMd10011Eye",
-    "Class": "UScriptClass'MaterialInstanceConstant'",
-    "Properties": {
-      "Parent": {
-        "ObjectName": "MaterialInstanceConstant'MI_Char_Eye'",
-        "ObjectPath": "Client/Content/Aki/Character/MaterialInstance/Material/MI_Char_Eye.0"
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Eye_D.T_R2T1XiangLiYaoMd10011Eye_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Eye_D.T_R2T1XiangLiYaoMd10011Eye_D",
+    "T_R2T1XiangLiYaoMd10011Eye_D": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Eye_D.T_R2T1XiangLiYaoMd10011Eye_D",
+    "MaskTex": "Client/Content/Aki/Character/Role/CommonTexture/T_MaleXLFace01_SDF.T_MaleXLFace01_SDF",
+    "T_MaleXLFace01_SDF": "Client/Content/Aki/Character/Role/CommonTexture/T_MaleXLFace01_SDF.T_MaleXLFace01_SDF"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "HeightLight_Color": {
+        "R": 0.145748,
+        "G": 0.128559,
+        "B": 0.177083,
+        "A": 1.0,
+        "Hex": "6A6475"
       },
+      "ParallaxOffset": {
+        "R": 0.171428,
+        "G": 0.0,
+        "B": 1.501981,
+        "A": 0.0,
+        "Hex": "7300FF"
+      }
+    },
+    "Scalars": {
+      "HeightLight_PositionX": 0.504761,
+      "HeightLight_PositionY": 0.690021,
+      "HeightLight_WidthX": 0.942312,
+      "HeightLight_WidthY": 1.074223,
+      "ParallaxHeight": 0.25,
+      "EyeScale": 0.970351,
+      "SecondLight_PositionX": 0.383,
+      "SecondLight_PositionY": 0.466,
+      "SecondLight_WidthX": 0.826,
+      "SecondLight_WidthY": 0.645,
+      "RotateAngle": 2.187,
+      "ShapeScaleX": 6.0,
+      "ShapeScaleY": 10.0,
+      "ShapePosition01X": 2.34123,
+      "ShapePosition01Y": 0.63,
+      "ShadowWidth": 0.03,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseHeightLightShape": true,
+      "UseEyeSDF": true
+    },
+    "Properties": {
       "bHasStaticPermutationResource": true,
-      "ScalarParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "HeightLight_PositionX",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.504761,
-          "ExpressionGUID": "85282091-4BB5F865-5045C29A-DCB45D5C"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "HeightLight_PositionY",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.690021,
-          "ExpressionGUID": "FCD5DFA9-4B9B63D0-A1698EA0-7A55C4C0"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "HeightLight_WidthX",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.942312,
-          "ExpressionGUID": "27CD73C6-4EA7619D-97609AB8-03456898"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "HeightLight_WidthY",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 1.074223,
-          "ExpressionGUID": "45A1581B-43A9AA30-9AA618B9-1F0D2A0F"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "ParallaxHeight",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.25,
-          "ExpressionGUID": "3B1921F8-4FCC3F8A-72E16EB3-33AAD0AB"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "EyeScale",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.970351,
-          "ExpressionGUID": "5BB47B80-4B119CA0-24826D99-936F22C1"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "SecondLight_PositionX",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.383,
-          "ExpressionGUID": "E718DEBA-4390C9EE-5CF49480-EE04D0AB"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "SecondLight_PositionY",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.466,
-          "ExpressionGUID": "D4C2CD90-46B18CC3-916A898B-E74C7A72"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "SecondLight_WidthX",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.826,
-          "ExpressionGUID": "84590842-4753B70A-D9330998-BAEAEC9C"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "SecondLight_WidthY",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.645,
-          "ExpressionGUID": "87E14598-4C956347-3C02E1A6-68D2B8CE"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "RotateAngle",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 2.187,
-          "ExpressionGUID": "776A8BBD-4233BD9D-3D58EE90-3E8EB423"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "ShapeScaleX",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 6.0,
-          "ExpressionGUID": "BC148714-4A4C546F-29685C8A-A4950144"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "ShapeScaleY",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 10.0,
-          "ExpressionGUID": "2D1AFE81-425C0489-5951B6AB-824C3AD2"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "ShapePosition01X",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 2.34123,
-          "ExpressionGUID": "3EBEBBCD-4E3ED9EB-F41FC0A0-638885AB"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "ShapePosition01Y",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.63,
-          "ExpressionGUID": "B0FE5A34-4EBD364A-F8049FA1-A7B4C62C"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "ShadowWidth",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.03,
-          "ExpressionGUID": "AA06B6AF-46BF8FD8-80C9F58C-17A55508"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "RefractionDepthBias",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.0,
-          "ExpressionGUID": "00000000-00000000-00000000-00000000"
-        }
-      ],
-      "VectorParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "HeightLight_Color",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.145748,
-            "G": 0.128559,
-            "B": 0.177083,
-            "A": 1.0,
-            "Hex": "6A6475"
-          },
-          "ExpressionGUID": "EB955FA5-4CE004F8-AD2B57BE-0A1EB7AC"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "ParallaxOffset",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.171428,
-            "G": 0.0,
-            "B": 1.501981,
-            "A": 0.0,
-            "Hex": "7300FF"
-          },
-          "ExpressionGUID": "DA99855E-490410D3-14876CAC-B0B9916E"
-        }
-      ],
-      "TextureParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "MainTex",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "ObjectName": "Texture2D'T_R2T1XiangLiYaoMd10011Eye_D'",
-            "ObjectPath": "Client/Content/Aki/Character/Role/MaleM/Xiangliyao/R2T1XiangLiYaoMd10011/Model/T_R2T1XiangLiYaoMd10011Eye_D.0"
-          },
-          "ExpressionGUID": "53B09C75-40C12C7C-30BD59A0-865CEDCA"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "MaskTex",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "ObjectName": "Texture2D'T_MaleXLFace01_SDF'",
-            "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/T_MaleXLFace01_SDF.0"
-          },
-          "ExpressionGUID": "9E0803EA-430EB412-8855FAB1-AD83C91F"
-        }
-      ],
       "BasePropertyOverrides": {
         "TwoSided": true,
         "ShadingModel": "MSM_ToonFace",
         "OpacityMaskClipValue": 0.3333,
         "RenderQueue": 180,
         "bDisableCastDynamicShadows": true
-      },
-      "StaticParameters": {
-        "StaticSwitchParameters": [
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseHeightLightShape",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "83B7D844-4FE0140D-593798AE-D78BBA9E"
-          },
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseEyeSDF",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "306A0266-47180762-088BA3B2-A4FE04A6"
-          }
-        ]
-      },
-      "CachedReferencedTextures": [
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultMaskGreen_M'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.0"
-        },
-        null,
-        {
-          "ObjectName": "Texture2D'BlendFunc_DefBlend'",
-          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.0"
-        },
-        {
-          "ObjectName": "Texture2D'BlendFunc_DefBase'",
-          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBase.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_Caustic_001'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_Caustic_001.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_HDMF_EM'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_Linear_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_EV_BlankWhite_01'",
-          "ObjectPath": "Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_EyesSecondHeightLight02_EG'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_EyesSecondHeightLight02_EG.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_3XingStar_D'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_XingHenSoundNoise'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_3XingStar_SDF'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_SDF.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_XingHenSoundNoise02'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise02.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_XingHenShakeNoise_D'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenShakeNoise_D.0"
-        }
-      ],
-      "TextureStreamingData": [
-        {
-          "SamplingScale": 0.9375,
-          "UVChannelIndex": 0,
-          "TextureName": "T_HDMF_EM"
-        },
-        {
-          "SamplingScale": 1.0039062,
-          "UVChannelIndex": 0,
-          "TextureName": "T_R2T1XiangLiYaoMd10011Eye_D"
-        }
-      ]
-    }
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
   }
-]
+}

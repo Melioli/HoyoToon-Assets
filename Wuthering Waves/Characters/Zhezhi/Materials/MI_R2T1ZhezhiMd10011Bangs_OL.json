@@ -1,164 +1,51 @@
-[
-  {
-    "Type": "MaterialInstanceConstant",
-    "Name": "MI_R2T1ZhezhiMd10011Bangs_OL",
-    "Class": "UScriptClass'MaterialInstanceConstant'",
-    "Properties": {
-      "Parent": {
-        "ObjectName": "MaterialInstanceConstant'MI_HairOL_Default'",
-        "ObjectPath": "Client/Content/Aki/Character/MaterialInstance/Outline/MI_HairOL_Default.0"
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.033105,
+        "G": 0.01033,
+        "B": 0.007499,
+        "A": 1.0,
+        "Hex": "331A15"
       },
+      "OutlineColorTint": {
+        "R": 0.5,
+        "G": 0.25,
+        "B": 0.25,
+        "A": 0.304,
+        "Hex": "4DBC8989"
+      }
+    },
+    "Scalars": {
+      "MinWidth": 0.03,
+      "OutlineWidth": 0.1,
+      "OutlineClipWidth": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": false,
+      "UseCurvature": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
       "bHasStaticPermutationResource": true,
-      "ScalarParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "MinWidth",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.03,
-          "ExpressionGUID": "DFA2BC86-4D6FFC90-3F237495-823F7BF8"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "OutlineWidth",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.1,
-          "ExpressionGUID": "EE7DBCB3-4D67074B-0EB48B94-48D6044F"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "OutlineClipWidth",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.7,
-          "ExpressionGUID": "365492A2-4D0425F1-D53A48AD-AFFD8306"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "RefractionDepthBias",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.0,
-          "ExpressionGUID": "00000000-00000000-00000000-00000000"
-        }
-      ],
-      "VectorParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "OutlineColor",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.033105,
-            "G": 0.01033,
-            "B": 0.007499,
-            "A": 1.0,
-            "Hex": "331A15"
-          },
-          "ExpressionGUID": "9990BBB0-4B0CB202-B1BE18A7-98A085F8"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "OutlineColorTint",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.5,
-            "G": 0.25,
-            "B": 0.25,
-            "A": 0.304,
-            "Hex": "4DBC8989"
-          },
-          "ExpressionGUID": "4FD879AC-4B395F7B-8240E296-B9B59B20"
-        }
-      ],
       "BasePropertyOverrides": {
         "ShadingModel": "MSM_ToonOutline",
         "OpacityMaskClipValue": 0.3333,
         "RenderQueue": 250,
         "bDisableCastDynamicShadows": true,
         "bIsBackFace": true
-      },
-      "StaticParameters": {
-        "StaticSwitchParameters": [
-          {
-            "Value": false,
-            "ParameterInfo": {
-              "Name": "UseMainTex",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "831C80FD-407B5944-C0C74681-9FE8352D"
-          },
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseCurvature",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "9EC19EBD-40E52EE5-F5C08CB8-B1ACBBE9"
-          },
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseVertexColorB_InnerOutline",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "8647A1DB-4B5766D7-F369F3B9-2B2283DD"
-          },
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseVertexGreen_OutlineWidth",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "C4001BCA-4126A1C5-C7ACEEB7-5BD1E4FA"
-          }
-        ]
-      },
-      "CachedReferencedTextures": [
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorBlack_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorBlack_Linear_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_Linear_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_Linear_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.0"
-        },
-        null
-      ]
-    }
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
   }
-]
+}

@@ -1,89 +1,32 @@
-[
-  {
-    "Type": "MaterialInstanceConstant",
-    "Name": "MI_R2T1ZhezhiMd10011Eye_HET",
-    "Class": "UScriptClass'MaterialInstanceConstant'",
+{
+  "Textures": {
+    "Mask": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Eye_HET.T_R2T1ZhezhiMd10011Eye_HET",
+    "T_R2T1ZhezhiMd10011Eye_HET": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Eye_HET.T_R2T1ZhezhiMd10011Eye_HET"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "ParallaxOffset": {
+        "R": 0.3,
+        "G": 0.0,
+        "B": 0.3,
+        "A": 0.0,
+        "Hex": "950095"
+      }
+    },
+    "Scalars": {
+      "ParallaxHeight": 0.1,
+      "ParallaxScale": 1.0,
+      "EyeScale": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseDifferentColorEyes": true,
+      "UseParallax": true
+    },
     "Properties": {
-      "Parent": {
-        "ObjectName": "Material'M_WriteStencil'",
-        "ObjectPath": "Client/Content/Aki/Render/Shaders/Character/M_WriteStencil.0"
-      },
       "bHasStaticPermutationResource": true,
-      "ScalarParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "ParallaxHeight",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.1,
-          "ExpressionGUID": "EBED10FE-4E6E62C1-D242FDA0-0FB939E8"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "ParallaxScale",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 1.0,
-          "ExpressionGUID": "24BDB41D-46E1D33F-0D606EBF-079B0F1C"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "EyeScale",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.8,
-          "ExpressionGUID": "5BB47B80-4B119CA0-24826D99-936F22C1"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "RefractionDepthBias",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.0,
-          "ExpressionGUID": "00000000-00000000-00000000-00000000"
-        }
-      ],
-      "VectorParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "ParallaxOffset",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.3,
-            "G": 0.0,
-            "B": 0.3,
-            "A": 0.0,
-            "Hex": "950095"
-          },
-          "ExpressionGUID": "DA99855E-490410D3-14876CAC-B0B9916E"
-        }
-      ],
-      "TextureParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "Mask",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "ObjectName": "Texture2D'T_R2T1ZhezhiMd10011Eye_HET'",
-            "ObjectPath": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Eye_HET.0"
-          },
-          "ExpressionGUID": "FDD53760-463990F8-D3FF71A4-F7CF5AF1"
-        }
-      ],
       "BasePropertyOverrides": {
         "BlendMode": "BLEND_Masked",
         "ShadingModel": "MSM_ToonCommon",
@@ -91,76 +34,13 @@
         "bOverride_RenderQueue": true,
         "RenderQueue": 190,
         "bDisableCastDynamicShadows": true
-      },
-      "StaticParameters": {
-        "StaticSwitchParameters": [
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseDifferentColorEyes",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "79F7C929-42D7EE83-09D4AEB5-254CF85F"
-          },
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseParallax",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "7EF5AFEE-45606763-043FADA7-21B79E6A"
-          }
-        ]
-      },
-      "CachedReferencedTextures": [
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultMaskGreen_M'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.0"
-        },
-        null,
-        {
-          "ObjectName": "Texture2D'BlendFunc_DefBlend'",
-          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.0"
-        },
-        {
-          "ObjectName": "Texture2D'BlendFunc_DefBase'",
-          "ObjectPath": "Engine/Content/EngineMaterials/BlendFunc_DefBase.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_Caustic_001'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_Caustic_001.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_HDMF_EM'",
-          "ObjectPath": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_EV_BlankWhite_01'",
-          "ObjectPath": "Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.0"
-        }
-      ],
-      "TextureStreamingData": [
-        {
-          "SamplingScale": 1.0,
-          "UVChannelIndex": 0,
-          "TextureName": "T_HDMF_EM"
-        },
-        {
-          "SamplingScale": 0.953125,
-          "UVChannelIndex": 0,
-          "TextureName": "T_R2T1ZhezhiMd10011Eye_HET"
-        }
-      ]
-    }
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
   }
-]
+}

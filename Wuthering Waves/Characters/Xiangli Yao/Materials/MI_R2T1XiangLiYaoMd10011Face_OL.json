@@ -1,116 +1,41 @@
-[
-  {
-    "Type": "MaterialInstanceConstant",
-    "Name": "MI_R2T1XiangLiYaoMd10011Face_OL",
-    "Class": "UScriptClass'MaterialInstanceConstant'",
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.300544,
+        "G": 0.194618,
+        "B": 0.177888,
+        "A": 1.0,
+        "Hex": "957A75"
+      }
+    },
+    "Scalars": {
+      "InnerOutlineMulti": 500.0,
+      "OutlineClipWidth": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
     "Properties": {
-      "Parent": {
-        "ObjectName": "Material'M_CharacterOutline'",
-        "ObjectPath": "Client/Content/Aki/Render/Shaders/Character/M_CharacterOutline.0"
-      },
       "bHasStaticPermutationResource": true,
-      "ScalarParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "InnerOutlineMulti",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 500.0,
-          "ExpressionGUID": "565CDAAE-4D0131E0-BBA49E82-58F148A7"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "OutlineClipWidth",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 1.0,
-          "ExpressionGUID": "365492A2-4D0425F1-D53A48AD-AFFD8306"
-        },
-        {
-          "ParameterInfo": {
-            "Name": "RefractionDepthBias",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": 0.0,
-          "ExpressionGUID": "00000000-00000000-00000000-00000000"
-        }
-      ],
-      "VectorParameterValues": [
-        {
-          "ParameterInfo": {
-            "Name": "OutlineColor",
-            "Association": "GlobalParameter",
-            "Index": -1,
-            "Flags": 0
-          },
-          "ParameterValue": {
-            "R": 0.300544,
-            "G": 0.194618,
-            "B": 0.177888,
-            "A": 1.0,
-            "Hex": "957A75"
-          },
-          "ExpressionGUID": "9990BBB0-4B0CB202-B1BE18A7-98A085F8"
-        }
-      ],
       "BasePropertyOverrides": {
         "ShadingModel": "MSM_ToonOutline",
         "OpacityMaskClipValue": 0.3333,
         "RenderQueue": 250,
         "bDisableCastDynamicShadows": true,
         "bIsBackFace": true
-      },
-      "StaticParameters": {
-        "StaticSwitchParameters": [
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseVertexColorB_InnerOutline",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "8647A1DB-4B5766D7-F369F3B9-2B2283DD"
-          },
-          {
-            "Value": true,
-            "ParameterInfo": {
-              "Name": "UseVertexGreen_OutlineWidth",
-              "Association": "GlobalParameter",
-              "Index": -1,
-              "Flags": 0
-            },
-            "bOverride": true,
-            "ExpressionGUID": "C4001BCA-4126A1C5-C7ACEEB7-5BD1E4FA"
-          }
-        ]
-      },
-      "CachedReferencedTextures": [
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorBlack_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorBlack_Linear_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorBlack_Linear_D.0"
-        },
-        {
-          "ObjectName": "Texture2D'T_DefaultColorWhite_Linear_D'",
-          "ObjectPath": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.0"
-        },
-        null
-      ]
-    }
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
   }
-]
+}
