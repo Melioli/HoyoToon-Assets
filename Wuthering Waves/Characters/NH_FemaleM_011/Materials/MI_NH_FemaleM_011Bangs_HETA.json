@@ -23,17 +23,17 @@
     "BlendFunc_DefBase": "Engine/Content/EngineMaterials/BlendFunc_DefBase.BlendFunc_DefBase",
     "T_Caustic_001": "Client/Content/Aki/Render/Common/T_Caustic_001.T_Caustic_001",
     "CV_RampLinearColorAtlas": "Client/Content/Aki/Character/Role/CommonTexture/RTRamp/CV_RampLinearColorAtlas.CV_RampLinearColorAtlas",
-    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Bangs_D.T_R2T1ZhezhiMd10011Bangs_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Bangs_D.T_NH_FemaleM_011Bangs_D",
     "Noise": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise.T_XingHenSoundNoise",
     "R_Noise_A_Mask": "Client/Content/Aki/Render/Common/T_DefaultMaskGreen_M.T_DefaultMaskGreen_M",
-    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Bangs_D.T_R2T1ZhezhiMd10011Bangs_D",
+    "MainTex": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Bangs_D.T_NH_FemaleM_011Bangs_D",
     "D": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_D.T_3XingStar_D",
     "FaceAniMap": "Client/Content/Aki/Render/Common/Character/T_DefaultColorFaceAniMap_D.T_DefaultColorFaceAniMap_D",
     "E_Tex_NoiseTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
     "DetailTex": "Client/Content/Aki/Render/Common/Character/T_DefaultColorDetailTex_D.T_DefaultColorDetailTex_D",
     "ShadowColorLUT": "Client/Content/Aki/Character/Textures/LUT/LUT_Common_Default_Shadow.LUT_Common_Default_Shadow",
     "FurTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
-    "MaskTex": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Bangs_HM.T_R2T1ZhezhiMd10011Bangs_HM",
+    "MaskTex": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Bangs_HM.T_NH_FemaleM_011Bangs_HM",
     "HairVCTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_Linear_D.T_DefaultColorWhite_Linear_D",
     "Noise02": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenSoundNoise02.T_XingHenSoundNoise02",
     "EyeAniMap": "Client/Content/Aki/Render/Common/Character/T_DefaultColorEyeAniMap_D.T_DefaultColorEyeAniMap_D",
@@ -43,7 +43,7 @@
     "ShakeNoise": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_XingHenShakeNoise_D.T_XingHenShakeNoise_D",
     "PBRCubeMap": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
     "MainTexSwitchMap": "Client/Content/Aki/Render/Common/Character/T_DefaultColorMainSwitchTex_D.T_DefaultColorMainSwitchTex_D",
-    "Ramp": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011_Skin.T_R2T1ZhezhiMd10011_Skin",
+    "Ramp": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011_Skin.T_NH_FemaleM_011_Skin",
     "SDF": "Client/Content/Aki/Character/Role/CommonTexture/Star/T_3XingStar_SDF.T_3XingStar_SDF",
     "MatCapTex": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_MC_premake_D.T_MC_premake_D",
     "TransTex": "Client/Content/Aki/Render/Common/Character/T_DefaultColorTransTex_D.T_DefaultColorTransTex_D",
@@ -53,9 +53,9 @@
     "Second_RGB": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
     "PM_SpecularMasks": "Client/Content/Aki/Render/Common/Character/T_DefaultColorMainTex_D.T_DefaultColorMainTex_D",
     "T_Env_02_CUBE": "Client/Content/Aki/Character/Role/CommonTexture/CharacterCubeMaps/T_Env_02_CUBE.T_Env_02_CUBE",
-    "T_R2T1ZhezhiMd10011Bangs_D": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Bangs_D.T_R2T1ZhezhiMd10011Bangs_D",
-    "T_R2T1ZhezhiMd10011Bangs_HM": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011Bangs_HM.T_R2T1ZhezhiMd10011Bangs_HM",
-    "T_R2T1ZhezhiMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleM/Zhezhi/R2T1ZhezhiMd10011/Model/T_R2T1ZhezhiMd10011_Skin.T_R2T1ZhezhiMd10011_Skin"
+    "T_NH_FemaleM_011Bangs_D": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Bangs_D.T_NH_FemaleM_011Bangs_D",
+    "T_NH_FemaleM_011Bangs_HM": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Bangs_HM.T_NH_FemaleM_011Bangs_HM",
+    "T_NH_FemaleM_011_Skin": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011_Skin.T_NH_FemaleM_011_Skin"
   },
   "Parameters": {
     "BlendMode": 0,
@@ -216,11 +216,11 @@
         "Hex": "0000FF"
       },
       "SubsurfaceColor": {
-        "R": 0.313661,
-        "G": 0.336005,
-        "B": 0.427083,
+        "R": 0.238091,
+        "G": 0.47798,
+        "B": 0.682292,
         "A": 0.0,
-        "Hex": "989DAF"
+        "Hex": "86B8D8"
       },
       "E_Tex_UVSwitch": {
         "R": 1.0,
@@ -314,11 +314,11 @@
         "Hex": "FFFF00"
       },
       "SkinColor": {
-        "R": 0.901042,
-        "G": 0.882113,
-        "B": 0.836686,
-        "A": 1.0,
-        "Hex": "F4F2EC"
+        "R": 0.904661,
+        "G": 0.806952,
+        "B": 0.730461,
+        "A": 0.0,
+        "Hex": "F4E8DE"
       },
       "E_Rim_Channel": {
         "R": 1.0,
@@ -412,11 +412,11 @@
         "Hex": "FF0000"
       },
       "BaseColorTint": {
-        "R": 1.0,
-        "G": 1.0,
-        "B": 1.0,
+        "R": 0.921569,
+        "G": 0.937255,
+        "B": 0.94902,
         "A": 1.0,
-        "Hex": "FFFFFF"
+        "Hex": "F6F8FA"
       },
       "StockingColor": {
         "R": 0.03,
@@ -666,7 +666,7 @@
       "AniSwitch_ShadowColorBright": 1.0,
       "BreathePropotion": 0.5,
       "FrontShadowProcessOffset": 0.4,
-      "SolidShadow_RampPosition": 0.6,
+      "SolidShadow_RampPosition": 0.4,
       "E_FlowEffectEdgeSwitch": 0.0,
       "GradientPivort": 0.3,
       "UVGradientSkinInt": 0.5,
@@ -680,7 +680,7 @@
       "NormalChange": 1.0,
       "UVShadowInt": 0.4,
       "E_Hologram_MaskUVRotation": 0.0,
-      "SolidShadowView": 0.6,
+      "SolidShadowView": 0.8,
       "SolidShadowProcess": 0.1,
       "ToonMaxPower": 0.1,
       "AniScaleCenterY": 0.25,
@@ -699,7 +699,7 @@
       "AniSwitch_Face_Int": 5.0,
       "E_FlowEffectEdge_Strength": 0.2,
       "UvGradientProcess": 0.56,
-      "RampInt": 0.4,
+      "RampInt": 0.5,
       "ShakeNoiseTilingX": 1.0,
       "E_Rim_UseRim": 0.0,
       "PBRRate": 1.0,
@@ -762,7 +762,7 @@
       "UVScaleX": 1.0,
       "OpacityIntensity": 1.0,
       "E_Rim_UseTex": 1.0,
-      "SpecStrength": 0.05,
+      "SpecStrength": 0.7,
       "ExtraShadowWidth": 1.0,
       "BreatheFrequency": 0.0,
       "RandomNoise01Tiling": 2.0,
@@ -778,7 +778,7 @@
       "Effect_Progress": 0.0,
       "CustomLightDir": 0.0,
       "E_Hologram_Opactiy": 0.09,
-      "Param": 1.0,
+      "Param": 0.0,
       "UvGradientScale": 1.0,
       "ShakeNoiseX_Speed": 0.0,
       "FurLevel": 0.0,
@@ -793,7 +793,7 @@
       "AOIntensity": 1.0,
       "Max2": 3.0,
       "XHIntensity": 3.0,
-      "MaskShadowOffsetStrength": 0.25,
+      "MaskShadowOffsetStrength": 0.2,
       "FresnelRim_RimRange": 5.0,
       "SoundWaveSpeed02": -0.57,
       "Second_UseObjectScreenUV": 0.0,
@@ -817,7 +817,7 @@
       "ExtraShadowScale": 0.85,
       "E_FlowEffectEdgeColorSharp": 1.0,
       "AniScaleCenterX": 0.5,
-      "ShadowOffsetPower": 1.1,
+      "ShadowOffsetPower": 1.0,
       "MouthOffsetX": 0.0,
       "UseUpAndDown": 0.0,
       "E_Tex_UseVCMask_Set": 0.0,
@@ -854,7 +854,7 @@
       "XHPower": 2.2,
       "UseHairColor": -0.6,
       "UVGradientIn": 0.95,
-      "ShadowProcess": 0.7,
+      "ShadowProcess": 0.77381,
       "E_Motion_DitherMax": 0.5,
       "SDFSmoothness": 0.02,
       "FurUVScale": 1.0,
@@ -886,8 +886,7 @@
       "UseToonMask": true,
       "UseToonSpecular": true,
       "UseUVGradient": true,
-      "UseRampColor": true,
-      "IsHairHET": true
+      "UseRampColor": true
     },
     "Properties": {
       "Normal": {

@@ -12,12 +12,12 @@
     "PM_Diffuse": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
     "E_Tex_NoiseTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
     "EM": "Client/Content/Aki/Character/Role/CommonTexture/Eyes/T_HDMF_EM.T_HDMF_EM",
-    "Mask": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Eye_HET.T_NH_FemaleM_011Eye_HET",
+    "Mask": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Face_HET.T_NH_FemaleM_011Face_HET",
     "E_Hologram_NoiseTex": "Client/Content/Aki/Render/Common/T_Caustic_001.T_Caustic_001",
     "E_Hologram_MainTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
     "E_Hologram_MaskTex": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
     "Second_RGB": "Client/Content/Aki/Render/Common/T_DefaultColorWhite_D.T_DefaultColorWhite_D",
-    "T_NH_FemaleM_011Eye_HET": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Eye_HET.T_NH_FemaleM_011Eye_HET"
+    "T_NH_FemaleM_011Face_HET": "Client/Content/Aki/Character/NPC/FemaleM/Special/NH_FemaleM_011/Model/T_NH_FemaleM_011Face_HET.T_NH_FemaleM_011Face_HET"
   },
   "Parameters": {
     "BlendMode": 1,
@@ -213,11 +213,11 @@
         "Hex": "000000"
       },
       "ParallaxOffset": {
-        "R": 0.2,
+        "R": 0.0,
         "G": 0.0,
-        "B": 0.3,
+        "B": 0.0,
         "A": 0.0,
-        "Hex": "7C0095"
+        "Hex": "000000"
       },
       "Noise_UVSwitch": {
         "R": 1.0,
@@ -309,7 +309,7 @@
       "Desaturation": 0.5,
       "FresnelRim_Smooth": 0.0,
       "E_FlowEffectEdge_Strength": 0.2,
-      "ParallaxHeight": 0.2,
+      "ParallaxHeight": 0.25,
       "E_Rim_UseRim": 0.0,
       "NorWS/ZVector": 0.0,
       "E_Rim_Intensity": 1.0,
@@ -377,9 +377,7 @@
       "UseZVector": 0.0,
       "RefractionDepthBias": 0.0
     },
-    "Switches": {
-      "UseParallax": true
-    },
+    "Switches": {},
     "Properties": {
       "Normal": {
         "Expression": null,
@@ -445,7 +443,6 @@
       "bUsedWithMorphTargets": true,
       "bDisableCastDynamicShadows": true,
       "StateId": "FD25791D-42D246B7-81209EB0-1FE7A0B1",
-      "bHasStaticPermutationResource": true,
       "BasePropertyOverrides": {
         "BlendMode": "BLEND_Masked",
         "ShadingModel": "MSM_ToonCommon",
