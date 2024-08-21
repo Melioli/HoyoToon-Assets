@@ -1,12 +1,11 @@
 <br>
 <p align="center">
-    <a href="https://github.com/Melioli/HoyoToon"><img src="https://github.com/user-attachments/assets/50cb4766-93e2-42a2-ac60-ef11ee75ce4a" alt="HoyoToon"/></a>
+    <a href="https://github.com/Melioli/HoyoToon"><img src="https://github.com/user-attachments/assets/59985984-7abd-47d8-9955-3e00454ea1a2" alt="HoyoToon"/></a>
 </p><br>
 
 <p align="center">
     <img alt="Discord" src="https://img.shields.io/discord/1129811149416824934?style=for-the-badge"
 </p>
-
 ---
 
 ## Assets
