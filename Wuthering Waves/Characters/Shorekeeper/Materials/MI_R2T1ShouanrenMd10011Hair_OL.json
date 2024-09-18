@@ -1,0 +1,53 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Hair_LD.T_R2T1ShouanrenMd10011Hair_LD",
+    "T_R2T1ShouanrenMd10011Hair_LD": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Hair_LD.T_R2T1ShouanrenMd10011Hair_LD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.077087,
+        "G": 0.090824,
+        "B": 0.125,
+        "A": 1.0,
+        "Hex": "4E5563"
+      },
+      "OutlineColorTint": {
+        "R": 0.59375,
+        "G": 0.59375,
+        "B": 0.59375,
+        "A": 0.0,
+        "Hex": "CBCBCB"
+      }
+    },
+    "Scalars": {
+      "OutlineClipWidth": 1.5,
+      "OutlineHoldDistance": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseCurvature": false,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bDisableCastDynamicShadows": true,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

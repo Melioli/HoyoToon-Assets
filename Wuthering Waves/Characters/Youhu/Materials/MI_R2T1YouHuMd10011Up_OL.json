@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011Up_LD.T_R2T1YouHuMd10011Up_LD",
+    "T_R2T1YouHuMd10011Up_LD": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011Up_LD.T_R2T1YouHuMd10011Up_LD"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "OutlineColor": {
+        "R": 0.65625,
+        "G": 0.263184,
+        "B": 0.263184,
+        "A": 1.0,
+        "Hex": "D48C8C"
+      }
+    },
+    "Scalars": {
+      "OutlineClipWidth": 1.5,
+      "OutlineHoldDistance": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMainTex": true,
+      "UseVertexColorB_InnerOutline": true,
+      "UseVertexGreen_OutlineWidth": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "MSM_ToonOutline",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 250,
+        "bDisableCastDynamicShadows": true,
+        "bIsBackFace": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

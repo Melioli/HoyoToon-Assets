@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011Bangs_D.T_R2T1YouHuMd10011Bangs_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011Bangs_D.T_R2T1YouHuMd10011Bangs_D",
+    "T_R2T1YouHuMd10011Bangs_D": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011Bangs_D.T_R2T1YouHuMd10011Bangs_D",
+    "MaskTex": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011Bangs_HM.T_R2T1YouHuMd10011Bangs_HM",
+    "T_R2T1YouHuMd10011Bangs_HM": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011Bangs_HM.T_R2T1YouHuMd10011Bangs_HM",
+    "Ramp": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011_Skin.T_R2T1YouHuMd10011_Skin",
+    "T_R2T1YouHuMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleS/Youhu/R2T1YouHuMd10011/Model/T_R2T1YouHuMd10011_Skin.T_R2T1YouHuMd10011_Skin"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.155011,
+        "G": 0.145537,
+        "B": 0.223958,
+        "A": 0.0,
+        "Hex": "6E6A82"
+      },
+      "SkinColor": {
+        "R": 0.901042,
+        "G": 0.882113,
+        "B": 0.836686,
+        "A": 1.0,
+        "Hex": "F4F2EC"
+      }
+    },
+    "Scalars": {
+      "ShadowProcess": 0.651429,
+      "ShadowWidth": 0.03,
+      "MaskShadowOffsetStrength": 0.2,
+      "ShadowOffsetPower": 0.7,
+      "SpecStrength": 0.25,
+      "Param": 1.0,
+      "RampInt": 0.4,
+      "RampPosition": 0.3,
+      "SolidShadow_RampPosition": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseToonSpecular": true,
+      "UseRampColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonHair",
+        "OpacityMaskClipValue": 0.3333,
+        "RenderQueue": 195,
+        "bIsCharacterHairMat": true
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

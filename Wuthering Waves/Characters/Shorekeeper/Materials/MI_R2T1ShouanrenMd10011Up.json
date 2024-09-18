@@ -1,0 +1,125 @@
+{
+  "Textures": {
+    "MainTex": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up_D.T_R2T1ShouanrenMd10011Up_D",
+    "PM_Diffuse": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up02_D.T_R2T1ShouanrenMd10011Up02_D",
+    "T_R2T1ShouanrenMd10011Up_D": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up_D.T_R2T1ShouanrenMd10011Up_D",
+    "TypeMask": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up_ID.T_R2T1ShouanrenMd10011Up_ID",
+    "T_R2T1ShouanrenMd10011Up_ID": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up_ID.T_R2T1ShouanrenMd10011Up_ID",
+    "PM_Normals": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up_N.T_R2T1ShouanrenMd10011Up_N",
+    "Normal_Roughness_Metallic": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up_N.T_R2T1ShouanrenMd10011Up_N",
+    "Ramp": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011_Skin.T_R2T1ShouanrenMd10011_Skin",
+    "T_R2T1ShouanrenMd10011_Skin": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011_Skin.T_R2T1ShouanrenMd10011_Skin",
+    "R_Noise_A_Mask": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up02_D.T_R2T1ShouanrenMd10011Up02_D",
+    "T_R2T1ShouanrenMd10011Up02_D": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up02_D.T_R2T1ShouanrenMd10011Up02_D",
+    "Second_RGB": "Client/Content/Aki/Character/Role/FemaleM/Shouanren/R2T1ShouanrenMd10011/Model/T_R2T1ShouanrenMd10011Up02_D.T_R2T1ShouanrenMd10011Up02_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SubsurfaceColor": {
+        "R": 0.311412,
+        "G": 0.39318,
+        "B": 0.520833,
+        "A": 0.0,
+        "Hex": "98A8BF"
+      },
+      "Second_ColorTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Second_Refine": {
+        "R": 1.0,
+        "G": 3.5,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Second_UV": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 0.01,
+        "A": -0.005,
+        "Hex": "FFFF19"
+      },
+      "SecondTex_UVSwitch": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FF0000"
+      },
+      "SkinBaseColor": {
+        "R": 0.7,
+        "G": 0.685294,
+        "B": 0.65,
+        "A": 1.0,
+        "Hex": "DAD8D3"
+      },
+      "SkinBaseColorNight": {
+        "R": 0.905882,
+        "G": 0.886275,
+        "B": 0.811765,
+        "A": 0.0,
+        "Hex": "F5F2E9"
+      },
+      "SkinColor": {
+        "R": 0.904661,
+        "G": 0.879623,
+        "B": 0.854993,
+        "A": 0.0,
+        "Hex": "F4F1EE"
+      }
+    },
+    "Scalars": {
+      "ShadowProcess": 0.6,
+      "ShadowWidth": 0.03,
+      "SolidShadowStrength": 0.0,
+      "NormalStrength": 1.0,
+      "EdgeEnvBRDFIntensity": 0.0,
+      "MetalEmissionStrength": 2.0,
+      "MetalSpecularPower": 4.0,
+      "SpecularPower": 8.0,
+      "Param": 2.0,
+      "RampInt": 0.4,
+      "RampPosition": 0.5,
+      "SolidShadow_RampPosition": 0.4,
+      "Second_NoiseStrength": 0.15,
+      "Second_Height": -0.4,
+      "Second_HeightRadio": 0.6,
+      "LightOffset_Pitch": -15.0,
+      "LightOffset_Yaw": 0.0,
+      "UseLightOffset_Pitch_DYN": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseToonMask": true,
+      "UseMainTexA": true,
+      "UseNormalMap": true,
+      "UsePBR": true,
+      "使用PBRMask": true,
+      "UseRampColor": true,
+      "UseNoise": true,
+      "UseSecond": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "ShadingModel": "MSM_ToonCommon",
+        "OpacityMaskClipValue": 0.3333,
+        "bOverride_RenderQueue": true,
+        "RenderQueue": 195
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
