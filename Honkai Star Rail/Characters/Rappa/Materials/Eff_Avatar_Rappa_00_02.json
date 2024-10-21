@@ -79,6 +79,8 @@
       "_Cull": 0.0,
       "_DisTexG": 0.0,
       "_Disappear": 0.0,
+      "_DitherAlpha": 1.0,
+      "_Dither_On": 0.0,
       "_DstBlend": 10.0,
       "_HasDepthFetchOpt": 0.0,
       "_MaskChannelA": 0.0,
