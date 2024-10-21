@@ -2,7 +2,7 @@
   "m_Shader": {
     "m_FileID": 1,
     "m_PathID": -7016092255023927970,
-    "Name": "miHoYo/CRP_Character/CharacterBase",
+    "Name": "",
     "IsNull": false
   },
   "m_SavedProperties": {
@@ -167,6 +167,38 @@
           "Y": 0.0
         }
       },
+      "_MatCapMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
       "_MaterialValuesPackLUT": {
         "m_Texture": {
           "m_FileID": 0,
@@ -312,6 +344,7 @@
       "_CullMode": 2.0,
       "_DissolveDistortionIntensity": 0.01,
       "_DissolveMapAdd": 0.0,
+      "_DissolveMaskUVSet": 0.0,
       "_DissolveOutlineOffset": 0.0,
       "_DissolveOutlineSize1": 0.05,
       "_DissolveOutlineSize2": 0.0,
@@ -348,6 +381,8 @@
       "_HeatedHeight": 0.0,
       "_HeatedThreshould": 0.0,
       "_HideCharaParts": 0.0,
+      "_MatCapStrength": 1.0,
+      "_MatCapStrengthInShadow": 0.5,
       "_MoonHaloRange": 0.0,
       "_MoonUVType": 0.0,
       "_NormalScale": 1.0,
@@ -422,6 +457,9 @@
       "_RimWidth": 2.5,
       "_RimWidth0": 2.0,
       "_Rimintensity": 2.5,
+      "_SelfShadowDarken": 0.6,
+      "_SelfShadowDepthOffset": 0.0,
+      "_SelfShadowSampleOffset": 0.001,
       "_ShadowBoost": 0.0,
       "_ShadowBoostVal": 0.0,
       "_ShadowRamp": 1.0,
@@ -475,6 +513,7 @@
       "_StarMode": 0.0,
       "_StarrySky": 0.0,
       "_StencilComp": 8.0,
+      "_StencilMask": 255.0,
       "_StencilOP": 2.0,
       "_StencilRef": 9.0,
       "_StockDarkWidth": 0.5,
@@ -483,6 +522,7 @@
       "_Stockpower": 1.0,
       "_Stockpower1": 1.0,
       "_Stockthickness": 0.0,
+      "_UseMatcap": 0.0,
       "_UseMaterialValuesLUT": 1.0,
       "_UseMoonHalo": 0.0,
       "_UseNormalMap": 0.0,
@@ -702,6 +742,12 @@
         "g": 1.0,
         "b": 0.0,
         "a": 0.0
+      },
+      "_MatCapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
       },
       "_MoonAnim": {
         "r": 0.35,

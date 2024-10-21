@@ -110,6 +110,7 @@
       "_AddLightOffset": 0.5,
       "_AddLightStrengthen": 0.3,
       "_BackShadowRange": 0.0,
+      "_CharacterPerDrawEx": 1.0,
       "_DissolveDistortionIntensity": 0.01,
       "_DissolveMaskUVSet": 0.0,
       "_DissolveOutlineOffset": 0.0,
