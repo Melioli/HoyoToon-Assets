@@ -2,7 +2,7 @@
   "m_Shader": {
     "m_FileID": 0,
     "m_PathID": -6550255339530601893,
-    "Name": "miHoYo/CRP_Character/Character Stencil Clear",
+    "Name": "",
     "IsNull": false
   },
   "m_SavedProperties": {
@@ -52,6 +52,10 @@
       "_DissoveON": 0.0,
       "_DitherAlpha": 1.0,
       "_EnableAlphaCutoff": 0.0,
+      "_StencilComp": 8.0,
+      "_StencilMask": 255.0,
+      "_StencilOP": 2.0,
+      "_StencilRef": 0.0,
       "_UsingDitherAlpha": 0.0
     },
     "m_Colors": {

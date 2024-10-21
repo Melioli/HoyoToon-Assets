@@ -2,7 +2,7 @@
   "m_Shader": {
     "m_FileID": 5,
     "m_PathID": 5742752585497941953,
-    "Name": "miHoYo/CRP_Character/Character_Special_Weapon",
+    "Name": "",
     "IsNull": false
   },
   "m_SavedProperties": {
@@ -190,6 +190,7 @@
       "_DstBlend": 0.0,
       "_EnableBackRimLight": 0.0,
       "_FresnelColorStrength": 1.0,
+      "_GBufferStencilRef": 67.0,
       "_IOR": 1.4,
       "_IOR_CatHead": 1.4,
       "_NormalScale": 1.03,
@@ -198,6 +199,7 @@
       "_OutlineNormalFrom": 1.0,
       "_OutlinePolygonOffsetFactor": -0.6,
       "_OutlinePolygonOffsetUnits": -0.6,
+      "_OutlineStencilComp": 6.0,
       "_OutlineWidth": 0.08,
       "_ParallaxAlpha": 4.0,
       "_ParallaxScale": 0.5,
@@ -230,7 +232,7 @@
       "_SrcBlend": 1.0,
       "_StencilComp": 8.0,
       "_StencilOP": 2.0,
-      "_StencilRef": 16.0,
+      "_StencilRef": 4.0,
       "_UseNormalMap": 0.0,
       "_UseParallaxMap": 1.0,
       "_UsingDitherAlpha": 0.0,
