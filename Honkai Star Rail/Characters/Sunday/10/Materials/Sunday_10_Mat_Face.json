@@ -1,0 +1,430 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -7682587881522096242,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DissolveMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceExpression": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -878639406805420856,
+          "Name": "M_170_Lad_Face_ExpressionMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceMap": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 4621519982094589888,
+          "Name": "M_170_Lad_FaceMap_00",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -1680542688775416606,
+          "Name": "Avatar_Sunday_10_Face_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SpecialEyeShapeTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AddLightFeather": 0.03,
+      "_AddLightOffset": 0.5,
+      "_AddLightStrengthen": 0.3,
+      "_BackShadowRange": 0.0,
+      "_CharacterPerDrawEx": 1.0,
+      "_DissolveDistortionIntensity": 0.01,
+      "_DissolveMapAdd": 0.0,
+      "_DissolveMaskUVSet": 0.0,
+      "_DissolveOutlineOffset": 0.0,
+      "_DissolveOutlineSize1": 0.05,
+      "_DissolveOutlineSize2": 0.0,
+      "_DissolvePosMaskFilpOn": 0.0,
+      "_DissolvePosMaskGlobalOn": 0.0,
+      "_DissolvePosMaskOn": 0.0,
+      "_DissolvePosMaskWorldON": 0.0,
+      "_DissolveRate": 0.0,
+      "_DissolveShadowOff": 0.0,
+      "_DissolveUV": 0.0,
+      "_DissolveUseDirection": 0.0,
+      "_DissoveDirecMask": 2.0,
+      "_DissoveON": 0.0,
+      "_DitherAlpha": 1.0,
+      "_EmissionIntensity": 0.6,
+      "_EmissionThreshold": 0.8,
+      "_EnableAlphaCutoff": 0.0,
+      "_ExCheekIntensity": 0.0,
+      "_ExMapThreshold": 0.8,
+      "_ExShadowIntensity": 0.0,
+      "_ExShyIntensity": 0.0,
+      "_ExSpecularIntensity": 0.0,
+      "_EyeEffectProcs": 0.0,
+      "_EyeMaskStencilComp": 8.0,
+      "_EyeMaskStencilOp": 2.0,
+      "_EyeShadowAngleMin": 0.85,
+      "_EyeShadowMaxAngle": 1.0,
+      "_FixLipOutline": 0.0,
+      "_ForwardStencilComp": 8.0,
+      "_ForwardStencilOp": 0.0,
+      "_ForwardStencilRef": 1.0,
+      "_FresnelColorStrength": 1.0,
+      "_HairBlendSilhouette": 0.5,
+      "_HideCharaParts": 0.0,
+      "_IsMonster": 0.0,
+      "_LipLineFixMax": 2.0,
+      "_LipLineFixSC": 0.0,
+      "_LipLineFixScale": 1.0,
+      "_LipLineFixStart": 0.6,
+      "_LipLineFixThrd": 0.65,
+      "_NoseLinePower": 4.0,
+      "_Opaqueness": 1.0,
+      "_OutlineExtdMax": 18.0,
+      "_OutlineExtdMode": 0.0,
+      "_OutlineExtdStart": 6.5,
+      "_OutlineFixFront": 0.05,
+      "_OutlineFixRange1": 0.45,
+      "_OutlineFixRange2": 0.53,
+      "_OutlineFixRange3": 0.6,
+      "_OutlineFixRange4": 0.7,
+      "_OutlineFixSide": 0.643,
+      "_OutlineNormalFrom": 0.0,
+      "_OutlineOffset": 0.0,
+      "_OutlinePolygonOffsetFactor": 0.0,
+      "_OutlinePolygonOffsetUnits": 0.0,
+      "_OutlineStencilComp": 8.0,
+      "_OutlineStencilOp": 2.0,
+      "_OutlineWidth": 0.04,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnits": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_RimShadowCt": 1.0,
+      "_RimShadowFeather": 0.01,
+      "_RimShadowIntensity": 1.0,
+      "_RimShadowWidth": 1.0,
+      "_SelfShadowDepthOffset": 0.0,
+      "_SelfShadowSampleOffset": 0.0,
+      "_ShadowFeather": 0.0001,
+      "_ShadowThreshold": 0.637,
+      "_ShowPartID": 0.0,
+      "_SpecialEyeIntensity": 1.0,
+      "_SpecularIntensity": 4.4,
+      "_SpecularPow": 40.0,
+      "_SpecularThreshold": 0.126,
+      "_StencilComp": 8.0,
+      "_StencilEye": 17.0,
+      "_StencilFace": 16.0,
+      "_StencilMask": 254.0,
+      "_StencilOP": 2.0,
+      "_UseSpecialEye": 0.0,
+      "_UseUVChannel2": 1.0,
+      "_UsingDitherAlpha": 0.0,
+      "_XorShadowPartID": 0.0,
+      "_mBloomIntensity0": 0.02,
+      "_mBloomIntensity1": 0.3
+    },
+    "m_Colors": {
+      "_CharaWorldSpaceOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CustomMainLightDir": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_DarkColor": {
+        "r": 0.85,
+        "g": 0.85,
+        "b": 0.85,
+        "a": 1.0
+      },
+      "_DissolveCenter": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveComponent": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveDiretcionXYZ": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveOutlineColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DissolveOutlineColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveOutlineSmoothStep": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolvePosMaskPos": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_DissolvePosMaskRootOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveUVSpeed": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DistortionST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EnvColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ExCheekColor": {
+        "r": 1.0,
+        "g": 0.6367924,
+        "b": 0.6367924,
+        "a": 1.0
+      },
+      "_ExEyeColor": {
+        "r": 0.7607844,
+        "g": 0.7686275,
+        "b": 0.8000001,
+        "a": 1.0
+      },
+      "_ExShadowColor": {
+        "r": 0.38892847,
+        "g": 0.51930845,
+        "b": 0.7169812,
+        "a": 1.0
+      },
+      "_ExShyColor": {
+        "r": 1.0,
+        "g": 0.8820755,
+        "b": 0.8820755,
+        "a": 1.0
+      },
+      "_EyeBaseShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeCenter": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EyeEffectColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeSPColor1": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeSPColor2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EyeShadowColor": {
+        "r": 0.9019608,
+        "g": 0.8627451,
+        "b": 0.8627451,
+        "a": 1.0
+      },
+      "_FresnelBSI": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_FresnelColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_LipLinefixColor": {
+        "r": 0.6509434,
+        "g": 0.32736626,
+        "b": 0.26099145,
+        "a": 1.0
+      },
+      "_MainMaps_ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_NoseLineColor": {
+        "r": 0.5943396,
+        "g": 0.49061054,
+        "b": 0.49061054,
+        "a": 1.0
+      },
+      "_OutlineColor": {
+        "r": 0.3207547,
+        "g": 0.24093184,
+        "b": 0.2239231,
+        "a": 1.0
+      },
+      "_RimShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RimShadowOffset": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ShadowColor": {
+        "r": 0.9716981,
+        "g": 0.8987383,
+        "b": 0.87086153,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_VertexShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Sunday_10_Mat_Face",
+  "Name": "Sunday_10_Mat_Face"
+}
